@@ -1,6 +1,5 @@
 {
   "version": 16,
-  "exportedAt": "2026-07-13T10:41:33.689Z",
   "tripTitle": "Japón 2026",
   "localCurrency": "EUR",
   "foreignCurrency": "JPY",
@@ -725,6 +724,13 @@
       "lat": 35.6984,
       "lng": 139.773,
       "tags": []
+    },
+    {
+      "id": "77089ce9-cf36-4c86-abb3-2be72f6aa2c8",
+      "name": "Test",
+      "address": "",
+      "note": "",
+      "tags": []
     }
   ],
   "tags": [
@@ -813,5 +819,6 @@
     }
   ],
   "routeProfile": "driving",
-  "routeVisualization": "streets"
+  "routeVisualization": "streets",
+  "exportedAt": "2026-07-13T14:53:55.866Z"
 }
