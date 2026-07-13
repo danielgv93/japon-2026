@@ -1,0 +1,817 @@
+{
+  "version": 16,
+  "exportedAt": "2026-07-13T10:41:33.689Z",
+  "tripTitle": "Japón 2026",
+  "localCurrency": "EUR",
+  "foreignCurrency": "JPY",
+  "exchangeRate": 0.0054,
+  "exchangeRateDate": "2026-07-10",
+  "tripNotes": "",
+  "days": [
+    {
+      "id": "c1818eef-cc77-4dd3-b679-227dd0ac5897",
+      "date": "2026-11-23",
+      "title": "Osaka",
+      "spots": [],
+      "collapsed": true
+    },
+    {
+      "id": "dc226f2b-f402-40ee-aeae-fc803818f698",
+      "date": "2026-11-23",
+      "title": "Backlog Kioto",
+      "spots": [
+        {
+          "id": "185ae69a-1628-4be3-88b8-8d40f059a585",
+          "name": "Okazaki-jinja",
+          "address": "岡崎神社, 丸太町通, 岡崎天王町, 永観堂町飛地, 左京区, Kioto, Prefectura de Kioto, 606-8335, Japón",
+          "note": "Es el pequeño santuario de los conejos. La visita al recinto es gratuita; para amuletos, omikuji o goshuin aproximadamente entre las 09:00 y las 17:00.",
+          "tags": [
+            "opcional"
+          ],
+          "lat": 35.0173284,
+          "lng": 135.7889307,
+          "display_name": "岡崎神社, 丸太町通, 岡崎天王町, 永観堂町飛地, 左京区, Kioto, Prefectura de Kioto, 606-8335, Japón",
+          "category": "templos",
+          "openingTime": "09:00",
+          "closingTime": "17:00"
+        },
+        {
+          "id": "0b1fe722-ccd2-478f-b389-cb5a2610c74f",
+          "name": "Goō-jinja",
+          "address": "桜鶴円町, 上京区, Kioto, Prefectura de Kioto, 602-8021, Japón",
+          "note": "Pequeño santuario de los jabalíes junto al Palacio Imperial.\nGoshuin y amuletos: 09:30–16:30",
+          "tags": [
+            "opcional"
+          ],
+          "lat": 35.021273,
+          "lng": 135.759234,
+          "display_name": "桜鶴円町, 上京区, Kioto, Prefectura de Kioto, 602-8021, Japón",
+          "category": "templos",
+          "openingTime": "06:00",
+          "closingTime": "21:00"
+        },
+        {
+          "id": "4a6b517c-3ce1-4a8b-ae1d-dd70105c75bf",
+          "name": "Templo Nishi Honganji",
+          "address": "下京区, Kioto, Prefectura de Kioto, Japón",
+          "note": "Servicio matinal de las 06:00.",
+          "tags": [
+            "opcional"
+          ],
+          "lat": 34.9877014,
+          "lng": 135.7553899,
+          "display_name": "下京区, Kioto, Prefectura de Kioto, Japón",
+          "category": "templos",
+          "openingTime": "05:30",
+          "closingTime": "17:00"
+        },
+        {
+          "id": "7f143bc5-a7b2-42f8-ac1b-afe3cf7197ca",
+          "name": "Santuario Shimogamo",
+          "address": "下鴨神社, 左京区下鴨泉川59, 下鴨東通, 田中馬場町, 吉田上大路町, 左京区, Kioto, Prefectura de Kioto, 606-0801, Japón",
+          "note": "Santuario en un bosque antiguo. Festival shimogamo, mirar fechas",
+          "tags": [
+            "opcional"
+          ],
+          "lat": 35.0369916,
+          "lng": 135.7724506,
+          "display_name": "下鴨神社, 左京区下鴨泉川59, 下鴨東通, 田中馬場町, 吉田上大路町, 左京区, Kioto, Prefectura de Kioto, 606-0801, Japón",
+          "category": "templos",
+          "openingTime": "06:30",
+          "closingTime": "17:00"
+        },
+        {
+          "id": "682d6790-0469-4802-a92c-921f28629a4e",
+          "name": "TeamLab Biovortex Kyoto",
+          "address": "teamLab BioVortex, 八条通, 東之町, 下京区, Kioto, Prefectura de Kioto, 601-8006, Japón",
+          "note": "3,400 - 4,400",
+          "tags": [
+            "opcional",
+            "💵 efectivo",
+            "💳 tarjeta"
+          ],
+          "lat": 34.9837455,
+          "lng": 135.7654182,
+          "display_name": "teamLab BioVortex, 八条通, 東之町, 下京区, Kioto, Prefectura de Kioto, 601-8006, Japón",
+          "category": "actividad",
+          "cost": 4400,
+          "openingTime": "09:00",
+          "closingTime": "19:30"
+        },
+        {
+          "id": "0a87e69c-a1f0-4772-a4d6-6e9c20ae5b16",
+          "name": "Templo Tōfuku-ji",
+          "address": "Tofukuji, 本町通, 本町十四丁目, 東九条東松ノ木町, 東山区, Kioto, Prefectura de Kioto, 605-0981, Japón",
+          "note": "Espectacular por sus arces y el puente Tsūtenkyō, pero muy concurrido. | Tsūtenkyō 08:30–16:00; jardín Hōjō 09:00–16:00 | sūtenkyō y Kaizandō: ¥1.000.\nJardín Hōjō: ¥600",
+          "tags": [
+            "opcional",
+            "🍁",
+            "💵 efectivo"
+          ],
+          "lat": 34.9812619,
+          "lng": 135.7700213,
+          "display_name": "Tofukuji, 本町通, 本町十四丁目, 東九条東松ノ木町, 東山区, Kioto, Prefectura de Kioto, 605-0981, Japón",
+          "category": "templos",
+          "cost": 1600,
+          "openingTime": "08:30",
+          "closingTime": "16:00"
+        },
+        {
+          "id": "33cc4a3e-0b11-4667-804f-1301d5e894ee",
+          "name": "Templo Chion-in",
+          "address": "知恩院, 知恩院通, 林下町, 辰巳町, 東山区, Kioto, Prefectura de Kioto, 605-0062, Japón",
+          "note": "Gran templo monumental cerca de Gion; interesante si confirma iluminación nocturna.\n| \nLa iluminación otoñal de 2026 todavía no está anunciada. En 2025 fue de 17:30 a 21:30, última entrada 21:00, y costó ¥800;",
+          "tags": [
+            "opcional",
+            "🍁",
+            "💵 efectivo"
+          ],
+          "lat": 35.0056216,
+          "lng": 135.7835389,
+          "display_name": "知恩院, 知恩院通, 林下町, 辰巳町, 東山区, Kioto, Prefectura de Kioto, 605-0062, Japón",
+          "category": "templos",
+          "openingTime": "09:00",
+          "closingTime": "16:00",
+          "cost": 500
+        },
+        {
+          "id": "02e2e10d-cd0a-41ec-942c-1288bb373dce",
+          "name": "Paseo del filósofo",
+          "address": "Kioto, Prefectura de Kioto, Japón",
+          "note": "Camino junto a un canal; destaca más por los cerezos que por el otoño",
+          "tags": [
+            "opcional"
+          ],
+          "lat": 35.0115754,
+          "lng": 135.7681441,
+          "display_name": "Kioto, Prefectura de Kioto, Japón",
+          "category": "paseo",
+          "openingTime": "00:00",
+          "closingTime": "00:00"
+        },
+        {
+          "id": "0a932717-f5ba-4aeb-8721-10150800b236",
+          "name": "Nanzen-ji",
+          "address": "Nanzen-ji, 極楽橋, 永観堂町, 永観堂町飛地, 左京区, Kioto, Prefectura de Kioto, 606-8444, Japón",
+          "note": "Gran templo zen con puerta monumental y acueducto de ladrillo. | \nRecinto gratis; Hōjō ¥600; Sanmon ¥600",
+          "tags": [
+            "opcional",
+            "💵 efectivo"
+          ],
+          "lat": 35.0115254,
+          "lng": 135.7927213,
+          "display_name": "Nanzen-ji, 極楽橋, 永観堂町, 永観堂町飛地, 左京区, Kioto, Prefectura de Kioto, 606-8444, Japón",
+          "category": "templos",
+          "cost": 1200,
+          "openingTime": "08:40",
+          "closingTime": "16:40"
+        },
+        {
+          "id": "faa17911-27d7-4761-a4d0-0f2a1ea3c5b2",
+          "name": "Eikan-dō",
+          "address": "永観堂 (禅林寺), 鹿ヶ谷通, 永観堂町, 永観堂町飛地, 左京区, Kioto, Prefectura de Kioto, 606-8444, Japón",
+          "note": "Uno de los lugares más famosos de Kioto para el momiji, pero muy concurrido. | Durante el otoño funciona con sesiones especiales | Visita diurna otoñal: 09:00–17:00, última entrada 16:00, ¥1.000.\nIluminación: 17:30–21:00, última entrada 20:30, ¥700",
+          "tags": [
+            "opcional",
+            "🍁",
+            "💵 efectivo"
+          ],
+          "lat": 35.0147052,
+          "lng": 135.7938081,
+          "display_name": "永観堂 (禅林寺), 鹿ヶ谷通, 永観堂町, 永観堂町飛地, 左京区, Kioto, Prefectura de Kioto, 606-8444, Japón",
+          "category": "templos",
+          "cost": 1000,
+          "openingTime": "09:00",
+          "closingTime": "16:00"
+        },
+        {
+          "id": "26d79e18-d5b8-4ff2-872b-6d8e01dcd5a8",
+          "name": "Santuario Nishiki Tenmangū",
+          "address": "中之町, 中京区, Kioto, Prefectura de Kioto, 604-8042, Japón",
+          "note": "Está al final de las galerías comerciales de Nishiki y Shinkyōgoku",
+          "tags": [
+            "opcional"
+          ],
+          "lat": 35.004407,
+          "lng": 135.767632,
+          "display_name": "中之町, 中京区, Kioto, Prefectura de Kioto, 604-8042, Japón",
+          "category": "templos",
+          "openingTime": "08:00",
+          "closingTime": "20:00"
+        },
+        {
+          "id": "bcee4748-1cb8-4004-afa0-4cfe4defce1d",
+          "name": "Yasui Konpiragū",
+          "address": "下弁天町, 辰巳町, 東山区, Kioto, Prefectura de Kioto, 605-8505, Japón",
+          "note": "Piedra para “cortar malos vínculos y atraer buenos vínculos”. | Recinto abierto 24 horas; oficina 09:00–17:30",
+          "tags": [
+            "opcional"
+          ],
+          "category": "templos",
+          "lat": 34.9993474,
+          "lng": 135.7777762,
+          "display_name": "下弁天町, 辰巳町, 東山区, Kioto, Prefectura de Kioto, 605-8505, Japón",
+          "openingTime": "00:00",
+          "closingTime": "00:00"
+        },
+        {
+          "id": "79479eb7-df72-457d-b526-a0882392197c",
+          "name": "Higashi Hongan-ji",
+          "address": "東本願寺, 室町通, 西境町, 下京区, Kioto, Prefectura de Kioto, 600-8218, Japón",
+          "note": "",
+          "tags": [
+            "opcional"
+          ],
+          "lat": 34.9912258,
+          "lng": 135.7583925,
+          "display_name": "東本願寺, 室町通, 西境町, 下京区, Kioto, Prefectura de Kioto, 600-8218, Japón",
+          "category": "templos",
+          "openingTime": "06:20",
+          "closingTime": "16:30"
+        },
+        {
+          "id": "e3cdaea4-0051-47af-a608-b037828a2b96",
+          "name": "Templo Ryoan-ji",
+          "address": "龍安寺, 衣笠宇多野線, 龍安寺池ノ下町, 花園岡ノ本町, 右京区, Kioto, Prefectura de Kioto, 616-0000, Japón",
+          "note": "",
+          "tags": [
+            "opcional",
+            "💵 efectivo"
+          ],
+          "lat": 35.033463,
+          "lng": 135.7180884,
+          "display_name": "龍安寺, 衣笠宇多野線, 龍安寺池ノ下町, 花園岡ノ本町, 右京区, Kioto, Prefectura de Kioto, 616-0000, Japón",
+          "category": "templos",
+          "cost": 600,
+          "openingTime": "08:00",
+          "closingTime": "16:30",
+          "mapEnabled": true
+        },
+        {
+          "id": "b9c62a6f-c927-47d9-ad59-33d083f921b4",
+          "name": "Templo Ninna-ji",
+          "address": "仁和寺, 33, 御室大内, 花園岡ノ本町, 右京区, Kioto, Prefectura de Kioto, 616-8092, Japón",
+          "note": "",
+          "tags": [
+            "opcional",
+            "💵 efectivo"
+          ],
+          "lat": 35.0298117,
+          "lng": 135.7141499,
+          "display_name": "仁和寺, 33, 御室大内, 花園岡ノ本町, 右京区, Kioto, Prefectura de Kioto, 616-8092, Japón",
+          "category": "templos",
+          "openingTime": "09:00",
+          "closingTime": "17:00",
+          "cost": 800,
+          "mapEnabled": true
+        }
+      ],
+      "collapsed": false
+    },
+    {
+      "id": "10ca4125-9348-4120-976e-df47cbb86590",
+      "date": "2026-11-24",
+      "title": "Kyoto - Fushimi Inari",
+      "spots": [
+        {
+          "id": "a252b19f-1c1c-4509-b35d-7ea9d737e881",
+          "name": "Hotel kioto",
+          "address": "西京極東向河原町, 右京区, Kioto, Prefectura de Kioto, 616-0000, Japón",
+          "note": "",
+          "tags": [],
+          "lat": 34.9857327,
+          "lng": 135.7190949,
+          "display_name": "西京極東向河原町, 右京区, Kioto, Prefectura de Kioto, 616-0000, Japón",
+          "category": "hotel"
+        },
+        {
+          "id": "c693d188-1478-4b36-b11d-d18eab923c90",
+          "name": "Fushimi Inari",
+          "address": "Fushimi-Inari, 稲荷停車場線, 深草一ノ坪町, Fushimi, Kioto, Prefectura de Kioto, 612-0007, Japón",
+          "note": "Miles de torii rojos por la montaña y santuarios dedicados a Inari. Subiría solo hasta Yotsutsuji | Templo 08:30 a 16:30",
+          "tags": [
+            "obligatorio"
+          ],
+          "lat": 34.9688922,
+          "lng": 135.7692574,
+          "display_name": "Fushimi-Inari, 稲荷停車場線, 深草一ノ坪町, Fushimi, Kioto, Prefectura de Kioto, 612-0007, Japón",
+          "category": "sight",
+          "openingTime": "00:00",
+          "closingTime": "00:00"
+        },
+        {
+          "id": "9b7d0b16-99ce-409e-b1f5-d8a29cdef79b",
+          "name": "Sekiho-ji",
+          "address": "石峰寺, 千本鳥居, 深草石峰寺山町, Fushimi, Kioto, Prefectura de Kioto, 612-0807, Japón",
+          "note": "Esta a 5-10 minutos de Fushimi Inari\nTranquilo templo budista zen de la escuela Ōbaku ubicado en Kioto, Japón, famoso por sus estatuas de piedra y su vínculo con el célebre pintor Itō Jakuchū",
+          "tags": [
+            "opcional",
+            "💵 efectivo"
+          ],
+          "category": "templos",
+          "cost": 300,
+          "openingTime": "09:00",
+          "closingTime": "16:00",
+          "lat": 34.9647195,
+          "lng": 135.774862,
+          "display_name": "石峰寺, 千本鳥居, 深草石峰寺山町, Fushimi, Kioto, Prefectura de Kioto, 612-0807, Japón"
+        },
+        {
+          "id": "e8203b37-53a0-4065-8842-432fc1b5ecf8",
+          "name": "Daigo-ji",
+          "address": "下醍醐, 醍醐大津線, 醍醐伽藍町, Fushimi, Kioto, Prefectura de Kioto, 601-1351, Japón",
+          "note": "Uno de los conjuntos más bonitos para el momiji: pagoda, estanque y Bentendō rodeado de arces.",
+          "tags": [
+            "obligatorio",
+            "💵 efectivo",
+            "💳 tarjeta"
+          ],
+          "lat": 34.9513438,
+          "lng": 135.8209305,
+          "display_name": "下醍醐, 醍醐大津線, 醍醐伽藍町, Fushimi, Kioto, Prefectura de Kioto, 601-1351, Japón",
+          "category": "templos",
+          "openingTime": "09:00",
+          "closingTime": "16:30",
+          "cost": 1500
+        },
+        {
+          "id": "7981d898-944b-4bc8-ac37-929f5890c688",
+          "name": "Sanjusangendo",
+          "address": "博物館三十三間堂前, 七条通, 西之門町, 辰巳町, 東山区, Kioto, Prefectura de Kioto, 605-0932, Japón",
+          "note": "Gran sala con 1.001 figuras de Kannon y esculturas de Fūjin y Raijin; la visita importante es el interior.",
+          "tags": [
+            "semiobligatorio",
+            "💵 efectivo"
+          ],
+          "lat": 34.9890794,
+          "lng": 135.771742,
+          "display_name": "博物館三十三間堂前, 七条通, 西之門町, 辰巳町, 東山区, Kioto, Prefectura de Kioto, 605-0932, Japón",
+          "openingTime": "09:00",
+          "closingTime": "15:30",
+          "cost": 600,
+          "category": "templos"
+        },
+        {
+          "id": "s9",
+          "name": "Ninenzaka y Sannenzaka",
+          "address": "Ninenzaka, Kyoto",
+          "note": "Calles históricas con casas tradicionales, tiendas y cafeterías. Mejor antes de que cierren.",
+          "lat": 34.9989,
+          "lng": 135.7828,
+          "tags": [
+            "obligatorio"
+          ],
+          "display_name": "Ninenzaka, Kyoto",
+          "category": "zona-comercial"
+        },
+        {
+          "id": "s8",
+          "name": "Kiyomizu-dera",
+          "address": "Kiyomizu-dera, Kyoto",
+          "note": "https://www.kiyomizudera.or.jp/en/visit/special_night_viewing\nEl jardín Jojuin abierto por momiji de 18:00 a 20:30",
+          "lat": 34.9949,
+          "lng": 135.785,
+          "tags": [
+            "obligatorio",
+            "🍁",
+            "💵 efectivo"
+          ],
+          "display_name": "Kiyomizu-dera, Kyoto",
+          "category": "templos",
+          "openingTime": "06:00",
+          "closingTime": "21:00",
+          "cost": 500
+        },
+        {
+          "id": "ee693029-49bd-44f1-9f8c-69db16b591e3",
+          "name": "Templo Kodai-ji",
+          "address": "高台寺, 維新の道, 八坂上町, 辰巳町, 東山区, Kioto, Prefectura de Kioto, 605-0826, Japón",
+          "note": "Jardines, estanque con reflejos, pequeño bambusal y recorrido iluminado.\nAdultos: 600 yenes | (Kōdai-ji + Entoku-in + Museo Shō): 1.200 yenes |",
+          "tags": [
+            "opcional",
+            "🍁",
+            "💵 efectivo"
+          ],
+          "lat": 35.0003033,
+          "lng": 135.7805956,
+          "display_name": "高台寺, 維新の道, 八坂上町, 辰巳町, 東山区, Kioto, Prefectura de Kioto, 605-0826, Japón",
+          "category": "templos",
+          "cost": 1200,
+          "openingTime": "09:00",
+          "closingTime": "21:30"
+        },
+        {
+          "id": "8906958f-7a3d-4fb8-9a35-60c7c187e58f",
+          "name": "Santuario Yasaka-jinja",
+          "address": "八坂神社, 東大路通, 祇園町北側, 辰巳町, 東山区, Kioto, Prefectura de Kioto, 605-0062, Japón",
+          "note": "",
+          "tags": [
+            "opcional"
+          ],
+          "lat": 35.0036027,
+          "lng": 135.7782611,
+          "display_name": "八坂神社, 東大路通, 祇園町北側, 辰巳町, 東山区, Kioto, Prefectura de Kioto, 605-0062, Japón",
+          "category": "templos"
+        },
+        {
+          "id": "71fbe2d9-3906-4b2c-a932-10a97328696e",
+          "name": "Shijo y Kawaramachi",
+          "address": "四条河原町, 河原町通, 塩屋町, 中京区, Kioto, Prefectura de Kioto, 604-8027, Japón",
+          "note": "Principal zona comercial y de ocio del centro: grandes almacenes, calles comerciales, restaurantes, bares y accesos hacia Ponto-chō y Gion.",
+          "tags": [
+            "semiobligatorio"
+          ],
+          "lat": 35.004824,
+          "lng": 135.7693689,
+          "display_name": "四条河原町, 河原町通, 塩屋町, 中京区, Kioto, Prefectura de Kioto, 604-8027, Japón",
+          "category": "zona-comercial"
+        },
+        {
+          "id": "s10",
+          "name": "Gion - Miyagawacho",
+          "address": "Gion, Kyoto",
+          "note": "Paseo nocturno",
+          "lat": 35.0037,
+          "lng": 135.7762,
+          "tags": [
+            "semiobligatorio"
+          ],
+          "display_name": "Gion, Kyoto",
+          "category": "zona-comercial"
+        },
+        {
+          "id": "aff37df8-f8ba-40e2-900d-3639b8325e76",
+          "name": "Ponto-chō",
+          "address": "先斗町, 先斗町通, 鍋屋町, 中京区, Kioto, Prefectura de Kioto, 604-8023, Japón",
+          "note": "paseo y cena",
+          "tags": [
+            "opcional"
+          ],
+          "lat": 35.0042456,
+          "lng": 135.7712126,
+          "display_name": "先斗町, 先斗町通, 鍋屋町, 中京区, Kioto, Prefectura de Kioto, 604-8023, Japón",
+          "category": "zona-comercial"
+        }
+      ],
+      "collapsed": true
+    },
+    {
+      "id": "f7572d2b-f871-444d-9048-91ed333caa2a",
+      "date": "2026-11-25",
+      "title": "Kyoto - Templo dorado (Kinkaku-ji)",
+      "spots": [
+        {
+          "id": "8c3815d2-9660-4ddb-8d81-28ed99fe624f",
+          "name": "Hotel kioto",
+          "address": "西京極東向河原町, 右京区, Kioto, Prefectura de Kioto, 616-0000, Japón",
+          "note": "",
+          "tags": [],
+          "lat": 34.9857327,
+          "lng": 135.7190949,
+          "display_name": "西京極東向河原町, 右京区, Kioto, Prefectura de Kioto, 616-0000, Japón",
+          "category": "hotel"
+        },
+        {
+          "id": "81994398-bde9-4aec-aa9c-ed4c180fc0e6",
+          "name": "Mercado Tenjin-san",
+          "address": "北野天満宮前, 今出川通, 西今小路町, 上京区, Kioto, Prefectura de Kioto, 602-8386, Japón",
+          "note": "Mercado mensual con comida, antigüedades, ropa, cerámica y objetos usados.",
+          "tags": [
+            "opcional",
+            "actividad",
+            "💵 efectivo"
+          ],
+          "lat": 35.0277915,
+          "lng": 135.7354474,
+          "display_name": "北野天満宮前, 今出川通, 西今小路町, 上京区, Kioto, Prefectura de Kioto, 602-8386, Japón",
+          "category": "zona-comercial",
+          "openingTime": "07:00",
+          "closingTime": "16:00"
+        },
+        {
+          "id": "b6c9d256-4bc6-49cb-b37c-73b3b3a65570",
+          "name": "Daruma-dera",
+          "address": "行衛町, 上京区, Kioto, Prefectura de Kioto, 604-8463, Japón",
+          "note": "Entrada al recinto y Salón Daruma: Gratis | \nEntrada al Salón Principal y Jardines: 300 yenes",
+          "tags": [
+            "opcional",
+            "💵 efectivo"
+          ],
+          "category": "templos",
+          "lat": 35.020204,
+          "lng": 135.733998,
+          "display_name": "行衛町, 上京区, Kioto, Prefectura de Kioto, 604-8463, Japón",
+          "openingTime": "09:00",
+          "closingTime": "16:30",
+          "cost": 300
+        },
+        {
+          "id": "1998e9a0-a7b1-462d-8403-7c6da26157d7",
+          "name": "Templo dorado - Kinkaku-ji",
+          "address": "Kinkaku-ji, 金閣寺町, 馬喰町, 北区, Kioto, Prefectura de Kioto, 603-8361, Japón",
+          "note": "Pabellón recubierto de oro reflejado en el estanque",
+          "tags": [
+            "obligatorio",
+            "💵 efectivo"
+          ],
+          "lat": 35.0395293,
+          "lng": 135.7295373,
+          "display_name": "Kinkaku-ji, 金閣寺町, 馬喰町, 北区, Kioto, Prefectura de Kioto, 603-8361, Japón",
+          "openingTime": "09:00",
+          "closingTime": "16:30",
+          "category": "templos",
+          "cost": 500
+        },
+        {
+          "id": "92a361e1-661a-4332-83bd-688e8ee33a18",
+          "name": "Templo Genkō-an",
+          "address": "鷹峯源光庵前, 千本通, 鷹峯上ノ町, 北区, Kioto, Prefectura de Kioto, 603-8445, Japón",
+          "note": "Ventanas redonda y cuadrada, jardín enmarcado por el momiji y techo procedente del castillo de Fushimi",
+          "tags": [
+            "obligatorio",
+            "💵 efectivo"
+          ],
+          "lat": 35.0543227,
+          "lng": 135.7323658,
+          "display_name": "鷹峯源光庵前, 千本通, 鷹峯上ノ町, 北区, Kioto, Prefectura de Kioto, 603-8445, Japón",
+          "category": "templos",
+          "openingTime": "09:00",
+          "closingTime": "16:30",
+          "cost": 500
+        },
+        {
+          "id": "ab3e1716-3404-477f-ba82-d47a6dc7331e",
+          "name": "Templo Daitoku-ji",
+          "address": "Daitokuji, 北大路通, 紫野東野町, 馬喰町, 北区, Kioto, Prefectura de Kioto, 603-8214, Japón",
+          "note": "Habria que saber a que templo queremos ir. | \nŌbai-in(apertura especial de otoño) y Kōrin-in (jardin zen) muy bonitos por el momiji.\nEl precio y horario depende del templo",
+          "tags": [
+            "comida",
+            "opcional",
+            "🍁",
+            "💵 efectivo"
+          ],
+          "lat": 35.0421963,
+          "lng": 135.7441525,
+          "display_name": "Daitokuji, 北大路通, 紫野東野町, 馬喰町, 北区, Kioto, Prefectura de Kioto, 603-8214, Japón",
+          "category": "templos",
+          "cost": 1000,
+          "openingTime": "09:00",
+          "closingTime": "16:30"
+        },
+        {
+          "id": "bedaf789-c34e-47a9-abdc-f972cf98eca1",
+          "name": "Castillo de Nijo",
+          "address": "二条城, 神泉苑通, 門前町, 中京区, Kioto, Prefectura de Kioto, 604-8375, Japón",
+          "note": "Suelo de ruiseñor | \nHorario diurno: 8:45 – 17:00 ->  1.300\nHorario nocturno (Momiji / Iluminación): 18:00 – 22:00  -> 2000-2400",
+          "tags": [
+            "obligatorio",
+            "🍁",
+            "💵 efectivo",
+            "💳 tarjeta"
+          ],
+          "lat": 35.0140076,
+          "lng": 135.7485369,
+          "display_name": "二条城, 神泉苑通, 門前町, 中京区, Kioto, Prefectura de Kioto, 604-8375, Japón",
+          "category": "castillo",
+          "cost": 2400,
+          "openingTime": "08:45",
+          "closingTime": "16:10"
+        },
+        {
+          "id": "b32f43a6-75aa-42ad-a73f-413578a62ad2",
+          "name": "Gion Corner",
+          "address": "ギオンコーナー, 花見小路, 祇園町南側, 辰巳町, 東山区, Kioto, Prefectura de Kioto, 605-0074, Japón",
+          "note": "5.500 - 6.000",
+          "tags": [
+            "💵 efectivo",
+            "💳 tarjeta"
+          ],
+          "lat": 35.0013741,
+          "lng": 135.7756711,
+          "display_name": "ギオンコーナー, 花見小路, 祇園町南側, 辰巳町, 東山区, Kioto, Prefectura de Kioto, 605-0074, Japón",
+          "cost": 6600,
+          "openingTime": "19:00",
+          "closingTime": "20:00",
+          "category": "actividad"
+        }
+      ],
+      "collapsed": true
+    },
+    {
+      "id": "274b7a75-f0a2-46cd-be0e-bef03a6a478f",
+      "date": "2026-11-26",
+      "title": "Kyoto - Himeji/Universal",
+      "spots": [
+        {
+          "id": "59ae3841-565c-49b1-99b8-7b0803d9853d",
+          "name": "Himeji",
+          "address": "Himeji, Prefectura de Hyōgo, Japón",
+          "note": "Horario nocturno en la plaza: Generalmente de 17:45 a 21:15",
+          "tags": [
+            "obligatorio"
+          ],
+          "lat": 34.8153529,
+          "lng": 134.6854793,
+          "display_name": "Himeji, Prefectura de Hyōgo, Japón",
+          "cost": 2600,
+          "openingTime": "09:00",
+          "closingTime": "17:00",
+          "category": "castillo"
+        },
+        {
+          "id": "d77fc3fa-bdc4-4f60-9f10-29d8e7fe40b4",
+          "name": "Universal Osaka",
+          "address": "Universal Studios Japan, 此花区, Osaka, Prefectura de Osaka, Japón",
+          "note": "",
+          "tags": [
+            "obligatorio"
+          ],
+          "lat": 34.6656393,
+          "lng": 135.4324527,
+          "display_name": "Universal Studios Japan, 此花区, Osaka, Prefectura de Osaka, Japón",
+          "category": "parque-de-atracciones"
+        },
+        {
+          "id": "a10dcfce-36c1-4b11-a949-675f12334703",
+          "name": "Templo Tō-ji",
+          "address": "東寺, 九条通り, 西九条比永城町, 南区, Kioto, Prefectura de Kioto, 601-8438, Japón",
+          "note": "Pagoda 5 pisos. Precio de dia 500 y 1000 la iluminación nocturna \nIluminacion: 18:00–21:30, última entrada 21:00",
+          "tags": [
+            "opcional",
+            "🍁",
+            "💵 efectivo"
+          ],
+          "lat": 34.9806311,
+          "lng": 135.7477192,
+          "display_name": "東寺, 九条通り, 西九条比永城町, 南区, Kioto, Prefectura de Kioto, 601-8438, Japón",
+          "category": "templos",
+          "cost": 1000,
+          "openingTime": "08:00",
+          "closingTime": "21:30",
+          "mapEnabled": true
+        }
+      ],
+      "collapsed": true
+    },
+    {
+      "id": "08a18522-efc2-435a-ae8a-c5bb0d71e654",
+      "date": "2026-11-27",
+      "title": "Kyoto - Hiroshima y Miyayima",
+      "spots": []
+    }
+  ],
+  "backlog": [
+    {
+      "id": "s1",
+      "name": "Meiji Jingu",
+      "address": "Meiji Jingu, Tokyo",
+      "note": "Llegar temprano",
+      "lat": 35.6764,
+      "lng": 139.6993,
+      "tags": []
+    },
+    {
+      "id": "s2",
+      "name": "Takeshita Street",
+      "address": "Harajuku, Tokyo",
+      "note": "Paseo y tiendas",
+      "lat": 35.6715,
+      "lng": 139.7036,
+      "tags": []
+    },
+    {
+      "id": "s3",
+      "name": "Shibuya Sky",
+      "address": "Shibuya Sky, Tokyo",
+      "note": "Atardecer — reservar",
+      "lat": 35.6585,
+      "lng": 139.7021,
+      "tags": []
+    },
+    {
+      "id": "s4",
+      "name": "Omoide Yokocho",
+      "address": "Shinjuku, Tokyo",
+      "note": "Cena",
+      "lat": 35.6938,
+      "lng": 139.6995,
+      "tags": [],
+      "display_name": "Shinjuku, Tokyo",
+      "category": "other"
+    },
+    {
+      "id": "s5",
+      "name": "Sensō-ji",
+      "address": "Sensoji, Tokyo",
+      "note": "Templo y Nakamise-dori",
+      "lat": 35.7148,
+      "lng": 139.7967,
+      "tags": []
+    },
+    {
+      "id": "s6",
+      "name": "Kappabashi",
+      "address": "Kappabashi, Tokyo",
+      "note": "Cuchillos y menaje",
+      "lat": 35.7141,
+      "lng": 139.7895,
+      "tags": []
+    },
+    {
+      "id": "3222a2e2-3024-4573-8a40-699a567c7b70",
+      "name": "Akihabara",
+      "address": "Akihabara, Tokyo",
+      "note": "Arcades y tiendas",
+      "lat": 35.6984,
+      "lng": 139.773,
+      "tags": []
+    }
+  ],
+  "tags": [
+    "comida",
+    "reserva",
+    "compras",
+    "opcional",
+    "obligatorio",
+    "semiobligatorio",
+    "actividad",
+    "🍁",
+    "💵 efectivo",
+    "💳 tarjeta"
+  ],
+  "categories": [
+    {
+      "id": "food",
+      "label": "Comida",
+      "color": "#d9822b",
+      "connects": true
+    },
+    {
+      "id": "hotel",
+      "label": "Alojamiento",
+      "color": "#3f7d9c",
+      "connects": false
+    },
+    {
+      "id": "sight",
+      "label": "Punto de interés",
+      "color": "#4c9a5b"
+    },
+    {
+      "id": "museum",
+      "label": "Museo",
+      "color": "#8a5fbf",
+      "connects": true
+    },
+    {
+      "id": "transport",
+      "label": "Transporte",
+      "color": "#c74e88",
+      "connects": true
+    },
+    {
+      "id": "other",
+      "label": "Otro",
+      "color": "#6b6b6b",
+      "connects": false
+    },
+    {
+      "id": "templos",
+      "label": "Templo",
+      "color": "#4c9a5b",
+      "connects": true
+    },
+    {
+      "id": "castillo",
+      "label": "Castillo",
+      "color": "#c20f0f",
+      "connects": true
+    },
+    {
+      "id": "parque-de-atracciones",
+      "label": "Parque de atracciones",
+      "color": "#16e3fe",
+      "connects": true
+    },
+    {
+      "id": "zona-comercial",
+      "label": "Zona comercial",
+      "color": "#9c10f9",
+      "connects": true
+    },
+    {
+      "id": "actividad",
+      "label": "Actividad",
+      "color": "#e910f9",
+      "connects": true
+    },
+    {
+      "id": "paseo",
+      "label": "Paseo",
+      "color": "#2be0f7",
+      "connects": true
+    }
+  ],
+  "routeProfile": "driving",
+  "routeVisualization": "streets"
+}
