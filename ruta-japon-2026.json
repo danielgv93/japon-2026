@@ -32,7 +32,8 @@
           "display_name": "岡崎神社, 丸太町通, 岡崎天王町, 永観堂町飛地, 左京区, Kioto, Prefectura de Kioto, 606-8335, Japón",
           "category": "templos",
           "openingTime": "09:00",
-          "closingTime": "17:00"
+          "closingTime": "17:00",
+          "mapEnabled": true
         },
         {
           "id": "0b1fe722-ccd2-478f-b389-cb5a2610c74f",
@@ -47,7 +48,8 @@
           "display_name": "桜鶴円町, 上京区, Kioto, Prefectura de Kioto, 602-8021, Japón",
           "category": "templos",
           "openingTime": "06:00",
-          "closingTime": "21:00"
+          "closingTime": "21:00",
+          "mapEnabled": true
         },
         {
           "id": "4a6b517c-3ce1-4a8b-ae1d-dd70105c75bf",
@@ -62,7 +64,8 @@
           "display_name": "下京区, Kioto, Prefectura de Kioto, Japón",
           "category": "templos",
           "openingTime": "05:30",
-          "closingTime": "17:00"
+          "closingTime": "17:00",
+          "mapEnabled": true
         },
         {
           "id": "7f143bc5-a7b2-42f8-ac1b-afe3cf7197ca",
@@ -77,7 +80,8 @@
           "display_name": "下鴨神社, 左京区下鴨泉川59, 下鴨東通, 田中馬場町, 吉田上大路町, 左京区, Kioto, Prefectura de Kioto, 606-0801, Japón",
           "category": "templos",
           "openingTime": "06:30",
-          "closingTime": "17:00"
+          "closingTime": "17:00",
+          "mapEnabled": true
         },
         {
           "id": "682d6790-0469-4802-a92c-921f28629a4e",
@@ -95,7 +99,8 @@
           "category": "actividad",
           "cost": 4400,
           "openingTime": "09:00",
-          "closingTime": "19:30"
+          "closingTime": "19:30",
+          "mapEnabled": true
         },
         {
           "id": "0a87e69c-a1f0-4772-a4d6-6e9c20ae5b16",
@@ -113,7 +118,8 @@
           "category": "templos",
           "cost": 1600,
           "openingTime": "08:30",
-          "closingTime": "16:00"
+          "closingTime": "16:00",
+          "mapEnabled": true
         },
         {
           "id": "33cc4a3e-0b11-4667-804f-1301d5e894ee",
@@ -131,7 +137,8 @@
           "category": "templos",
           "openingTime": "09:00",
           "closingTime": "16:00",
-          "cost": 500
+          "cost": 500,
+          "mapEnabled": true
         },
         {
           "id": "02e2e10d-cd0a-41ec-942c-1288bb373dce",
@@ -146,7 +153,8 @@
           "display_name": "Kioto, Prefectura de Kioto, Japón",
           "category": "paseo",
           "openingTime": "00:00",
-          "closingTime": "00:00"
+          "closingTime": "00:00",
+          "mapEnabled": true
         },
         {
           "id": "0a932717-f5ba-4aeb-8721-10150800b236",
@@ -163,7 +171,8 @@
           "category": "templos",
           "cost": 1200,
           "openingTime": "08:40",
-          "closingTime": "16:40"
+          "closingTime": "16:40",
+          "mapEnabled": true
         },
         {
           "id": "faa17911-27d7-4761-a4d0-0f2a1ea3c5b2",
@@ -181,7 +190,8 @@
           "category": "templos",
           "cost": 1000,
           "openingTime": "09:00",
-          "closingTime": "16:00"
+          "closingTime": "16:00",
+          "mapEnabled": true
         },
         {
           "id": "26d79e18-d5b8-4ff2-872b-6d8e01dcd5a8",
@@ -196,7 +206,8 @@
           "display_name": "中之町, 中京区, Kioto, Prefectura de Kioto, 604-8042, Japón",
           "category": "templos",
           "openingTime": "08:00",
-          "closingTime": "20:00"
+          "closingTime": "20:00",
+          "mapEnabled": true
         },
         {
           "id": "bcee4748-1cb8-4004-afa0-4cfe4defce1d",
@@ -211,7 +222,8 @@
           "lng": 135.7777762,
           "display_name": "下弁天町, 辰巳町, 東山区, Kioto, Prefectura de Kioto, 605-8505, Japón",
           "openingTime": "00:00",
-          "closingTime": "00:00"
+          "closingTime": "00:00",
+          "mapEnabled": true
         },
         {
           "id": "79479eb7-df72-457d-b526-a0882392197c",
@@ -226,7 +238,8 @@
           "display_name": "東本願寺, 室町通, 西境町, 下京区, Kioto, Prefectura de Kioto, 600-8218, Japón",
           "category": "templos",
           "openingTime": "06:20",
-          "closingTime": "16:30"
+          "closingTime": "16:30",
+          "mapEnabled": true
         },
         {
           "id": "e3cdaea4-0051-47af-a608-b037828a2b96",
@@ -281,7 +294,8 @@
           "lat": 34.9857327,
           "lng": 135.7190949,
           "display_name": "西京極東向河原町, 右京区, Kioto, Prefectura de Kioto, 616-0000, Japón",
-          "category": "hotel"
+          "category": "hotel",
+          "mapEnabled": true
         },
         {
           "id": "c693d188-1478-4b36-b11d-d18eab923c90",
@@ -296,7 +310,8 @@
           "display_name": "Fushimi-Inari, 稲荷停車場線, 深草一ノ坪町, Fushimi, Kioto, Prefectura de Kioto, 612-0007, Japón",
           "category": "sight",
           "openingTime": "00:00",
-          "closingTime": "00:00"
+          "closingTime": "00:00",
+          "mapEnabled": true
         },
         {
           "id": "9b7d0b16-99ce-409e-b1f5-d8a29cdef79b",
@@ -313,7 +328,8 @@
           "closingTime": "16:00",
           "lat": 34.9647195,
           "lng": 135.774862,
-          "display_name": "石峰寺, 千本鳥居, 深草石峰寺山町, Fushimi, Kioto, Prefectura de Kioto, 612-0807, Japón"
+          "display_name": "石峰寺, 千本鳥居, 深草石峰寺山町, Fushimi, Kioto, Prefectura de Kioto, 612-0807, Japón",
+          "mapEnabled": true
         },
         {
           "id": "e8203b37-53a0-4065-8842-432fc1b5ecf8",
@@ -331,7 +347,8 @@
           "category": "templos",
           "openingTime": "09:00",
           "closingTime": "16:30",
-          "cost": 1500
+          "cost": 1500,
+          "mapEnabled": true
         },
         {
           "id": "7981d898-944b-4bc8-ac37-929f5890c688",
@@ -348,7 +365,8 @@
           "openingTime": "09:00",
           "closingTime": "15:30",
           "cost": 600,
-          "category": "templos"
+          "category": "templos",
+          "mapEnabled": true
         },
         {
           "id": "s9",
@@ -361,7 +379,8 @@
             "obligatorio"
           ],
           "display_name": "Ninenzaka, Kyoto",
-          "category": "zona-comercial"
+          "category": "zona-comercial",
+          "mapEnabled": true
         },
         {
           "id": "s8",
@@ -379,7 +398,8 @@
           "category": "templos",
           "openingTime": "06:00",
           "closingTime": "21:00",
-          "cost": 500
+          "cost": 500,
+          "mapEnabled": true
         },
         {
           "id": "ee693029-49bd-44f1-9f8c-69db16b591e3",
@@ -397,7 +417,8 @@
           "category": "templos",
           "cost": 1200,
           "openingTime": "09:00",
-          "closingTime": "21:30"
+          "closingTime": "21:30",
+          "mapEnabled": true
         },
         {
           "id": "8906958f-7a3d-4fb8-9a35-60c7c187e58f",
@@ -410,7 +431,8 @@
           "lat": 35.0036027,
           "lng": 135.7782611,
           "display_name": "八坂神社, 東大路通, 祇園町北側, 辰巳町, 東山区, Kioto, Prefectura de Kioto, 605-0062, Japón",
-          "category": "templos"
+          "category": "templos",
+          "mapEnabled": true
         },
         {
           "id": "71fbe2d9-3906-4b2c-a932-10a97328696e",
@@ -423,7 +445,8 @@
           "lat": 35.004824,
           "lng": 135.7693689,
           "display_name": "四条河原町, 河原町通, 塩屋町, 中京区, Kioto, Prefectura de Kioto, 604-8027, Japón",
-          "category": "zona-comercial"
+          "category": "zona-comercial",
+          "mapEnabled": true
         },
         {
           "id": "s10",
@@ -436,7 +459,8 @@
             "semiobligatorio"
           ],
           "display_name": "Gion, Kyoto",
-          "category": "zona-comercial"
+          "category": "zona-comercial",
+          "mapEnabled": true
         },
         {
           "id": "aff37df8-f8ba-40e2-900d-3639b8325e76",
@@ -449,7 +473,8 @@
           "lat": 35.0042456,
           "lng": 135.7712126,
           "display_name": "先斗町, 先斗町通, 鍋屋町, 中京区, Kioto, Prefectura de Kioto, 604-8023, Japón",
-          "category": "zona-comercial"
+          "category": "zona-comercial",
+          "mapEnabled": true
         }
       ],
       "collapsed": true
@@ -468,7 +493,8 @@
           "lat": 34.9857327,
           "lng": 135.7190949,
           "display_name": "西京極東向河原町, 右京区, Kioto, Prefectura de Kioto, 616-0000, Japón",
-          "category": "hotel"
+          "category": "hotel",
+          "mapEnabled": true
         },
         {
           "id": "81994398-bde9-4aec-aa9c-ed4c180fc0e6",
@@ -485,7 +511,8 @@
           "display_name": "北野天満宮前, 今出川通, 西今小路町, 上京区, Kioto, Prefectura de Kioto, 602-8386, Japón",
           "category": "zona-comercial",
           "openingTime": "07:00",
-          "closingTime": "16:00"
+          "closingTime": "16:00",
+          "mapEnabled": true
         },
         {
           "id": "b6c9d256-4bc6-49cb-b37c-73b3b3a65570",
@@ -502,7 +529,8 @@
           "display_name": "行衛町, 上京区, Kioto, Prefectura de Kioto, 604-8463, Japón",
           "openingTime": "09:00",
           "closingTime": "16:30",
-          "cost": 300
+          "cost": 300,
+          "mapEnabled": true
         },
         {
           "id": "1998e9a0-a7b1-462d-8403-7c6da26157d7",
@@ -519,7 +547,8 @@
           "openingTime": "09:00",
           "closingTime": "16:30",
           "category": "templos",
-          "cost": 500
+          "cost": 500,
+          "mapEnabled": true
         },
         {
           "id": "92a361e1-661a-4332-83bd-688e8ee33a18",
@@ -536,7 +565,8 @@
           "category": "templos",
           "openingTime": "09:00",
           "closingTime": "16:30",
-          "cost": 500
+          "cost": 500,
+          "mapEnabled": true
         },
         {
           "id": "ab3e1716-3404-477f-ba82-d47a6dc7331e",
@@ -555,7 +585,8 @@
           "category": "templos",
           "cost": 1000,
           "openingTime": "09:00",
-          "closingTime": "16:30"
+          "closingTime": "16:30",
+          "mapEnabled": true
         },
         {
           "id": "bedaf789-c34e-47a9-abdc-f972cf98eca1",
@@ -574,7 +605,8 @@
           "category": "castillo",
           "cost": 2400,
           "openingTime": "08:45",
-          "closingTime": "16:10"
+          "closingTime": "16:10",
+          "mapEnabled": true
         },
         {
           "id": "b32f43a6-75aa-42ad-a73f-413578a62ad2",
@@ -591,7 +623,8 @@
           "cost": 6600,
           "openingTime": "19:00",
           "closingTime": "20:00",
-          "category": "actividad"
+          "category": "actividad",
+          "mapEnabled": true
         }
       ],
       "collapsed": true
@@ -615,7 +648,8 @@
           "cost": 2600,
           "openingTime": "09:00",
           "closingTime": "17:00",
-          "category": "castillo"
+          "category": "castillo",
+          "mapEnabled": true
         },
         {
           "id": "d77fc3fa-bdc4-4f60-9f10-29d8e7fe40b4",
@@ -628,7 +662,8 @@
           "lat": 34.6656393,
           "lng": 135.4324527,
           "display_name": "Universal Studios Japan, 此花区, Osaka, Prefectura de Osaka, Japón",
-          "category": "parque-de-atracciones"
+          "category": "parque-de-atracciones",
+          "mapEnabled": true
         },
         {
           "id": "a10dcfce-36c1-4b11-a949-675f12334703",
@@ -667,7 +702,8 @@
       "note": "Llegar temprano",
       "lat": 35.6764,
       "lng": 139.6993,
-      "tags": []
+      "tags": [],
+      "mapEnabled": true
     },
     {
       "id": "s2",
@@ -676,7 +712,8 @@
       "note": "Paseo y tiendas",
       "lat": 35.6715,
       "lng": 139.7036,
-      "tags": []
+      "tags": [],
+      "mapEnabled": true
     },
     {
       "id": "s3",
@@ -685,7 +722,8 @@
       "note": "Atardecer — reservar",
       "lat": 35.6585,
       "lng": 139.7021,
-      "tags": []
+      "tags": [],
+      "mapEnabled": true
     },
     {
       "id": "s4",
@@ -696,7 +734,8 @@
       "lng": 139.6995,
       "tags": [],
       "display_name": "Shinjuku, Tokyo",
-      "category": "other"
+      "category": "other",
+      "mapEnabled": true
     },
     {
       "id": "s5",
@@ -705,7 +744,8 @@
       "note": "Templo y Nakamise-dori",
       "lat": 35.7148,
       "lng": 139.7967,
-      "tags": []
+      "tags": [],
+      "mapEnabled": true
     },
     {
       "id": "s6",
@@ -714,7 +754,8 @@
       "note": "Cuchillos y menaje",
       "lat": 35.7141,
       "lng": 139.7895,
-      "tags": []
+      "tags": [],
+      "mapEnabled": true
     },
     {
       "id": "3222a2e2-3024-4573-8a40-699a567c7b70",
@@ -723,14 +764,16 @@
       "note": "Arcades y tiendas",
       "lat": 35.6984,
       "lng": 139.773,
-      "tags": []
+      "tags": [],
+      "mapEnabled": true
     },
     {
       "id": "77089ce9-cf36-4c86-abb3-2be72f6aa2c8",
       "name": "Test",
       "address": "",
       "note": "",
-      "tags": []
+      "tags": [],
+      "mapEnabled": true
     }
   ],
   "tags": [
@@ -761,7 +804,8 @@
     {
       "id": "sight",
       "label": "Punto de interés",
-      "color": "#4c9a5b"
+      "color": "#4c9a5b",
+      "connects": true
     },
     {
       "id": "museum",
@@ -820,5 +864,5 @@
   ],
   "routeProfile": "driving",
   "routeVisualization": "streets",
-  "exportedAt": "2026-07-13T14:53:55.866Z"
+  "exportedAt": "2026-07-13T16:59:44.383Z"
 }
