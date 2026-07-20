@@ -49,22 +49,6 @@
       "title": "Backlog Kioto",
       "spots": [
         {
-          "id": "0b1fe722-ccd2-478f-b389-cb5a2610c74f",
-          "name": "Goō-jinja",
-          "address": "桜鶴円町, 上京区, Kioto, Prefectura de Kioto, 602-8021, Japón",
-          "note": "Pequeño santuario de los jabalíes junto al Palacio Imperial.\nGoshuin y amuletos: 09:30–16:30",
-          "tags": [
-            "opcional"
-          ],
-          "lat": 35.021273,
-          "lng": 135.759234,
-          "display_name": "桜鶴円町, 上京区, Kioto, Prefectura de Kioto, 602-8021, Japón",
-          "category": "templos",
-          "openingTime": "06:00",
-          "closingTime": "21:00",
-          "mapEnabled": true
-        },
-        {
           "id": "26d79e18-d5b8-4ff2-872b-6d8e01dcd5a8",
           "name": "Santuario Nishiki Tenmangū",
           "address": "中之町, 中京区, Kioto, Prefectura de Kioto, 604-8042, Japón",
@@ -129,9 +113,25 @@
           "openingTime": "09:00",
           "closingTime": "19:30",
           "mapEnabled": true
+        },
+        {
+          "id": "0b1fe722-ccd2-478f-b389-cb5a2610c74f",
+          "name": "Goō-jinja",
+          "address": "桜鶴円町, 上京区, Kioto, Prefectura de Kioto, 602-8021, Japón",
+          "note": "Pequeño santuario de los jabalíes junto al Palacio Imperial.\nGoshuin y amuletos: 09:30–16:30",
+          "tags": [
+            "opcional"
+          ],
+          "lat": 35.021273,
+          "lng": 135.759234,
+          "display_name": "桜鶴円町, 上京区, Kioto, Prefectura de Kioto, 602-8021, Japón",
+          "category": "templos",
+          "openingTime": "06:00",
+          "closingTime": "21:00",
+          "mapEnabled": true
         }
       ],
-      "collapsed": true
+      "collapsed": false
     },
     {
       "id": "10ca4125-9348-4120-976e-df47cbb86590",
@@ -895,25 +895,42 @@
       "title": "Kyoto > Takayama",
       "spots": [
         {
+          "id": "2ab83920-1d19-4145-a594-b04ace0da28a",
+          "name": "Hotel kioto",
+          "address": "西京極東向河原町, 右京区, Kioto, Prefectura de Kioto, 616-0000, Japón",
+          "note": "",
+          "tags": [],
+          "lat": 34.9857327,
+          "lng": 135.7190949,
+          "display_name": "西京極東向河原町, 右京区, Kioto, Prefectura de Kioto, 616-0000, Japón",
+          "category": "hotel",
+          "mapEnabled": true,
+          "visitMinutes": 1,
+          "plannedStart": "08:40"
+        },
+        {
           "id": "bdf5ea77-c085-489a-8404-9821e4b349bc",
           "name": "Traslado",
-          "address": "Takayama, Prefectura de Gifu, Japón",
+          "address": "Kyoto Station, Shiokōji Street, Higashishiokojicho, Shimogyo Ward, Kioto, Prefectura de Kioto, 600-8555, Japón",
           "note": "Se tarda unas 4h",
           "tags": [],
-          "lat": 36.1396246,
-          "lng": 137.2510322,
+          "lat": 34.987091,
+          "lng": 135.7590913,
           "category": "transport",
-          "visitMinutes": 240
+          "visitMinutes": 240,
+          "mapEnabled": true,
+          "plannedStart": "09:14"
         },
         {
           "id": "e425df81-76ba-4eaa-aed4-af6ad9bf2281",
-          "name": "Oyado Hachibei",
+          "name": "Hotel Takayama (Oyado Hachibei)",
           "address": "36.134849386182395, 137.2362898128136",
           "note": "",
           "tags": [],
           "lat": 36.134849386182395,
           "lng": 137.2362898128136,
-          "category": "hotel"
+          "category": "hotel",
+          "mapEnabled": true
         },
         {
           "id": "e5bc82ee-2853-4fe2-a3e9-37aee4b80c40",
@@ -923,15 +940,8 @@
           "tags": [],
           "lat": 36.1414894,
           "lng": 137.2595909,
-          "category": "paseo"
-        },
-        {
-          "id": "30831518-c3bc-4915-9a57-1c7e9cd132b1",
-          "name": "Cenar carne de Hida o ramen de takayama",
-          "address": "",
-          "note": "",
-          "tags": [],
-          "category": "food"
+          "category": "paseo",
+          "mapEnabled": true
         },
         {
           "id": "bc985547-01a0-43b0-9ef1-450f62c52d1b",
@@ -941,10 +951,22 @@
           "tags": [],
           "lat": 36.13991980271595,
           "lng": 137.25887732643852,
-          "category": "paseo"
+          "category": "paseo",
+          "mapEnabled": true,
+          "plannedStart": "18:29"
+        },
+        {
+          "id": "30831518-c3bc-4915-9a57-1c7e9cd132b1",
+          "name": "Cenar carne de Hida o ramen de takayama",
+          "address": "",
+          "note": "",
+          "tags": [],
+          "category": "food",
+          "mapEnabled": true,
+          "plannedStart": "19:06"
         }
       ],
-      "collapsed": false
+      "collapsed": true
     },
     {
       "id": "64409b40-f3a6-4d3a-a24e-7a95def73e60",
@@ -959,7 +981,8 @@
           "tags": [],
           "lat": 36.134849386182395,
           "lng": 137.2362898128136,
-          "category": "hotel"
+          "category": "hotel",
+          "mapEnabled": true
         },
         {
           "id": "924b0d08-f1cd-49e4-96ea-3f8c445ce1c1",
@@ -969,7 +992,9 @@
           "tags": [],
           "lat": 36.2573454,
           "lng": 136.9068317,
-          "category": "transport"
+          "category": "transport",
+          "mapEnabled": true,
+          "plannedStart": "09:45"
         },
         {
           "id": "0150879c-7d55-4ab9-9566-9ff38ad48f20",
@@ -979,7 +1004,8 @@
           "tags": [],
           "lat": 36.13991980271595,
           "lng": 137.25887732643852,
-          "category": "paseo"
+          "category": "paseo",
+          "mapEnabled": true
         },
         {
           "id": "29446f31-0e8a-4a50-9d40-4fd6c92020f2",
@@ -989,17 +1015,20 @@
           "tags": [],
           "lat": 36.2573454,
           "lng": 136.9068317,
-          "category": "transport"
+          "category": "transport",
+          "mapEnabled": true
         },
         {
           "id": "f0359329-02a4-4132-8150-d3e08300d943",
           "name": "Takayama Jinya, puente Nakabashi, Senmachi",
           "address": "",
           "note": "",
-          "tags": []
+          "tags": [],
+          "mapEnabled": true,
+          "plannedStart": "12:00"
         }
       ],
-      "collapsed": false
+      "collapsed": true
     },
     {
       "id": "40f51e4c-623b-4b59-8a8b-6dfb0bd02974",
@@ -1014,24 +1043,17 @@
           "tags": [],
           "lat": 36.134849386182395,
           "lng": 137.2362898128136,
-          "category": "hotel"
+          "category": "hotel",
+          "mapEnabled": true
         }
       ],
-      "collapsed": false
+      "collapsed": true
     },
     {
       "id": "1b13ebcf-63df-405d-a34d-6b82eec72117",
       "date": "2026-12-01",
       "title": "Takayama > Tokyo",
-      "spots": [
-        {
-          "id": "469010e9-95c9-4299-9ce4-d5245f9e4930",
-          "name": "asd",
-          "address": "",
-          "note": "",
-          "tags": []
-        }
-      ],
+      "spots": [],
       "collapsed": true
     }
   ],
@@ -1198,6 +1220,12 @@
   "routeProfile": "driving",
   "routeVisualization": "streets",
   "routeTimeOverrides": {},
-  "routeTimeProfiles": {},
-  "exportedAt": "2026-07-20T22:20:00.676Z"
+  "routeTimeProfiles": {
+    "2ab83920-1d19-4145-a594-b04ace0da28a>bdf5ea77-c085-489a-8404-9821e4b349bc": "driving",
+    "bdf5ea77-c085-489a-8404-9821e4b349bc>e425df81-76ba-4eaa-aed4-af6ad9bf2281": "driving",
+    "d74b02af-c87e-4963-8e6b-a691bcfece2b>924b0d08-f1cd-49e4-96ea-3f8c445ce1c1": "driving",
+    "924b0d08-f1cd-49e4-96ea-3f8c445ce1c1>0150879c-7d55-4ab9-9566-9ff38ad48f20": "driving",
+    "0150879c-7d55-4ab9-9566-9ff38ad48f20>29446f31-0e8a-4a50-9d40-4fd6c92020f2": "driving"
+  },
+  "exportedAt": "2026-07-20T23:01:06.807Z"
 }
