@@ -5,7 +5,7 @@
   "foreignCurrency": "JPY",
   "exchangeRate": 0.00539,
   "exchangeRateDate": "2026-07-20",
-  "tripNotes": "Decidir si queremos subir o no al monte Misen, porque condiciona bastante el tiempo disponible para Hiroshima y para la parte baja de Miyajima.\n\n# Ruta sin monte Misen, \n\nParque de la Paz y Cúpula → Castillo de Hiroshima por el exterior y Ninomaru → Miyajima → Itsukushima-jinja → Omotesandō y comida → Machiya-dōri y Yamabe no Komichi → Jizō de Sakuramachi, santuario Kō y Ryū no Matsu → Senjōkaku y pagoda → Momijidani Park → Daishō-in → torii, costa, tiendas y ciervos → regreso a Hiroshima → cena.\n\n# Ruta con monte Misen\n\nParque de la Paz y Cúpula → Miyajima → Itsukushima-jinja → Omotesandō y comida rápida → Machiya-dōri y Yamabe no Komichi → Jizō de Sakuramachi, santuario Kō y Ryū no Matsu → Senjōkaku y pagoda → Momijidani Park de camino al teleférico → teleférico → mirador Shishiiwa → caminata hasta la cima del monte Misen → regreso en teleférico → torii, costa, tiendas y ciervos → regreso a Hiroshima → cena.\n\n**Sin Misen:** Más visitas en la parte baja, castillo exterior, Daishō-in y un ritmo más relajado.\n**Con Misen:** Se mantienen los principales lugares de Miyajima, pero se eliminan el castillo y Daishō-in y se reduce el tiempo disponible en el resto. A cambio, se añade el teleférico, el mirador y la cima del monte Misen.",
+  "tripNotes": "¿Dedicamos 1 dia a Takayamam y otro a Shirakawa-go o los 2 en un mismo dia?\n\nDecidir si queremos subir o no al monte Misen, porque condiciona bastante el tiempo disponible para Hiroshima y para la parte baja de Miyajima.\n\n# Ruta sin monte Misen, \n\nParque de la Paz y Cúpula → Castillo de Hiroshima por el exterior y Ninomaru → Miyajima → Itsukushima-jinja → Omotesandō y comida → Machiya-dōri y Yamabe no Komichi → Jizō de Sakuramachi, santuario Kō y Ryū no Matsu → Senjōkaku y pagoda → Momijidani Park → Daishō-in → torii, costa, tiendas y ciervos → regreso a Hiroshima → cena.\n\n# Ruta con monte Misen\n\nParque de la Paz y Cúpula → Miyajima → Itsukushima-jinja → Omotesandō y comida rápida → Machiya-dōri y Yamabe no Komichi → Jizō de Sakuramachi, santuario Kō y Ryū no Matsu → Senjōkaku y pagoda → Momijidani Park de camino al teleférico → teleférico → mirador Shishiiwa → caminata hasta la cima del monte Misen → regreso en teleférico → torii, costa, tiendas y ciervos → regreso a Hiroshima → cena.\n\n**Sin Misen:** Más visitas en la parte baja, castillo exterior, Daishō-in y un ritmo más relajado.\n**Con Misen:** Se mantienen los principales lugares de Miyajima, pero se eliminan el castillo y Daishō-in y se reduce el tiempo disponible en el resto. A cambio, se añade el teleférico, el mirador y la cima del monte Misen.",
   "days": [
     {
       "id": "c1818eef-cc77-4dd3-b679-227dd0ac5897",
@@ -28,7 +28,7 @@
     {
       "id": "14582a10-aa00-4c59-8eff-de542f4375bd",
       "date": "2026-11-23",
-      "title": "Osaka",
+      "title": "Osaka > Kyoto",
       "spots": [
         {
           "id": "d3a97e10-ba70-4500-8e37-3751e21906a4",
@@ -893,30 +893,146 @@
       "id": "ab299886-4316-47ba-897e-176a37b6d35d",
       "date": "2026-11-28",
       "title": "Kyoto > Takayama",
-      "spots": [],
-      "collapsed": true
+      "spots": [
+        {
+          "id": "bdf5ea77-c085-489a-8404-9821e4b349bc",
+          "name": "Traslado",
+          "address": "Takayama, Prefectura de Gifu, Japón",
+          "note": "Se tarda unas 4h",
+          "tags": [],
+          "lat": 36.1396246,
+          "lng": 137.2510322,
+          "category": "transport",
+          "visitMinutes": 240
+        },
+        {
+          "id": "e425df81-76ba-4eaa-aed4-af6ad9bf2281",
+          "name": "Oyado Hachibei",
+          "address": "36.134849386182395, 137.2362898128136",
+          "note": "",
+          "tags": [],
+          "lat": 36.134849386182395,
+          "lng": 137.2362898128136,
+          "category": "hotel"
+        },
+        {
+          "id": "e5bc82ee-2853-4fe2-a3e9-37aee4b80c40",
+          "name": "Sanmachi",
+          "address": "Hidatakayama Sanmachi Historic District, 上三之町, Takayama, Prefectura de Gifu, 506-0846, Japón",
+          "note": "",
+          "tags": [],
+          "lat": 36.1414894,
+          "lng": 137.2595909,
+          "category": "paseo"
+        },
+        {
+          "id": "30831518-c3bc-4915-9a57-1c7e9cd132b1",
+          "name": "Cenar carne de Hida o ramen de takayama",
+          "address": "",
+          "note": "",
+          "tags": [],
+          "category": "food"
+        },
+        {
+          "id": "bc985547-01a0-43b0-9ef1-450f62c52d1b",
+          "name": "Nakabashi y río Enako",
+          "address": "36.13991980271595, 137.25887732643852",
+          "note": "Paseo nocturno por Nakabashi y el río Enako iluminados",
+          "tags": [],
+          "lat": 36.13991980271595,
+          "lng": 137.25887732643852,
+          "category": "paseo"
+        }
+      ],
+      "collapsed": false
     },
     {
       "id": "64409b40-f3a6-4d3a-a24e-7a95def73e60",
       "date": "2026-11-29",
       "title": "Takayama",
-      "spots": [],
-      "collapsed": true
-    },
-    {
-      "id": "40f51e4c-623b-4b59-8a8b-6dfb0bd02974",
-      "date": "2026-11-30",
-      "title": "Takayama > Tokyo",
       "spots": [
         {
-          "id": "a809c646-88ee-4bcc-8e72-e7740e30ccdc",
-          "name": "asd",
+          "id": "d74b02af-c87e-4963-8e6b-a691bcfece2b",
+          "name": "Oyado Hachibei",
+          "address": "36.134849386182395, 137.2362898128136",
+          "note": "",
+          "tags": [],
+          "lat": 36.134849386182395,
+          "lng": 137.2362898128136,
+          "category": "hotel"
+        },
+        {
+          "id": "924b0d08-f1cd-49e4-96ea-3f8c445ce1c1",
+          "name": "Takayama > Shirakawa-go",
+          "address": "Shirakawa-gō, Deai Bridge, Ogimachi, Shirakawa, Ono County, Prefectura de Gifu, 501-5627, Japón",
+          "note": "",
+          "tags": [],
+          "lat": 36.2573454,
+          "lng": 136.9068317,
+          "category": "transport"
+        },
+        {
+          "id": "0150879c-7d55-4ab9-9566-9ff38ad48f20",
+          "name": "Paseo por el pueblo, casa Wada, puente y mirador",
+          "address": "36.13991980271595, 137.25887732643852",
+          "note": "",
+          "tags": [],
+          "lat": 36.13991980271595,
+          "lng": 137.25887732643852,
+          "category": "paseo"
+        },
+        {
+          "id": "29446f31-0e8a-4a50-9d40-4fd6c92020f2",
+          "name": "Shirakawa-go > Takayama",
+          "address": "Shirakawa-gō, Deai Bridge, Ogimachi, Shirakawa, Ono County, Prefectura de Gifu, 501-5627, Japón",
+          "note": "",
+          "tags": [],
+          "lat": 36.2573454,
+          "lng": 136.9068317,
+          "category": "transport"
+        },
+        {
+          "id": "f0359329-02a4-4132-8150-d3e08300d943",
+          "name": "Takayama Jinya, puente Nakabashi, Senmachi",
           "address": "",
           "note": "",
           "tags": []
         }
       ],
       "collapsed": false
+    },
+    {
+      "id": "40f51e4c-623b-4b59-8a8b-6dfb0bd02974",
+      "date": "2026-11-30",
+      "title": "Takayama",
+      "spots": [
+        {
+          "id": "f9038ab0-c76d-4449-a8c7-d46be7989259",
+          "name": "Oyado Hachibei",
+          "address": "36.134849386182395, 137.2362898128136",
+          "note": "",
+          "tags": [],
+          "lat": 36.134849386182395,
+          "lng": 137.2362898128136,
+          "category": "hotel"
+        }
+      ],
+      "collapsed": false
+    },
+    {
+      "id": "1b13ebcf-63df-405d-a34d-6b82eec72117",
+      "date": "2026-12-01",
+      "title": "Takayama > Tokyo",
+      "spots": [
+        {
+          "id": "469010e9-95c9-4299-9ce4-d5245f9e4930",
+          "name": "asd",
+          "address": "",
+          "note": "",
+          "tags": []
+        }
+      ],
+      "collapsed": true
     }
   ],
   "backlog": [
@@ -1083,5 +1199,5 @@
   "routeVisualization": "streets",
   "routeTimeOverrides": {},
   "routeTimeProfiles": {},
-  "exportedAt": "2026-07-20T21:47:01.657Z"
+  "exportedAt": "2026-07-20T22:20:00.676Z"
 }
