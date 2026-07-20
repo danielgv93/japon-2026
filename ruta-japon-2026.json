@@ -1,5 +1,5 @@
 {
-  "version": 21,
+  "version": 22,
   "tripTitle": "Japón 2026",
   "localCurrency": "EUR",
   "foreignCurrency": "JPY",
@@ -42,96 +42,6 @@
         }
       ],
       "collapsed": true
-    },
-    {
-      "id": "dc226f2b-f402-40ee-aeae-fc803818f698",
-      "date": "2026-11-24",
-      "title": "Backlog Kioto",
-      "spots": [
-        {
-          "id": "26d79e18-d5b8-4ff2-872b-6d8e01dcd5a8",
-          "name": "Santuario Nishiki Tenmangū",
-          "address": "中之町, 中京区, Kioto, Prefectura de Kioto, 604-8042, Japón",
-          "note": "Está al final de las galerías comerciales de Nishiki y Shinkyōgoku",
-          "tags": [
-            "opcional"
-          ],
-          "lat": 35.004407,
-          "lng": 135.767632,
-          "display_name": "中之町, 中京区, Kioto, Prefectura de Kioto, 604-8042, Japón",
-          "category": "templos",
-          "openingTime": "08:00",
-          "closingTime": "20:00",
-          "mapEnabled": true
-        },
-        {
-          "id": "90b487fd-30b4-445c-a926-d8437dd0c344",
-          "name": "Nara",
-          "address": "Nara, Prefectura de Nara, Japón",
-          "note": "",
-          "tags": [],
-          "lat": 34.6845445,
-          "lng": 135.8048359,
-          "display_name": "Nara, Prefectura de Nara, Japón",
-          "category": "paseo",
-          "mapEnabled": true
-        },
-        {
-          "id": "a10dcfce-36c1-4b11-a949-675f12334703",
-          "name": "Templo Tō-ji",
-          "address": "東寺, 九条通り, 西九条比永城町, 南区, Kioto, Prefectura de Kioto, 601-8438, Japón",
-          "note": "Pagoda 5 pisos. Precio de dia 500 y 1000 la iluminación nocturna \nIluminacion: 18:00–21:30, última entrada 21:00",
-          "tags": [
-            "opcional",
-            "🍁",
-            "💵 efectivo"
-          ],
-          "lat": 34.9806311,
-          "lng": 135.7477192,
-          "display_name": "東寺, 九条通り, 西九条比永城町, 南区, Kioto, Prefectura de Kioto, 601-8438, Japón",
-          "category": "templos",
-          "cost": 1000,
-          "openingTime": "08:00",
-          "closingTime": "21:30",
-          "mapEnabled": true
-        },
-        {
-          "id": "682d6790-0469-4802-a92c-921f28629a4e",
-          "name": "TeamLab Biovortex Kyoto",
-          "address": "teamLab BioVortex, 八条通, 東之町, 下京区, Kioto, Prefectura de Kioto, 601-8006, Japón",
-          "note": "3,400 - 4,400",
-          "tags": [
-            "opcional",
-            "💵 efectivo",
-            "💳 tarjeta"
-          ],
-          "lat": 34.9837455,
-          "lng": 135.7654182,
-          "display_name": "teamLab BioVortex, 八条通, 東之町, 下京区, Kioto, Prefectura de Kioto, 601-8006, Japón",
-          "category": "actividad",
-          "cost": 4400,
-          "openingTime": "09:00",
-          "closingTime": "19:30",
-          "mapEnabled": true
-        },
-        {
-          "id": "0b1fe722-ccd2-478f-b389-cb5a2610c74f",
-          "name": "Goō-jinja",
-          "address": "桜鶴円町, 上京区, Kioto, Prefectura de Kioto, 602-8021, Japón",
-          "note": "Pequeño santuario de los jabalíes junto al Palacio Imperial.\nGoshuin y amuletos: 09:30–16:30",
-          "tags": [
-            "opcional"
-          ],
-          "lat": 35.021273,
-          "lng": 135.759234,
-          "display_name": "桜鶴円町, 上京区, Kioto, Prefectura de Kioto, 602-8021, Japón",
-          "category": "templos",
-          "openingTime": "06:00",
-          "closingTime": "21:00",
-          "mapEnabled": true
-        }
-      ],
-      "collapsed": false
     },
     {
       "id": "10ca4125-9348-4120-976e-df47cbb86590",
@@ -1066,7 +976,8 @@
       "lat": 35.6764,
       "lng": 139.6993,
       "tags": [],
-      "mapEnabled": true
+      "mapEnabled": true,
+      "backlogGroupId": "e2115515-0cc7-4c45-9677-96730f7769c3"
     },
     {
       "id": "s2",
@@ -1076,7 +987,8 @@
       "lat": 35.6715,
       "lng": 139.7036,
       "tags": [],
-      "mapEnabled": true
+      "mapEnabled": true,
+      "backlogGroupId": "e2115515-0cc7-4c45-9677-96730f7769c3"
     },
     {
       "id": "s3",
@@ -1086,7 +998,8 @@
       "lat": 35.6585,
       "lng": 139.7021,
       "tags": [],
-      "mapEnabled": true
+      "mapEnabled": true,
+      "backlogGroupId": "e2115515-0cc7-4c45-9677-96730f7769c3"
     },
     {
       "id": "s4",
@@ -1098,7 +1011,8 @@
       "tags": [],
       "display_name": "Shinjuku, Tokyo",
       "category": "other",
-      "mapEnabled": true
+      "mapEnabled": true,
+      "backlogGroupId": "e2115515-0cc7-4c45-9677-96730f7769c3"
     },
     {
       "id": "s5",
@@ -1108,7 +1022,8 @@
       "lat": 35.7148,
       "lng": 139.7967,
       "tags": [],
-      "mapEnabled": true
+      "mapEnabled": true,
+      "backlogGroupId": "e2115515-0cc7-4c45-9677-96730f7769c3"
     },
     {
       "id": "s6",
@@ -1118,7 +1033,8 @@
       "lat": 35.7141,
       "lng": 139.7895,
       "tags": [],
-      "mapEnabled": true
+      "mapEnabled": true,
+      "backlogGroupId": "e2115515-0cc7-4c45-9677-96730f7769c3"
     },
     {
       "id": "3222a2e2-3024-4573-8a40-699a567c7b70",
@@ -1128,7 +1044,107 @@
       "lat": 35.6984,
       "lng": 139.773,
       "tags": [],
-      "mapEnabled": true
+      "mapEnabled": true,
+      "backlogGroupId": "e2115515-0cc7-4c45-9677-96730f7769c3"
+    },
+    {
+      "id": "26d79e18-d5b8-4ff2-872b-6d8e01dcd5a8",
+      "name": "Santuario Nishiki Tenmangū",
+      "address": "中之町, 中京区, Kioto, Prefectura de Kioto, 604-8042, Japón",
+      "note": "Está al final de las galerías comerciales de Nishiki y Shinkyōgoku",
+      "tags": [
+        "opcional"
+      ],
+      "lat": 35.004407,
+      "lng": 135.767632,
+      "display_name": "中之町, 中京区, Kioto, Prefectura de Kioto, 604-8042, Japón",
+      "category": "templos",
+      "openingTime": "08:00",
+      "closingTime": "20:00",
+      "mapEnabled": true,
+      "backlogGroupId": "4437c3fd-fe1c-437a-8251-35ea07d67360"
+    },
+    {
+      "id": "90b487fd-30b4-445c-a926-d8437dd0c344",
+      "name": "Nara",
+      "address": "Nara, Prefectura de Nara, Japón",
+      "note": "",
+      "tags": [],
+      "lat": 34.6845445,
+      "lng": 135.8048359,
+      "display_name": "Nara, Prefectura de Nara, Japón",
+      "category": "paseo",
+      "mapEnabled": true,
+      "backlogGroupId": "4437c3fd-fe1c-437a-8251-35ea07d67360"
+    },
+    {
+      "id": "a10dcfce-36c1-4b11-a949-675f12334703",
+      "name": "Templo Tō-ji",
+      "address": "東寺, 九条通り, 西九条比永城町, 南区, Kioto, Prefectura de Kioto, 601-8438, Japón",
+      "note": "Pagoda 5 pisos. Precio de dia 500 y 1000 la iluminación nocturna \nIluminacion: 18:00–21:30, última entrada 21:00",
+      "tags": [
+        "opcional",
+        "🍁",
+        "💵 efectivo"
+      ],
+      "lat": 34.9806311,
+      "lng": 135.7477192,
+      "display_name": "東寺, 九条通り, 西九条比永城町, 南区, Kioto, Prefectura de Kioto, 601-8438, Japón",
+      "category": "templos",
+      "cost": 1000,
+      "openingTime": "08:00",
+      "closingTime": "21:30",
+      "mapEnabled": true,
+      "backlogGroupId": "4437c3fd-fe1c-437a-8251-35ea07d67360"
+    },
+    {
+      "id": "682d6790-0469-4802-a92c-921f28629a4e",
+      "name": "TeamLab Biovortex Kyoto",
+      "address": "teamLab BioVortex, 八条通, 東之町, 下京区, Kioto, Prefectura de Kioto, 601-8006, Japón",
+      "note": "3,400 - 4,400",
+      "tags": [
+        "opcional",
+        "💵 efectivo",
+        "💳 tarjeta"
+      ],
+      "lat": 34.9837455,
+      "lng": 135.7654182,
+      "display_name": "teamLab BioVortex, 八条通, 東之町, 下京区, Kioto, Prefectura de Kioto, 601-8006, Japón",
+      "category": "actividad",
+      "cost": 4400,
+      "openingTime": "09:00",
+      "closingTime": "19:30",
+      "mapEnabled": true,
+      "backlogGroupId": "4437c3fd-fe1c-437a-8251-35ea07d67360"
+    },
+    {
+      "id": "0b1fe722-ccd2-478f-b389-cb5a2610c74f",
+      "name": "Goō-jinja",
+      "address": "桜鶴円町, 上京区, Kioto, Prefectura de Kioto, 602-8021, Japón",
+      "note": "Pequeño santuario de los jabalíes junto al Palacio Imperial.\nGoshuin y amuletos: 09:30–16:30",
+      "tags": [
+        "opcional"
+      ],
+      "lat": 35.021273,
+      "lng": 135.759234,
+      "display_name": "桜鶴円町, 上京区, Kioto, Prefectura de Kioto, 602-8021, Japón",
+      "category": "templos",
+      "openingTime": "06:00",
+      "closingTime": "21:00",
+      "mapEnabled": true,
+      "backlogGroupId": "4437c3fd-fe1c-437a-8251-35ea07d67360"
+    }
+  ],
+  "backlogGroups": [
+    {
+      "id": "e2115515-0cc7-4c45-9677-96730f7769c3",
+      "title": "Tokyo",
+      "collapsed": true
+    },
+    {
+      "id": "4437c3fd-fe1c-437a-8251-35ea07d67360",
+      "title": "Kyoto",
+      "collapsed": true
     }
   ],
   "tags": [
@@ -1227,5 +1243,5 @@
     "924b0d08-f1cd-49e4-96ea-3f8c445ce1c1>0150879c-7d55-4ab9-9566-9ff38ad48f20": "driving",
     "0150879c-7d55-4ab9-9566-9ff38ad48f20>29446f31-0e8a-4a50-9d40-4fd6c92020f2": "driving"
   },
-  "exportedAt": "2026-07-20T23:01:06.807Z"
+  "exportedAt": "2026-07-20T23:17:44.456Z"
 }
