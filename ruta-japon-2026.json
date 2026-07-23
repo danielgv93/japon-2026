@@ -13,6 +13,19 @@
       "title": "Llegada Osaka",
       "spots": [
         {
+          "id": "ad59cffc-2bc7-4be8-abbb-e8857c65cc83",
+          "name": "Aeropuerto > Osaka",
+          "address": "34.70260003782953, 135.49588622460024",
+          "note": "Billete Haruka, posible ya mandar aqui las maletas a kyoto?",
+          "tags": [],
+          "cost": 1800,
+          "visitMinutes": 50,
+          "category": "transport",
+          "lat": 34.70260003782953,
+          "lng": 135.49588622460024,
+          "mapEnabled": true
+        },
+        {
           "id": "817fe01f-5c32-4e25-845c-518c85c2b604",
           "name": "The Rise Osaka Kitashinchi",
           "address": "The Rise Osaka Kitashinchi, 東筋, Dojima 1-chome, Kita Ward, Osaka, Prefectura de Osaka, 530-8265, Japón",
@@ -20,7 +33,84 @@
           "tags": [],
           "lat": 34.6960222,
           "lng": 135.4999557,
-          "category": "hotel"
+          "category": "hotel",
+          "mapEnabled": true
+        },
+        {
+          "id": "99c2c0bd-9b67-4681-8f9e-1db44d760c10",
+          "name": "551 Horai",
+          "address": "34.7024242915903, 135.49601019754118",
+          "note": "Comprar un butaman si tenemos hambre al llegar o al pasar por Namba.",
+          "tags": [
+            "opcional"
+          ],
+          "category": "food",
+          "openingTime": "11:00",
+          "closingTime": "21:30",
+          "lat": 34.7024242915903,
+          "lng": 135.49601019754118
+        },
+        {
+          "id": "af3dfba6-282f-4e75-85eb-41ddca3c886d",
+          "name": "Nintendo y Pokémon Center",
+          "address": "34.702000965938424, 135.49604238412596",
+          "note": "Planta 13 de LUCUA SOUTH",
+          "tags": [
+            "opcional"
+          ],
+          "category": "compras",
+          "openingTime": "10:00",
+          "closingTime": "20:00",
+          "lat": 34.702000965938424,
+          "lng": 135.49604238412596
+        },
+        {
+          "id": "4c91a69b-c6ba-4399-aadd-f33b61b03581",
+          "name": "Shinsaibashi PARCO",
+          "address": "Shinsaibashi Parco, 1, Shinsaibashisuji 1-chome, Chūō Ward, Osaka, Prefectura de Osaka, 542-8501, Japón",
+          "note": "Figura enorme de sin rostro en el tren",
+          "tags": [
+            "opcional"
+          ],
+          "lat": 34.6738654,
+          "lng": 135.5009718,
+          "category": "zona-comercial",
+          "openingTime": "10:00",
+          "closingTime": "20:00"
+        },
+        {
+          "id": "53fb2414-451b-46e5-92a7-2ba7a84c3837",
+          "name": "Hōzen-ji y Hōzenji Yokochō",
+          "address": "34.6681780223396, 135.50242468227182",
+          "note": "Zona comercial y templo",
+          "tags": [],
+          "category": "zona-comercial",
+          "openingTime": "00:00",
+          "closingTime": "23:59",
+          "lat": 34.6681780223396,
+          "lng": 135.50242468227182
+        },
+        {
+          "id": "b5e2968d-555a-490a-a0e7-9133b42e3e81",
+          "name": "Dōtonbori, Glico y paseo junto al canal",
+          "address": "34.66878514078059, 135.50125418227162",
+          "note": "",
+          "tags": [],
+          "category": "zona-comercial",
+          "lat": 34.66878514078059,
+          "lng": 135.50125418227162
+        },
+        {
+          "id": "4e8a0cd9-8e2e-4a1e-a06f-756be06bf311",
+          "name": "Meijiken: omurice",
+          "address": "34.673420149977446, 135.5022752220191",
+          "note": "",
+          "tags": [],
+          "lat": 34.673420149977446,
+          "lng": 135.5022752220191,
+          "category": "food",
+          "openingTime": "11:00",
+          "closingTime": "22:00"
         }
       ],
       "collapsed": true
@@ -38,28 +128,130 @@
           "tags": [],
           "lat": 34.6960222,
           "lng": 135.4999557,
-          "category": "hotel"
+          "category": "hotel",
+          "mapEnabled": true
         },
         {
           "id": "d3a97e10-ba70-4500-8e37-3751e21906a4",
-          "name": "Santuario Yasaka Namba",
-          "address": "Osaka, Prefectura de Osaka, Japón",
+          "name": "Namba Yasaka-jinja",
+          "address": "34.661408,135.496903",
+          "note": "",
+          "tags": [
+            "obligatorio",
+            "💵 efectivo"
+          ],
+          "mapEnabled": true,
+          "lat": 34.661408,
+          "lng": 135.496903,
+          "visitMinutes": 30,
+          "category": "santuario"
+        },
+        {
+          "id": "4d52c5b8-65e1-42a8-a0cc-6484a9b2df5f",
+          "name": "U-Arts",
+          "address": "34.66428830419233, 135.5036272932163",
+          "note": "Papelería",
+          "tags": [
+            "opcional"
+          ],
+          "lat": 34.66428830419233,
+          "lng": 135.5036272932163,
+          "category": "compras",
+          "visitMinutes": 30,
+          "openingTime": "10:00",
+          "closingTime": "18:00",
+          "mapEnabled": true
+        },
+        {
+          "id": "66c0cf5c-4a1e-4170-8ba4-85a51091558a",
+          "name": "Den Den Town",
+          "address": "34.66059132089283, 135.50613675343536",
           "note": "",
           "tags": [],
-          "mapEnabled": true,
-          "lat": 34.6937569,
-          "lng": 135.5014539
+          "category": "zona-comercial",
+          "lat": 34.66059132089283,
+          "lng": 135.50613675343536
+        },
+        {
+          "id": "d881c371-6e01-44ad-bd7a-d79b1889f955",
+          "name": "Surugaya Osaka Nipponbashi",
+          "address": "34.66023789776194, 135.50610724287213",
+          "note": "Segunda mano",
+          "tags": [
+            "compras",
+            "opcional"
+          ],
+          "category": "compras",
+          "lat": 34.66023789776194,
+          "lng": 135.50610724287213
+        },
+        {
+          "id": "05bc3234-9936-4acc-a9aa-eeeaf10a6e55",
+          "name": "Joshin Super Kids Land",
+          "address": "34.65949712237077, 135.5055509129608",
+          "note": "Primera parada para ver el precio normal de producto nuevo",
+          "tags": [
+            "compras",
+            "opcional"
+          ],
+          "category": "compras",
+          "lat": 34.65949712237077,
+          "lng": 135.5055509129608,
+          "openingTime": "10:00",
+          "closingTime": "20:00",
+          "visitMinutes": 60
+        },
+        {
+          "id": "b63d21e3-c857-4cbd-80b6-cf52d0d28fd6",
+          "name": "Lashinbang",
+          "address": "34.660661923386094, 135.50498711323092",
+          "note": "Segunda mano",
+          "tags": [
+            "compras",
+            "opcional"
+          ],
+          "category": "compras",
+          "lat": 34.660661923386094,
+          "lng": 135.50498711323092
+        },
+        {
+          "id": "c58d9b07-1b3b-44e9-a1d1-2a62dca30f7a",
+          "name": "Animate",
+          "address": "34.66078860793164, 135.50551621141852",
+          "note": "",
+          "tags": [
+            "compras",
+            "opcional"
+          ],
+          "lat": 34.66078860793164,
+          "lng": 135.50551621141852,
+          "category": "compras"
+        },
+        {
+          "id": "308e1460-27f4-4fcb-a22f-ed67545778c3",
+          "name": "Aizendo",
+          "address": "34.65745614923071, 135.51259489761605",
+          "note": "",
+          "tags": [
+            "opcional"
+          ],
+          "lat": 34.65745614923071,
+          "lng": 135.51259489761605,
+          "category": "templos",
+          "mapEnabled": true
         },
         {
           "id": "5c5f5b0f-874e-4c57-86d8-e61e83300c91",
           "name": "Osaka > Kyoto",
-          "address": "34.986859824334054, 135.75974302159477",
+          "address": "34.70260003782953, 135.49588622460024",
           "note": "",
           "tags": [],
-          "lat": 34.986859824334054,
-          "lng": 135.75974302159477,
+          "lat": 34.70260003782953,
+          "lng": 135.49588622460024,
           "category": "transport",
-          "visitMinutes": 30
+          "visitMinutes": 40,
+          "mapEnabled": true,
+          "cost": 410
         },
         {
           "id": "bcd47782-ffed-42e5-b334-7f187bf5a654",
@@ -71,7 +263,7 @@
           "lng": 135.7190949,
           "display_name": "西京極東向河原町, 右京区, Kioto, Prefectura de Kioto, 616-0000, Japón",
           "category": "hotel",
-          "mapEnabled": true
+          "mapEnabled": false
         }
       ],
       "collapsed": true
@@ -162,6 +354,17 @@
           "openingTime": "09:00",
           "closingTime": "19:30",
           "mapEnabled": true
+        },
+        {
+          "id": "ff029a4c-2939-4c4f-97d7-3ef00d6e0dac",
+          "name": "Shisendo Jozan-ji",
+          "address": "35.044453472417054, 135.79536840935273",
+          "note": "",
+          "tags": [],
+          "lat": 35.044453472417054,
+          "lng": 135.79536840935273,
+          "mapEnabled": false,
+          "category": "templos"
         }
       ],
       "collapsed": true
@@ -948,7 +1151,8 @@
           "lat": 36.1396246,
           "lng": 137.2510322,
           "category": "transport",
-          "visitMinutes": 240
+          "visitMinutes": 240,
+          "mapEnabled": true
         },
         {
           "id": "52dcb5f3-d01a-4709-8d55-0274e5c68142",
@@ -956,7 +1160,8 @@
           "address": "36.13989103344731, 137.25770104402378",
           "note": "El 28 si hay tiempo. Si llegáis después de las 14:30 mejor otro dia.\nAntigua sede administrativa desde la que los representantes del shogunato gobernaban la provincia de Hida. Es el único complejo de este tipo de la época Edo que conserva sus edificios principales. Interior con salas oficiales, residencia, tribunal y granero.",
           "tags": [
-            "obligatorio"
+            "obligatorio",
+            "💵 efectivo"
           ],
           "cost": 500,
           "visitMinutes": 75,
@@ -964,7 +1169,8 @@
           "closingTime": "16:00",
           "category": "sight",
           "lat": 36.13989103344731,
-          "lng": 137.25770104402378
+          "lng": 137.25770104402378,
+          "mapEnabled": true
         },
         {
           "id": "6b8cb433-fd71-4b86-8b6d-fec7db80ddb3",
@@ -973,14 +1179,17 @@
           "note": "Templo histórico con la única pagoda de tres pisos de la región de Hida y un enorme ginkgo de más de mil años. A finales de noviembre puede conservar todavía color amarillo.",
           "tags": [
             "semiobligatorio",
-            "🍁"
+            "🍁",
+            "💵 efectivo"
           ],
           "lat": 36.1435011,
           "lng": 137.2538422,
           "category": "templos",
           "openingTime": "09:00",
           "closingTime": "16:00",
-          "visitMinutes": 30
+          "visitMinutes": 30,
+          "mapEnabled": true,
+          "cost": 500
         },
         {
           "id": "bc985547-01a0-43b0-9ef1-450f62c52d1b",
@@ -995,7 +1204,8 @@
           "lng": 137.25879149575505,
           "category": "paseo",
           "openingTime": "17:30",
-          "closingTime": "21:00"
+          "closingTime": "21:00",
+          "mapEnabled": true
         },
         {
           "id": "4a848762-12cb-4a23-85fc-3eac8e5678a0",
@@ -1011,17 +1221,19 @@
           "category": "paseo",
           "openingTime": "17:30",
           "closingTime": "21:00",
-          "visitMinutes": 50
+          "visitMinutes": 50,
+          "mapEnabled": true
         },
         {
           "id": "e425df81-76ba-4eaa-aed4-af6ad9bf2281",
           "name": "Oyado Hachibei",
           "address": "36.134849386182395, 137.2362898128136",
-          "note": "",
+          "note": "Desde la estacion de Takayama - ¥210 - 9 mins bus + 5 andando\nTaxi - ¥1.300–1.700 - 10 mins",
           "tags": [],
           "lat": 36.134849386182395,
           "lng": 137.2362898128136,
-          "category": "hotel"
+          "category": "hotel",
+          "mapEnabled": true
         },
         {
           "id": "30831518-c3bc-4915-9a57-1c7e9cd132b1",
@@ -1029,7 +1241,267 @@
           "address": "",
           "note": "",
           "tags": [],
-          "category": "food"
+          "category": "food",
+          "mapEnabled": true
+        },
+        {
+          "id": "157fde79-acc7-4fb5-baea-3c48691f9175",
+          "name": "Retro Zakka Hida Imayasu",
+          "address": "36.142524562225, 137.25982446902364",
+          "note": "Tienda retro/ cultura pop https://maps.app.goo.gl/FanUDh68ewna3Pn26",
+          "tags": [
+            "compras",
+            "opcional"
+          ],
+          "category": "compras",
+          "openingTime": "09:00",
+          "closingTime": "18:00",
+          "lat": 36.142524562225,
+          "lng": 137.25982446902364
+        },
+        {
+          "id": "729f6e5b-dbde-44be-ab13-7c53aa5b084d",
+          "name": "SAN AI Japanese Art Culture",
+          "address": "36.14252445456864, 137.25935105553063",
+          "note": "Tienda peculiar que mezcla cultura tradicional japonesa, anime y cultura pop. Vende productos originales, artesanía, accesorios, objetos de madera y muchos artículos con gatos.",
+          "tags": [
+            "compras",
+            "opcional"
+          ],
+          "category": "compras",
+          "openingTime": "09:00",
+          "closingTime": "18:00",
+          "lat": 36.14252445456864,
+          "lng": 137.25935105553063
+        },
+        {
+          "id": "8692267c-580c-4652-998e-faa21f95c047",
+          "name": "Takayama Usagiya",
+          "address": "36.1422021055139, 137.2594908937938",
+          "note": "Tienda de artesanía y objetos cotidianos dedicados a los conejos: figuras, textiles, papel japonés, incienso, vajilla y decoración. Está dentro de una antigua casa de Sanmachi.",
+          "tags": [
+            "compras",
+            "opcional"
+          ],
+          "lat": 36.1422021055139,
+          "lng": 137.2594908937938,
+          "openingTime": "09:00",
+          "closingTime": "18:00",
+          "category": "compras"
+        },
+        {
+          "id": "b0717699-6ec1-438b-bdf1-ffa8e46b79e2",
+          "name": "Second Street Takayama",
+          "address": "36.14917425960576, 137.24844282854426",
+          "note": "Lo pondria el 29 por ejemplo al volver ya que cierra tarde, 15 minutos andando desde la salida oeste de la estación.\nGran tienda de segunda mano con ropa, accesorios, objetos domésticos, electrónica, juguetes y una pequeña sección de hobby y figuras. El inventario es variable, puede que no encontremos nada.\nAl lado tenemos un centro comercial",
+          "tags": [
+            "compras",
+            "opcional"
+          ],
+          "lat": 36.14917425960576,
+          "lng": 137.24844282854426,
+          "category": "compras",
+          "openingTime": "10:00",
+          "closingTime": "21:00",
+          "mapEnabled": false
+        },
+        {
+          "id": "b28689ff-54d5-4dfb-aa11-6d1b69095332",
+          "name": "Takayama Shōwa-kan",
+          "address": "36.144006519272146, 137.26000458860568",
+          "note": "A 15 mins de  JR Takayama.  Recrea el paisaje urbano de los años 50 y 60 y expone muchos pequeños objetos y artículos diversos que recuerdan la vida de aquella época.\nCon tiendas de golosinas, peluquerías y tiendas de electrodomésticos de estilo antiguo, el parque temático ofrece una sensación realista del ambiente de aquella época.\nLos artículos nostálgicos y preciosos no sólo se pueden ver, sino que también se pueden tocar y experimentar.",
+          "tags": [
+            "opcional"
+          ],
+          "lat": 36.144006519272146,
+          "lng": 137.26000458860568,
+          "category": "museum",
+          "cost": 800,
+          "openingTime": "09:00",
+          "closingTime": "18:00",
+          "mapEnabled": false
+        },
+        {
+          "id": "5f7dbd04-d94e-4d33-8215-0b8bc860ebc4",
+          "name": "Hida Takayama Retro Museum",
+          "address": "36.13911985417243, 137.25983974085244",
+          "note": "Otra recreación retro muy cerca de Nakabashi, con aulas, juguetes, máquinas y habitaciones de época",
+          "tags": [
+            "opcional"
+          ],
+          "category": "museum",
+          "openingTime": "10:00",
+          "closingTime": "17:00",
+          "mapEnabled": false,
+          "lat": 36.13911985417243,
+          "lng": 137.25983974085244
+        },
+        {
+          "id": "3b5ea2b6-c893-4542-8f62-c016a7f50179",
+          "name": "雷鳥屋 — Raichōya",
+          "address": "36.14153268521228, 137.26107951505094",
+          "note": "vende papelería, postales, peluches y pequeños objetos de personajes de álbumes ilustrados, cerca del casco antiguo",
+          "tags": [
+            "compras",
+            "opcional"
+          ],
+          "lat": 36.14153268521228,
+          "lng": 137.26107951505094,
+          "category": "compras",
+          "mapEnabled": false
+        },
+        {
+          "id": "4866ed13-43b7-47cd-aaea-2fdaaf5d3bb6",
+          "name": "暮らしの骨董 お月さん",
+          "address": "36.1418328649657, 137.26117021505118",
+          "note": "Vende kokeshi, maneki-neko, broches vintage, cerámica, ukiyo-e y pequeños objetos antiguos o reutilizables.",
+          "tags": [
+            "compras",
+            "opcional"
+          ],
+          "lat": 36.1418328649657,
+          "lng": 137.26117021505118,
+          "category": "compras",
+          "openingTime": "10:00",
+          "closingTime": "17:00",
+          "mapEnabled": false
+        },
+        {
+          "id": "d4aaa754-89a1-4ca3-a3b2-060a3a0f1bd1",
+          "name": "Ruta Unryū-ji > Sogen-ji > Higashiyama Shinmei Shrine",
+          "address": "36.14540194649035, 137.26409089601037",
+          "note": "",
+          "tags": [],
+          "visitMinutes": 90,
+          "category": "paseo",
+          "lat": 36.14540194649035,
+          "lng": 137.26409089601037
+        },
+        {
+          "id": "7c81e0fb-5196-4c6a-82f5-0e404c95e2e7",
+          "name": "Unryū-ji",
+          "address": "36.14540194649035, 137.26409089601037",
+          "note": "Su puerta-campanario procede del antiguo Kōunkaku del castillo",
+          "tags": [
+            "opcional"
+          ],
+          "lat": 36.14540194649035,
+          "lng": 137.26409089601037,
+          "category": "templos",
+          "mapEnabled": false
+        },
+        {
+          "id": "8de74644-5346-4daf-bd3f-3b224d7d1c98",
+          "name": "Sogen-ji",
+          "address": "36.14385325163308, 137.2654649132016",
+          "note": "Su salón principal era el antiguo edificio de reuniones del tercer recinto del castillo",
+          "tags": [
+            "opcional"
+          ],
+          "category": "templos",
+          "lat": 36.14385325163308,
+          "lng": 137.2654649132016,
+          "mapEnabled": false
+        },
+        {
+          "id": "bbaf2835-a804-4c16-ac87-0fa615a0a23c",
+          "name": "Higashiyama Shinmei Shrine",
+          "address": "36.14407611508565, 137.26766428011902",
+          "note": "Su edificio más especial es el Ema-den, que según la tradición era el antiguo pabellón para contemplar la luna del castillo de Takayama y fue trasladado aquí cuando el castillo se demolió en 1695. También conserva antiguas pinturas votivas y una estatua del poeta Kakinomoto no Hitomaro tallada por Enkū.",
+          "tags": [
+            "opcional"
+          ],
+          "lat": 36.14407611508565,
+          "lng": 137.26766428011902,
+          "category": "templos",
+          "visitMinutes": 25,
+          "mapEnabled": false
+        },
+        {
+          "id": "052efe79-b4ca-4ff2-95e9-593b46362d8b",
+          "name": "Hida Tōshō-gū",
+          "address": "36.13443807486121, 137.2438533529477",
+          "note": "Es tranquilo, poco turístico y sus edificios principales están protegidos como bienes culturales.",
+          "tags": [],
+          "lat": 36.13443807486121,
+          "lng": 137.2438533529477,
+          "category": "templos",
+          "mapEnabled": false
+        },
+        {
+          "id": "07d4a9d3-f074-44f1-80a2-2291233c509f",
+          "name": "Ruta Hida Takayama Machinaka Kami-tama Junpai",
+          "address": "",
+          "note": "En lugar de sellos, cinco santuarios entregan una pequeña cuenta decorada con su emblema. Las cuentas se unen mediante cordones para formar un amuleto personalizado.\nImagen: https://www.instagram.com/p/DWdiciCmEPz/?img_index=1\n\nCordón sagrado (Kamihimo): 300 yenes\nPack cordón y la primera esfera cuesta: 800 yenes\nEsfera: 500",
+          "tags": [],
+          "category": "templos",
+          "openingTime": "09:00",
+          "closingTime": "16:00"
+        },
+        {
+          "id": "43769542-6e41-41e1-bfda-bbcc39b8f2c2",
+          "name": "Hie Shrine",
+          "address": "36.13345605607638, 137.26149438621508",
+          "note": "",
+          "tags": [
+            "opcional",
+            "💵 efectivo"
+          ],
+          "lat": 36.13345605607638,
+          "lng": 137.26149438621508,
+          "category": "templos"
+        },
+        {
+          "id": "dad4fe98-f3ba-4a05-a149-2d2931cc9167",
+          "name": "Sakurayama Hachimangū",
+          "address": "36.148381632039595, 137.2603292843663",
+          "note": "",
+          "tags": [
+            "opcional",
+            "💵 efectivo"
+          ],
+          "lat": 36.148381632039595,
+          "lng": 137.2603292843663,
+          "category": "templos"
+        },
+        {
+          "id": "0e98c1a2-42ab-4463-8c68-347755a1aa37",
+          "name": "Hida Gokoku Shrine",
+          "address": "36.141069393506925, 137.2630907690236",
+          "note": "",
+          "tags": [
+            "opcional",
+            "💵 efectivo"
+          ],
+          "lat": 36.141069393506925,
+          "lng": 137.2630907690236,
+          "category": "templos"
+        },
+        {
+          "id": "0c76ac70-1163-411f-bd23-b91faa85730d",
+          "name": "Hida Tenmangū",
+          "address": "36.13483062634598, 137.2549746113525",
+          "note": "",
+          "tags": [
+            "opcional",
+            "💵 efectivo"
+          ],
+          "lat": 36.13483062634598,
+          "lng": 137.2549746113525,
+          "category": "templos"
+        },
+        {
+          "id": "ec722d81-b7b3-4804-bf2b-35c7b7d2dc59",
+          "name": "Hida Sōja",
+          "address": "36.148430876203015, 137.25425909970858",
+          "note": "",
+          "tags": [
+            "opcional",
+            "💵 efectivo"
+          ],
+          "lat": 36.148430876203015,
+          "lng": 137.25425909970858,
+          "category": "templos"
         }
       ],
       "collapsed": true
@@ -1043,7 +1515,7 @@
           "id": "f9038ab0-c76d-4449-a8c7-d46be7989259",
           "name": "Oyado Hachibei",
           "address": "36.134849386182395, 137.2362898128136",
-          "note": "",
+          "note": "Desde la estacion de Takayama - ¥210 - 9 mins bus + 5 andando\nTaxi - ¥1.300–1.700 - 10 mins",
           "tags": [],
           "lat": 36.134849386182395,
           "lng": 137.2362898128136,
@@ -1055,8 +1527,14 @@
           "name": "Takayama > Hida Furukawa",
           "address": "",
           "note": "Llegar antes de las 8:00.\nEl traslado de las carpas está confirmado para el domingo 29 de noviembre de 2026, de 8:00 a 11:00. Las llevan desde Setogawa hasta el estanque Tenjin",
-          "tags": [],
-          "category": "transport"
+          "tags": [
+            "💵 efectivo",
+            "💳 tarjeta"
+          ],
+          "category": "transport",
+          "mapEnabled": true,
+          "cost": 240,
+          "visitMinutes": 20
         },
         {
           "id": "30bb71bf-2be7-4144-9ad6-08020ab19575",
@@ -1069,7 +1547,8 @@
           "category": "paseo",
           "lat": 36.23567647147162,
           "lng": 137.18651484166867,
-          "visitMinutes": 60
+          "visitMinutes": 60,
+          "mapEnabled": true
         },
         {
           "id": "ec0bacf2-580f-4df4-8586-cd63ab40ec23",
@@ -1082,7 +1561,8 @@
           "visitMinutes": 30,
           "category": "sight",
           "lat": 36.23430356879529,
-          "lng": 137.19249697864547
+          "lng": 137.19249697864547,
+          "mapEnabled": true
         },
         {
           "id": "60ed2e6f-23ce-4d48-b87d-523d7c4b6bb4",
@@ -1090,12 +1570,14 @@
           "address": "Keta Wakayama Shrine, 鼠餅古川線, 古川町若宮一丁目, 古川町片原町, Hida, Prefectura de Gifu, 509-4222, Japón",
           "note": "45-60 mins. Santuario protector de Hida Furukawa y origen del Furukawa Matsuri. Está situado en una elevación boscosa, tras una escalinata, con una gran encina sagrada dañada por un rayo. Se incluye en las rutas asociadas a Kimi no Na wa, aunque no es una reproducción exacta del santuario de la película. Está a unos 14 minutos andando desde la estación.",
           "tags": [
-            "semiobligatorio"
+            "semiobligatorio",
+            "💵 efectivo"
           ],
           "category": "santuario",
           "visitMinutes": 60,
           "lat": 36.2392502,
-          "lng": 137.1976293
+          "lng": 137.1976293,
+          "mapEnabled": true
         },
         {
           "id": "ca1d04b9-2709-43ae-9592-525c1afbdcbc",
@@ -1103,12 +1585,14 @@
           "address": "Enkō Temple, Setogawa River and Shirakabe Dozo, 古川町向町一丁目, 古川町壱之町, Hida, Prefectura de Gifu, 509-4225, Japón",
           "note": "Templo situado junto al canal. Destacan su gran puerta de madera y las tallas de tortugas bajo el tejado, relacionadas con una leyenda sobre el incendio de 1904.",
           "tags": [
-            "obligatorio"
+            "obligatorio",
+            "💵 efectivo"
           ],
           "lat": 36.2359002,
           "lng": 137.1863343,
           "category": "templos",
-          "visitMinutes": 20
+          "visitMinutes": 20,
+          "mapEnabled": true
         },
         {
           "id": "ada41784-3e4a-42f1-9ae4-385aa22d88f4",
@@ -1116,10 +1600,12 @@
           "address": "",
           "note": "Uno de los tres templos del Santera Mairi. Su salón principal es el edificio de madera más grande de la región de Hida. Interesante si queda de camino, pero no es imprescindible después de visitar tantos templos en Kioto.",
           "tags": [
-            "opcional"
+            "opcional",
+            "💵 efectivo"
           ],
           "visitMinutes": 20,
-          "category": "templos"
+          "category": "templos",
+          "mapEnabled": true
         },
         {
           "id": "e75d64b5-4907-4a27-8fc0-a7e7dad10ea1",
@@ -1129,12 +1615,15 @@
           "tags": [
             "comida",
             "compras",
-            "opcional"
+            "opcional",
+            "💵 efectivo",
+            "💳 tarjeta"
           ],
           "visitMinutes": 25,
           "category": "compras",
           "openingTime": "09:00",
-          "closingTime": "16:00"
+          "closingTime": "16:00",
+          "mapEnabled": true
         },
         {
           "id": "6d120b6a-4798-4ead-9944-ebad1eec780d",
@@ -1144,27 +1633,32 @@
           "tags": [
             "comida",
             "compras",
-            "opcional"
+            "opcional",
+            "💵 efectivo",
+            "💳 tarjeta"
           ],
           "visitMinutes": 20,
           "category": "compras",
           "openingTime": "09:00",
-          "closingTime": "17:00"
+          "closingTime": "17:00",
+          "mapEnabled": true
         },
         {
           "id": "a5eba2b7-8884-4710-bc34-6be0f0f7d567",
-          "name": "Mishima Japanese Candle Shop",
+          "name": "Mishima Candle Shop",
           "address": "36.23472333600304, 137.18799586821262",
           "note": "Taller familiar con más de 240 años de historia dedicado a la fabricación manual de velas japonesas vegetales. Si el artesano está trabajando, puede verse una breve demostración; no es una actividad reservada ni una visita larga.",
           "tags": [
-            "semiobligatorio"
+            "semiobligatorio",
+            "💵 efectivo"
           ],
           "openingTime": "09:30",
           "closingTime": "17:00",
           "category": "sight",
           "lat": 36.23472333600304,
           "lng": 137.18799586821262,
-          "visitMinutes": 20
+          "visitMinutes": 20,
+          "mapEnabled": true
         },
         {
           "id": "91c3dfc5-8d0f-42af-beb4-d96c7b211865",
@@ -1172,7 +1666,8 @@
           "address": "",
           "note": "Museo dedicado al Furukawa Matsuri. Expone tres carrozas reales, una proyección en 4K, mecanismos de marionetas y una reproducción del gran tambor.",
           "tags": [
-            "opcional"
+            "opcional",
+            "💵 efectivo"
           ],
           "mapEnabled": false,
           "category": "museum",
@@ -1187,7 +1682,8 @@
           "address": "36.23665032953521, 137.18751494328566",
           "note": "Museo dedicado a la carpintería tradicional de Hida. El edificio fue construido sin clavos y contiene uniones de madera, herramientas y pequeños rompecabezas de ensamblaje",
           "tags": [
-            "opcional"
+            "opcional",
+            "💵 efectivo"
           ],
           "lat": 36.23665032953521,
           "lng": 137.18751494328566,
@@ -1195,7 +1691,8 @@
           "cost": 300,
           "visitMinutes": 45,
           "openingTime": "09:00",
-          "closingTime": "17:00"
+          "closingTime": "17:00",
+          "mapEnabled": true
         },
         {
           "id": "a0d069e1-f338-45ce-82a2-42970f2b54cb",
@@ -1203,22 +1700,29 @@
           "address": "36.23389263530827, 137.18599714509165",
           "note": "Centro de productos locales y artesanía. Ofrece experiencias de kumihimo, pintura de velas y otros talleres. Tiempo con kumihimo: 30–60 minutos adicionales",
           "tags": [
-            "compras"
+            "compras",
+            "💵 efectivo"
           ],
           "category": "actividad",
           "visitMinutes": 20,
           "lat": 36.23389263530827,
           "lng": 137.18599714509165,
           "openingTime": "10:00",
-          "closingTime": "16:30"
+          "closingTime": "16:30",
+          "mapEnabled": true
         },
         {
           "id": "ff974844-07d9-4cda-8843-346a15870a5e",
           "name": "Hida Furukawa > Takayama",
           "address": "",
           "note": "",
-          "tags": [],
-          "category": "transport"
+          "tags": [
+            "💵 efectivo",
+            "💳 tarjeta"
+          ],
+          "category": "transport",
+          "mapEnabled": true,
+          "cost": 240
         }
       ],
       "collapsed": true
@@ -1232,8 +1736,10 @@
           "id": "d74b02af-c87e-4963-8e6b-a691bcfece2b",
           "name": "Oyado Hachibei",
           "address": "36.134849386182395, 137.2362898128136",
-          "note": "",
-          "tags": [],
+          "note": "Desde la estacion de Takayama - ¥210 - 9 mins bus + 5 andando\nTaxi - ¥1.300–1.700 - 10 mins",
+          "tags": [
+            "💵 efectivo"
+          ],
           "lat": 36.134849386182395,
           "lng": 137.2362898128136,
           "category": "hotel",
@@ -1244,11 +1750,17 @@
           "name": "Takayama > Shirakawa-go",
           "address": "Shirakawa-gō, Deai Bridge, Ogimachi, Shirakawa, Ono County, Prefectura de Gifu, 501-5627, Japón",
           "note": "",
-          "tags": [],
+          "tags": [
+            "reserva",
+            "💵 efectivo",
+            "💳 tarjeta"
+          ],
           "lat": 36.2573454,
           "lng": 136.9068317,
           "category": "transport",
-          "mapEnabled": false
+          "mapEnabled": false,
+          "cost": 2800,
+          "visitMinutes": 50
         },
         {
           "id": "f547e2af-67a2-4b1f-95b8-b24d8e53a273",
@@ -1261,7 +1773,8 @@
           "lat": 36.2629545,
           "lng": 136.9079634,
           "category": "sight",
-          "visitMinutes": 45
+          "visitMinutes": 45,
+          "mapEnabled": true
         },
         {
           "id": "06a2862d-9e0c-408f-ae37-10c866c54398",
@@ -1269,7 +1782,8 @@
           "address": "36.25996553018712, 136.907624268771",
           "note": "Una de las casas gasshō más grandes del pueblo y la única declarada Bien Cultural Importante de Japón. Sigue habitada, pero se pueden visitar la primera y segunda planta.",
           "tags": [
-            "obligatorio"
+            "obligatorio",
+            "💵 efectivo"
           ],
           "lat": 36.25996553018712,
           "lng": 136.907624268771,
@@ -1277,7 +1791,8 @@
           "cost": 400,
           "visitMinutes": 40,
           "openingTime": "09:00",
-          "closingTime": "17:00"
+          "closingTime": "17:00",
+          "mapEnabled": true
         },
         {
           "id": "b9b2a297-9044-4428-aad6-0df5b891a1ec",
@@ -1290,7 +1805,8 @@
           "lat": 36.2541194,
           "lng": 136.9057401,
           "category": "paseo",
-          "visitMinutes": 60
+          "visitMinutes": 60,
+          "mapEnabled": true
         },
         {
           "id": "80025d79-5e4d-4434-86b8-7e6874aba24d",
@@ -1298,7 +1814,8 @@
           "address": "36.25592221414302, 136.90657626646333",
           "note": "Templo budista cuyo salón, residencia y campanario conservan arquitectura gasshō. En el interior suele mantenerse encendido el irori, por lo que permite experimentar el ambiente ahumado tradicional.",
           "tags": [
-            "opcional"
+            "opcional",
+            "💵 efectivo"
           ],
           "lat": 36.25592221414302,
           "lng": 136.90657626646333,
@@ -1306,7 +1823,8 @@
           "cost": 400,
           "visitMinutes": 35,
           "openingTime": "08:30",
-          "closingTime": "17:00"
+          "closingTime": "17:00",
+          "mapEnabled": true
         },
         {
           "id": "1f7bb4bd-2045-4b1f-9fe8-98580ddb72f4",
@@ -1319,7 +1837,8 @@
           "lat": 36.25659763489544,
           "lng": 136.90384097868645,
           "category": "paseo",
-          "visitMinutes": 15
+          "visitMinutes": 15,
+          "mapEnabled": true
         },
         {
           "id": "635c960e-02bc-46e1-819b-b3d791ba53b4",
@@ -1327,7 +1846,8 @@
           "address": "36.25519336116375, 136.90233665025028",
           "note": "Museo al aire libre con 25 edificios tradicionales, incluidos casas, santuario, templo y molino. Se puede entrar en varios edificios y subir a los áticos. Es interesante, pero puede resultar algo repetitivo después de Casa Wada y Myōzen-ji.",
           "tags": [
-            "opcional"
+            "opcional",
+            "💵 efectivo"
           ],
           "lat": 36.25519336116375,
           "lng": 136.90233665025028,
@@ -1335,18 +1855,25 @@
           "visitMinutes": 90,
           "openingTime": "08:40",
           "closingTime": "17:00",
-          "category": "museum"
+          "category": "museum",
+          "mapEnabled": true
         },
         {
           "id": "29446f31-0e8a-4a50-9d40-4fd6c92020f2",
           "name": "Shirakawa-go > Takayama",
           "address": "Shirakawa-gō, Deai Bridge, Ogimachi, Shirakawa, Ono County, Prefectura de Gifu, 501-5627, Japón",
           "note": "",
-          "tags": [],
+          "tags": [
+            "reserva",
+            "💵 efectivo",
+            "💳 tarjeta"
+          ],
           "lat": 36.2573454,
           "lng": 136.9068317,
           "category": "transport",
-          "mapEnabled": false
+          "mapEnabled": false,
+          "cost": 2800,
+          "visitMinutes": 50
         },
         {
           "id": "f0359329-02a4-4132-8150-d3e08300d943",
@@ -1357,7 +1884,8 @@
             "opcional"
           ],
           "category": "paseo",
-          "visitMinutes": 60
+          "visitMinutes": 60,
+          "mapEnabled": true
         },
         {
           "id": "ff09093c-86d8-43f9-8ca7-7cd8c80941eb",
@@ -1369,7 +1897,8 @@
             "🍁"
           ],
           "openingTime": "17:30",
-          "closingTime": "21:00"
+          "closingTime": "21:00",
+          "mapEnabled": true
         }
       ],
       "collapsed": true
@@ -1397,14 +1926,49 @@
           "note": "",
           "tags": [
             "compras",
-            "opcional"
+            "opcional",
+            "💵 efectivo"
           ],
           "category": "compras",
           "visitMinutes": 45,
           "openingTime": "08:00",
           "closingTime": "12:00",
           "lat": 36.14476815273574,
-          "lng": 137.25792157570532
+          "lng": 137.25792157570532,
+          "mapEnabled": true
+        },
+        {
+          "id": "3199ddcc-8d8e-404d-a09f-5f58c8bb400c",
+          "name": "Hida no Sato - Hida Folk Village",
+          "address": "36.13269813708537, 137.23566915498165",
+          "note": "Museo al aire libre con más de 30 casas tradicionales trasladadas desde distintos puntos de Hida. Se puede entrar en muchas viviendas, ver irori, herramientas, talleres y formas de vida rurales. Incluye una zona gratuita de juegos tradicionales como kendama, peonzas, zancos de bambú, otedama y rompecabezas de madera. Algunas demostraciones y actividades dependen del día. Está a unos cinco minutos andando del hotel",
+          "tags": [
+            "opcional",
+            "actividad",
+            "💵 efectivo",
+            "💳 tarjeta"
+          ],
+          "lat": 36.13269813708537,
+          "lng": 137.23566915498165,
+          "category": "museum",
+          "cost": 700,
+          "visitMinutes": 60,
+          "openingTime": "08:30",
+          "closingTime": "17:00"
+        },
+        {
+          "id": "34eefb70-31b3-4988-b499-10bd90327c53",
+          "name": "Takayama > Tokyo",
+          "address": "",
+          "note": "",
+          "tags": [
+            "reserva",
+            "obligatorio",
+            "💳 tarjeta"
+          ],
+          "visitMinutes": 330,
+          "cost": 8000,
+          "category": "transport"
         }
       ],
       "collapsed": true
@@ -1583,9 +2147,9 @@
       "connects": true
     }
   ],
-  "routeProfile": "driving",
+  "routeProfile": "walking",
   "routeVisualization": "streets",
   "routeTimeOverrides": {},
   "routeTimeProfiles": {},
-  "exportedAt": "2026-07-22T22:49:07.668Z"
+  "exportedAt": "2026-07-23T15:14:22.230Z"
 }
