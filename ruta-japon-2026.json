@@ -79,6 +79,18 @@
           "closingTime": "20:00"
         },
         {
+          "id": "4e8a0cd9-8e2e-4a1e-a06f-756be06bf311",
+          "name": "Meijiken: omurice",
+          "address": "34.673420149977446, 135.5022752220191",
+          "note": "",
+          "tags": [],
+          "lat": 34.673420149977446,
+          "lng": 135.5022752220191,
+          "category": "food",
+          "openingTime": "11:00",
+          "closingTime": "22:00"
+        },
+        {
           "id": "53fb2414-451b-46e5-92a7-2ba7a84c3837",
           "name": "Hōzen-ji y Hōzenji Yokochō",
           "address": "34.6681780223396, 135.50242468227182",
@@ -99,18 +111,6 @@
           "category": "zona-comercial",
           "lat": 34.66878514078059,
           "lng": 135.50125418227162
-        },
-        {
-          "id": "4e8a0cd9-8e2e-4a1e-a06f-756be06bf311",
-          "name": "Meijiken: omurice",
-          "address": "34.673420149977446, 135.5022752220191",
-          "note": "",
-          "tags": [],
-          "lat": 34.673420149977446,
-          "lng": 135.5022752220191,
-          "category": "food",
-          "openingTime": "11:00",
-          "closingTime": "22:00"
         }
       ],
       "collapsed": true
@@ -135,7 +135,7 @@
           "id": "d3a97e10-ba70-4500-8e37-3751e21906a4",
           "name": "Namba Yasaka-jinja",
           "address": "34.661408,135.496903",
-          "note": "",
+          "note": "La oficina y tienda abre a las 9:00",
           "tags": [
             "obligatorio",
             "💵 efectivo"
@@ -144,23 +144,25 @@
           "lat": 34.661408,
           "lng": 135.496903,
           "visitMinutes": 30,
-          "category": "santuario"
+          "category": "santuario",
+          "openingTime": "06:00",
+          "closingTime": "17:00"
         },
         {
-          "id": "4d52c5b8-65e1-42a8-a0cc-6484a9b2df5f",
-          "name": "U-Arts",
-          "address": "34.66428830419233, 135.5036272932163",
-          "note": "Papelería",
+          "id": "308e1460-27f4-4fcb-a22f-ed67545778c3",
+          "name": "Aizendo",
+          "address": "34.65745614923071, 135.51259489761605",
+          "note": "",
           "tags": [
             "opcional"
           ],
-          "lat": 34.66428830419233,
-          "lng": 135.5036272932163,
-          "category": "compras",
+          "lat": 34.65745614923071,
+          "lng": 135.51259489761605,
+          "category": "templos",
+          "mapEnabled": true,
           "visitMinutes": 30,
-          "openingTime": "10:00",
-          "closingTime": "18:00",
-          "mapEnabled": true
+          "openingTime": "09:00",
+          "closingTime": "17:00"
         },
         {
           "id": "66c0cf5c-4a1e-4170-8ba4-85a51091558a",
@@ -183,7 +185,8 @@
           ],
           "category": "compras",
           "lat": 34.66023789776194,
-          "lng": 135.50610724287213
+          "lng": 135.50610724287213,
+          "visitMinutes": 45
         },
         {
           "id": "05bc3234-9936-4acc-a9aa-eeeaf10a6e55",
@@ -212,7 +215,8 @@
           ],
           "category": "compras",
           "lat": 34.660661923386094,
-          "lng": 135.50498711323092
+          "lng": 135.50498711323092,
+          "visitMinutes": 30
         },
         {
           "id": "c58d9b07-1b3b-44e9-a1d1-2a62dca30f7a",
@@ -228,16 +232,19 @@
           "category": "compras"
         },
         {
-          "id": "308e1460-27f4-4fcb-a22f-ed67545778c3",
-          "name": "Aizendo",
-          "address": "34.65745614923071, 135.51259489761605",
-          "note": "",
+          "id": "4d52c5b8-65e1-42a8-a0cc-6484a9b2df5f",
+          "name": "U-Arts",
+          "address": "34.66428830419233, 135.5036272932163",
+          "note": "Papelería",
           "tags": [
             "opcional"
           ],
-          "lat": 34.65745614923071,
-          "lng": 135.51259489761605,
-          "category": "templos",
+          "lat": 34.66428830419233,
+          "lng": 135.5036272932163,
+          "category": "compras",
+          "visitMinutes": 30,
+          "openingTime": "10:00",
+          "closingTime": "18:00",
           "mapEnabled": true
         },
         {
@@ -264,6 +271,16 @@
           "display_name": "西京極東向河原町, 右京区, Kioto, Prefectura de Kioto, 616-0000, Japón",
           "category": "hotel",
           "mapEnabled": false
+        },
+        {
+          "id": "67a8d79b-7884-4801-94f8-8536c1f3c7b5",
+          "name": "Shinsekai",
+          "address": "Shinsekai, Shinsekai-hondori Higashi-nakano cho, Ebisu-Higashi 2, Naniwa Ward, Osaka, Prefectura de Osaka, 556-0002, Japón",
+          "note": "",
+          "tags": [],
+          "lat": 34.6520901,
+          "lng": 135.5061908,
+          "category": "zona-comercial"
         }
       ],
       "collapsed": true
@@ -1971,7 +1988,7 @@
           "category": "transport"
         }
       ],
-      "collapsed": true
+      "collapsed": false
     }
   ],
   "backlog": [
@@ -2151,5 +2168,5 @@
   "routeVisualization": "streets",
   "routeTimeOverrides": {},
   "routeTimeProfiles": {},
-  "exportedAt": "2026-07-23T15:14:22.230Z"
+  "exportedAt": "2026-07-23T15:29:49.860Z"
 }
