@@ -48,7 +48,8 @@
           "openingTime": "11:00",
           "closingTime": "21:30",
           "lat": 34.7024242915903,
-          "lng": 135.49601019754118
+          "lng": 135.49601019754118,
+          "mapEnabled": true
         },
         {
           "id": "af3dfba6-282f-4e75-85eb-41ddca3c886d",
@@ -62,7 +63,31 @@
           "openingTime": "10:00",
           "closingTime": "20:00",
           "lat": 34.702000965938424,
-          "lng": 135.49604238412596
+          "lng": 135.49604238412596,
+          "mapEnabled": true
+        },
+        {
+          "id": "21365e00-f60f-49ed-b371-49719cdbdfd1",
+          "name": "Umeda Sky Building",
+          "address": "Umeda Sky Building, Osaka Itami Line, Ōyodo-Naka 1, Kita Ward, Osaka, Prefectura de Osaka, 531-0076, Japón",
+          "note": "Si estamos con energia",
+          "tags": [
+            "opcional",
+            "📸"
+          ],
+          "lat": 34.7052927,
+          "lng": 135.4905349,
+          "category": "sight"
+        },
+        {
+          "id": "91a66c26-1284-405e-8dda-a10cd5213767",
+          "name": "Midōsuji",
+          "address": "Midosuji, Kitahama 3-chome, Chūō Ward, Osaka, Prefectura de Osaka, 530-8201, Japón",
+          "note": "Avenida principal y más famosa de Osaka",
+          "tags": [],
+          "lat": 34.6930055,
+          "lng": 135.5009891,
+          "category": "sight"
         },
         {
           "id": "4c91a69b-c6ba-4399-aadd-f33b61b03581",
@@ -70,13 +95,43 @@
           "address": "Shinsaibashi Parco, 1, Shinsaibashisuji 1-chome, Chūō Ward, Osaka, Prefectura de Osaka, 542-8501, Japón",
           "note": "Figura enorme de sin rostro en el tren",
           "tags": [
-            "opcional"
+            "opcional",
+            "📸"
           ],
           "lat": 34.6738654,
           "lng": 135.5009718,
           "category": "zona-comercial",
           "openingTime": "10:00",
-          "closingTime": "20:00"
+          "closingTime": "20:00",
+          "mapEnabled": true
+        },
+        {
+          "id": "53fb2414-451b-46e5-92a7-2ba7a84c3837",
+          "name": "Hōzen-ji y Hōzenji Yokochō",
+          "address": "34.6681780223396, 135.50242468227182",
+          "note": "Zona comercial y templo",
+          "tags": [
+            "opcional"
+          ],
+          "category": "zona-comercial",
+          "openingTime": "00:00",
+          "closingTime": "23:59",
+          "lat": 34.6681780223396,
+          "lng": 135.50242468227182,
+          "mapEnabled": true
+        },
+        {
+          "id": "b5e2968d-555a-490a-a0e7-9133b42e3e81",
+          "name": "Dōtonbori, Glico y paseo junto al canal",
+          "address": "34.66878514078059, 135.50125418227162",
+          "note": "",
+          "tags": [
+            "opcional"
+          ],
+          "category": "zona-comercial",
+          "lat": 34.66878514078059,
+          "lng": 135.50125418227162,
+          "mapEnabled": true
         },
         {
           "id": "4e8a0cd9-8e2e-4a1e-a06f-756be06bf311",
@@ -88,29 +143,28 @@
           "lng": 135.5022752220191,
           "category": "food",
           "openingTime": "11:00",
-          "closingTime": "22:00"
+          "closingTime": "22:00",
+          "mapEnabled": true
         },
         {
-          "id": "53fb2414-451b-46e5-92a7-2ba7a84c3837",
-          "name": "Hōzen-ji y Hōzenji Yokochō",
-          "address": "34.6681780223396, 135.50242468227182",
-          "note": "Zona comercial y templo",
-          "tags": [],
-          "category": "zona-comercial",
-          "openingTime": "00:00",
-          "closingTime": "23:59",
-          "lat": 34.6681780223396,
-          "lng": 135.50242468227182
-        },
-        {
-          "id": "b5e2968d-555a-490a-a0e7-9133b42e3e81",
-          "name": "Dōtonbori, Glico y paseo junto al canal",
-          "address": "34.66878514078059, 135.50125418227162",
+          "id": "1317f436-990d-453e-9fb3-949efa905258",
+          "name": "GiGO (el antiguo SEGA Namba Avion)",
+          "address": "34.66301281257649, 135.50317258244382",
           "note": "",
           "tags": [],
-          "category": "zona-comercial",
-          "lat": 34.66878514078059,
-          "lng": 135.50125418227162
+          "lat": 34.66301281257649,
+          "lng": 135.50317258244382,
+          "category": "recreativas"
+        },
+        {
+          "id": "75fe9969-dfc1-4600-89ae-4b6736ed2a62",
+          "name": "Round1 Sennichimae y Taito Station Namba/Nippombashi",
+          "address": "34.66768745495081, 135.50287272662126",
+          "note": "",
+          "tags": [],
+          "lat": 34.66768745495081,
+          "lng": 135.50287272662126,
+          "category": "recreativas"
         }
       ],
       "collapsed": true
@@ -132,6 +186,18 @@
           "mapEnabled": true
         },
         {
+          "id": "c2deb01c-07d5-45cf-ac77-0688c076be0f",
+          "name": "Gorichan Minamisenba (Onigiris)",
+          "address": "34.67601162749296, 135.50225103983766",
+          "note": "Onigiris",
+          "tags": [],
+          "category": "food",
+          "openingTime": "08:00",
+          "lat": 34.67601162749296,
+          "lng": 135.50225103983766,
+          "mapEnabled": false
+        },
+        {
           "id": "d3a97e10-ba70-4500-8e37-3751e21906a4",
           "name": "Namba Yasaka-jinja",
           "address": "34.661408,135.496903",
@@ -147,6 +213,17 @@
           "category": "santuario",
           "openingTime": "06:00",
           "closingTime": "17:00"
+        },
+        {
+          "id": "66c0cf5c-4a1e-4170-8ba4-85a51091558a",
+          "name": "Den Den Town",
+          "address": "34.66059132089283, 135.50613675343536",
+          "note": "",
+          "tags": [],
+          "category": "zona-comercial",
+          "lat": 34.66059132089283,
+          "lng": 135.50613675343536,
+          "mapEnabled": true
         },
         {
           "id": "308e1460-27f4-4fcb-a22f-ed67545778c3",
@@ -165,16 +242,6 @@
           "closingTime": "17:00"
         },
         {
-          "id": "66c0cf5c-4a1e-4170-8ba4-85a51091558a",
-          "name": "Den Den Town",
-          "address": "34.66059132089283, 135.50613675343536",
-          "note": "",
-          "tags": [],
-          "category": "zona-comercial",
-          "lat": 34.66059132089283,
-          "lng": 135.50613675343536
-        },
-        {
           "id": "d881c371-6e01-44ad-bd7a-d79b1889f955",
           "name": "Surugaya Osaka Nipponbashi",
           "address": "34.66023789776194, 135.50610724287213",
@@ -186,7 +253,8 @@
           "category": "compras",
           "lat": 34.66023789776194,
           "lng": 135.50610724287213,
-          "visitMinutes": 45
+          "visitMinutes": 45,
+          "mapEnabled": true
         },
         {
           "id": "05bc3234-9936-4acc-a9aa-eeeaf10a6e55",
@@ -202,7 +270,8 @@
           "lng": 135.5055509129608,
           "openingTime": "10:00",
           "closingTime": "20:00",
-          "visitMinutes": 60
+          "visitMinutes": 60,
+          "mapEnabled": true
         },
         {
           "id": "b63d21e3-c857-4cbd-80b6-cf52d0d28fd6",
@@ -216,7 +285,8 @@
           "category": "compras",
           "lat": 34.660661923386094,
           "lng": 135.50498711323092,
-          "visitMinutes": 30
+          "visitMinutes": 30,
+          "mapEnabled": true
         },
         {
           "id": "c58d9b07-1b3b-44e9-a1d1-2a62dca30f7a",
@@ -229,7 +299,8 @@
           ],
           "lat": 34.66078860793164,
           "lng": 135.50551621141852,
-          "category": "compras"
+          "category": "compras",
+          "mapEnabled": true
         },
         {
           "id": "4d52c5b8-65e1-42a8-a0cc-6484a9b2df5f",
@@ -248,6 +319,42 @@
           "mapEnabled": true
         },
         {
+          "id": "67a8d79b-7884-4801-94f8-8536c1f3c7b5",
+          "name": "Shinsekai",
+          "address": "Shinsekai, Shinsekai-hondori Higashi-nakano cho, Ebisu-Higashi 2, Naniwa Ward, Osaka, Prefectura de Osaka, 556-0002, Japón",
+          "note": "barrio retro de la Osaka de posguerra, la torre Tsutenkaku, el Billiken y el kushikatsu (brochetas rebozadas)",
+          "tags": [
+            "opcional"
+          ],
+          "lat": 34.6520901,
+          "lng": 135.5061908,
+          "category": "zona-comercial",
+          "mapEnabled": false
+        },
+        {
+          "id": "e9bcf2c9-a59d-4c5b-9d5b-6d20dcf4031e",
+          "name": "Kuromon Ichiba",
+          "address": "34.66560697840886, 135.50631679963408",
+          "note": "Es mercado de comida para picar, turístico y con precios inflados pero esta cerca de Den den Town",
+          "tags": [
+            "opcional"
+          ],
+          "category": "zona-comercial",
+          "lat": 34.66560697840886,
+          "lng": 135.50631679963408,
+          "mapEnabled": false
+        },
+        {
+          "id": "6360b57a-a4ca-42bd-823e-7d7774744cb5",
+          "name": "Rikuro's (Namba)",
+          "address": "34.66667569044874, 135.50160727818024",
+          "note": "Pillar una tarta de queso y probarla en Kioto si no da tiempo",
+          "tags": [],
+          "category": "food",
+          "lat": 34.66667569044874,
+          "lng": 135.50160727818024
+        },
+        {
           "id": "5c5f5b0f-874e-4c57-86d8-e61e83300c91",
           "name": "Osaka > Kyoto",
           "address": "34.70260003782953, 135.49588622460024",
@@ -258,7 +365,8 @@
           "category": "transport",
           "visitMinutes": 40,
           "mapEnabled": true,
-          "cost": 410
+          "cost": 410,
+          "openingTime": "15:00"
         },
         {
           "id": "bcd47782-ffed-42e5-b334-7f187bf5a654",
@@ -273,17 +381,18 @@
           "mapEnabled": false
         },
         {
-          "id": "67a8d79b-7884-4801-94f8-8536c1f3c7b5",
-          "name": "Shinsekai",
-          "address": "Shinsekai, Shinsekai-hondori Higashi-nakano cho, Ebisu-Higashi 2, Naniwa Ward, Osaka, Prefectura de Osaka, 556-0002, Japón",
-          "note": "",
+          "id": "5cdde89b-160d-4cce-9cc2-fc6030079c22",
+          "name": "K36",
+          "address": "K36, Ishin Street, Kiyomizu 3-chome, 辰巳町, Higashiyama Ward, Kioto, Prefectura de Kioto, 605-0862, Japón",
+          "note": "Copa nocturna con la ciudad y la pagoda de Yasaka iluminadas. Mejor si se reserva",
           "tags": [],
-          "lat": 34.6520901,
-          "lng": 135.5061908,
-          "category": "zona-comercial"
+          "lat": 34.9976432,
+          "lng": 135.7795867,
+          "category": "food",
+          "mapEnabled": false
         }
       ],
-      "collapsed": true
+      "collapsed": false
     },
     {
       "id": "dc226f2b-f402-40ee-aeae-fc803818f698",
@@ -438,27 +547,8 @@
           "mapEnabled": true
         },
         {
-          "id": "e8203b37-53a0-4065-8842-432fc1b5ecf8",
-          "name": "Daigo-ji",
-          "address": "下醍醐, 醍醐大津線, 醍醐伽藍町, Fushimi, Kioto, Prefectura de Kioto, 601-1351, Japón",
-          "note": "Uno de los conjuntos más bonitos para el momiji: pagoda, estanque y Bentendō rodeado de arces.",
-          "tags": [
-            "obligatorio",
-            "💵 efectivo",
-            "💳 tarjeta"
-          ],
-          "lat": 34.9513438,
-          "lng": 135.8209305,
-          "display_name": "下醍醐, 醍醐大津線, 醍醐伽藍町, Fushimi, Kioto, Prefectura de Kioto, 601-1351, Japón",
-          "category": "templos",
-          "openingTime": "09:00",
-          "closingTime": "16:30",
-          "cost": 1500,
-          "mapEnabled": true
-        },
-        {
           "id": "7981d898-944b-4bc8-ac37-929f5890c688",
-          "name": "Sanjusangendo",
+          "name": "Sanjusangendo (Lo he cambiado de posicion porque cierra pronto)",
           "address": "博物館三十三間堂前, 七条通, 西之門町, 辰巳町, 東山区, Kioto, Prefectura de Kioto, 605-0932, Japón",
           "note": "Gran sala con 1.001 figuras de Kannon y esculturas de Fūjin y Raijin; la visita importante es el interior.",
           "tags": [
@@ -472,6 +562,26 @@
           "closingTime": "15:30",
           "cost": 600,
           "category": "templos",
+          "mapEnabled": true
+        },
+        {
+          "id": "e8203b37-53a0-4065-8842-432fc1b5ecf8",
+          "name": "Daigo-ji",
+          "address": "下醍醐, 醍醐大津線, 醍醐伽藍町, Fushimi, Kioto, Prefectura de Kioto, 601-1351, Japón",
+          "note": "Uno de los conjuntos más bonitos para el momiji: pagoda, estanque y Bentendō rodeado de arces.",
+          "tags": [
+            "obligatorio",
+            "💵 efectivo",
+            "💳 tarjeta",
+            "🚕"
+          ],
+          "lat": 34.9513438,
+          "lng": 135.8209305,
+          "display_name": "下醍醐, 醍醐大津線, 醍醐伽藍町, Fushimi, Kioto, Prefectura de Kioto, 601-1351, Japón",
+          "category": "templos",
+          "openingTime": "09:00",
+          "closingTime": "16:30",
+          "cost": 1500,
           "mapEnabled": true
         },
         {
@@ -579,7 +689,7 @@
     {
       "id": "f7572d2b-f871-444d-9048-91ed333caa2a",
       "date": "2026-11-25",
-      "title": "Kyoto - Templo dorado (Kinkaku-ji)",
+      "title": "Kyoto - Templo dorado/Gion",
       "spots": [
         {
           "id": "8c3815d2-9660-4ddb-8d81-28ed99fe624f",
@@ -610,6 +720,18 @@
           "openingTime": "07:00",
           "closingTime": "16:00",
           "mapEnabled": true
+        },
+        {
+          "id": "f049396c-8845-4fab-a922-20fb426da0de",
+          "name": "Museo Nintendo (Grupo 1)",
+          "address": "Nintendo Museum, Joyo Uji Line, Nanryocho 3-chome, Oguracho, Uji, Prefectura de Kioto, 611-0042, Japón",
+          "note": "Hay que mirar lo de las entradas",
+          "tags": [
+            "opcional"
+          ],
+          "lat": 34.8925698,
+          "lng": 135.7842049,
+          "category": "museum"
         },
         {
           "id": "bedaf789-c34e-47a9-abdc-f972cf98eca1",
@@ -766,6 +888,16 @@
           "closingTime": "20:00",
           "category": "actividad",
           "mapEnabled": true
+        },
+        {
+          "id": "feb8ef66-b06b-4eaa-8959-c7575ad71338",
+          "name": "Wagyu Ryotei Bungo",
+          "address": "35.006020370636826, 135.7740468229333",
+          "note": "Hay que reservar",
+          "tags": [],
+          "lat": 35.006020370636826,
+          "lng": 135.7740468229333,
+          "category": "food"
         }
       ],
       "collapsed": true
@@ -788,25 +920,8 @@
           "mapEnabled": true
         },
         {
-          "id": "59ae3841-565c-49b1-99b8-7b0803d9853d",
-          "name": "Himeji",
-          "address": "Himeji, Prefectura de Hyōgo, Japón",
-          "note": "Horario nocturno en la plaza: Generalmente de 17:45 a 21:15",
-          "tags": [
-            "obligatorio"
-          ],
-          "lat": 34.8153529,
-          "lng": 134.6854793,
-          "display_name": "Himeji, Prefectura de Hyōgo, Japón",
-          "cost": 2600,
-          "openingTime": "09:00",
-          "closingTime": "17:00",
-          "category": "castillo",
-          "mapEnabled": true
-        },
-        {
           "id": "d77fc3fa-bdc4-4f60-9f10-29d8e7fe40b4",
-          "name": "Universal Osaka",
+          "name": "Universal Osaka (Grupo 1)",
           "address": "Universal Studios Japan, 此花区, Osaka, Prefectura de Osaka, Japón",
           "note": "",
           "tags": [
@@ -817,6 +932,23 @@
           "display_name": "Universal Studios Japan, 此花区, Osaka, Prefectura de Osaka, Japón",
           "category": "parque-de-atracciones",
           "mapEnabled": true
+        },
+        {
+          "id": "59ae3841-565c-49b1-99b8-7b0803d9853d",
+          "name": "Himeji (Grupo 2)",
+          "address": "Himeji, Prefectura de Hyōgo, Japón",
+          "note": "Horario nocturno en la plaza: Generalmente de 17:45 a 21:15.\nCastillo de Himeji + jardín Kōko-en",
+          "tags": [
+            "obligatorio"
+          ],
+          "lat": 34.8153529,
+          "lng": 134.6854793,
+          "display_name": "Himeji, Prefectura de Hyōgo, Japón",
+          "cost": 2600,
+          "openingTime": "09:00",
+          "closingTime": "17:00",
+          "category": "castillo",
+          "mapEnabled": false
         },
         {
           "id": "185ae69a-1628-4be3-88b8-8d40f059a585",
@@ -834,6 +966,13 @@
           "openingTime": "09:00",
           "closingTime": "17:00",
           "mapEnabled": true
+        },
+        {
+          "id": "26790ee7-28b6-4106-946c-4fad3a14cc4b",
+          "name": "Tarde Grupo 2",
+          "address": "",
+          "note": "1. Tarde en el noreste (zona que no pisáis otro día): Okazaki-jinja (los conejos) · Nanzen-ji (acueducto) · Eikandō iluminado al anochecer.\n2. Cerca de Himeji Engyō-ji (monte Shosha, la de El último samurái).",
+          "tags": []
         }
       ],
       "collapsed": true
@@ -1160,6 +1299,14 @@
       "title": "Kyoto > Takayama",
       "spots": [
         {
+          "id": "61953c6d-5d56-4da7-9779-daa30a897991",
+          "name": "Ekiben",
+          "address": "",
+          "note": "Comprar el ekiben en la estación de Kioto antes de subir al Shinkansen a Nagoya",
+          "tags": [],
+          "category": "food"
+        },
+        {
           "id": "bdf5ea77-c085-489a-8404-9821e4b349bc",
           "name": "Kyoto > Takayama",
           "address": "Takayama, Prefectura de Gifu, Japón",
@@ -1170,6 +1317,14 @@
           "category": "transport",
           "visitMinutes": 240,
           "mapEnabled": true
+        },
+        {
+          "id": "abfa46e7-cc95-4bd3-a4a3-7f2a3d07551c",
+          "name": "Kimono",
+          "address": "",
+          "note": "",
+          "tags": [],
+          "category": "actividad"
         },
         {
           "id": "52dcb5f3-d01a-4709-8d55-0274e5c68142",
@@ -1274,7 +1429,8 @@
           "openingTime": "09:00",
           "closingTime": "18:00",
           "lat": 36.142524562225,
-          "lng": 137.25982446902364
+          "lng": 137.25982446902364,
+          "mapEnabled": true
         },
         {
           "id": "729f6e5b-dbde-44be-ab13-7c53aa5b084d",
@@ -1289,7 +1445,8 @@
           "openingTime": "09:00",
           "closingTime": "18:00",
           "lat": 36.14252445456864,
-          "lng": 137.25935105553063
+          "lng": 137.25935105553063,
+          "mapEnabled": true
         },
         {
           "id": "8692267c-580c-4652-998e-faa21f95c047",
@@ -1304,7 +1461,8 @@
           "lng": 137.2594908937938,
           "openingTime": "09:00",
           "closingTime": "18:00",
-          "category": "compras"
+          "category": "compras",
+          "mapEnabled": true
         },
         {
           "id": "b0717699-6ec1-438b-bdf1-ffa8e46b79e2",
@@ -1392,7 +1550,8 @@
           "visitMinutes": 90,
           "category": "paseo",
           "lat": 36.14540194649035,
-          "lng": 137.26409089601037
+          "lng": 137.26409089601037,
+          "mapEnabled": true
         },
         {
           "id": "7c81e0fb-5196-4c6a-82f5-0e404c95e2e7",
@@ -1453,7 +1612,8 @@
           "tags": [],
           "category": "templos",
           "openingTime": "09:00",
-          "closingTime": "16:00"
+          "closingTime": "16:00",
+          "mapEnabled": true
         },
         {
           "id": "43769542-6e41-41e1-bfda-bbcc39b8f2c2",
@@ -1466,7 +1626,10 @@
           ],
           "lat": 36.13345605607638,
           "lng": 137.26149438621508,
-          "category": "templos"
+          "category": "templos",
+          "mapEnabled": true,
+          "openingTime": "09:00",
+          "closingTime": "16:00"
         },
         {
           "id": "dad4fe98-f3ba-4a05-a149-2d2931cc9167",
@@ -1479,33 +1642,10 @@
           ],
           "lat": 36.148381632039595,
           "lng": 137.2603292843663,
-          "category": "templos"
-        },
-        {
-          "id": "0e98c1a2-42ab-4463-8c68-347755a1aa37",
-          "name": "Hida Gokoku Shrine",
-          "address": "36.141069393506925, 137.2630907690236",
-          "note": "",
-          "tags": [
-            "opcional",
-            "💵 efectivo"
-          ],
-          "lat": 36.141069393506925,
-          "lng": 137.2630907690236,
-          "category": "templos"
-        },
-        {
-          "id": "0c76ac70-1163-411f-bd23-b91faa85730d",
-          "name": "Hida Tenmangū",
-          "address": "36.13483062634598, 137.2549746113525",
-          "note": "",
-          "tags": [
-            "opcional",
-            "💵 efectivo"
-          ],
-          "lat": 36.13483062634598,
-          "lng": 137.2549746113525,
-          "category": "templos"
+          "category": "templos",
+          "mapEnabled": true,
+          "openingTime": "09:00",
+          "closingTime": "16:00"
         },
         {
           "id": "ec722d81-b7b3-4804-bf2b-35c7b7d2dc59",
@@ -1518,7 +1658,10 @@
           ],
           "lat": 36.148430876203015,
           "lng": 137.25425909970858,
-          "category": "templos"
+          "category": "templos",
+          "mapEnabled": true,
+          "openingTime": "09:00",
+          "closingTime": "16:00"
         }
       ],
       "collapsed": true
@@ -1971,7 +2114,8 @@
           "cost": 700,
           "visitMinutes": 60,
           "openingTime": "08:30",
-          "closingTime": "17:00"
+          "closingTime": "17:00",
+          "mapEnabled": true
         },
         {
           "id": "34eefb70-31b3-4988-b499-10bd90327c53",
@@ -1985,10 +2129,43 @@
           ],
           "visitMinutes": 330,
           "cost": 8000,
-          "category": "transport"
+          "category": "transport",
+          "mapEnabled": true
+        },
+        {
+          "id": "0c76ac70-1163-411f-bd23-b91faa85730d",
+          "name": "Hida Tenmangū",
+          "address": "36.13483062634598, 137.2549746113525",
+          "note": "",
+          "tags": [
+            "opcional",
+            "💵 efectivo"
+          ],
+          "lat": 36.13483062634598,
+          "lng": 137.2549746113525,
+          "category": "templos",
+          "mapEnabled": true,
+          "openingTime": "09:00",
+          "closingTime": "16:00"
+        },
+        {
+          "id": "0e98c1a2-42ab-4463-8c68-347755a1aa37",
+          "name": "Hida Gokoku Shrine",
+          "address": "36.141069393506925, 137.2630907690236",
+          "note": "",
+          "tags": [
+            "opcional",
+            "💵 efectivo"
+          ],
+          "lat": 36.141069393506925,
+          "lng": 137.2630907690236,
+          "category": "templos",
+          "mapEnabled": true,
+          "openingTime": "09:00",
+          "closingTime": "16:00"
         }
       ],
-      "collapsed": false
+      "collapsed": true
     }
   ],
   "backlog": [
@@ -2063,6 +2240,13 @@
       "lng": 139.773,
       "tags": [],
       "mapEnabled": true
+    },
+    {
+      "id": "69029f69-d846-4f7c-ae5a-ef155fb1e26c",
+      "name": "Pablo's tarta queso Tokyo",
+      "address": "",
+      "note": "",
+      "tags": []
     }
   ],
   "backlogGroups": [],
@@ -2076,7 +2260,9 @@
     "actividad",
     "🍁",
     "💵 efectivo",
-    "💳 tarjeta"
+    "💳 tarjeta",
+    "📸",
+    "🚕"
   ],
   "categories": [
     {
@@ -2162,11 +2348,17 @@
       "label": "Compras",
       "color": "#4c9a5b",
       "connects": true
+    },
+    {
+      "id": "recreativas",
+      "label": "Recreativas",
+      "color": "#ff00f7",
+      "connects": true
     }
   ],
   "routeProfile": "walking",
   "routeVisualization": "streets",
   "routeTimeOverrides": {},
   "routeTimeProfiles": {},
-  "exportedAt": "2026-07-23T15:29:49.860Z"
+  "exportedAt": "2026-07-26T17:25:02.828Z"
 }
