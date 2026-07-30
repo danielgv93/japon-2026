@@ -1,11 +1,17 @@
 {
-  "version": 22,
+  "version": 26,
   "tripTitle": "Japón 2026",
   "localCurrency": "EUR",
   "foreignCurrency": "JPY",
-  "exchangeRate": 0.00538,
-  "exchangeRateDate": "2026-07-22",
-  "tripNotes": "¿Dedicamos 1 dia a Takayamam y otro a Shirakawa-go o los 2 en un mismo dia?\n\nDecidir si queremos subir o no al monte Misen, porque condiciona bastante el tiempo disponible para Hiroshima y para la parte baja de Miyajima.\n\n# Ruta sin monte Misen, \n\nParque de la Paz y Cúpula → Castillo de Hiroshima por el exterior y Ninomaru → Miyajima → Itsukushima-jinja → Omotesandō y comida → Machiya-dōri y Yamabe no Komichi → Jizō de Sakuramachi, santuario Kō y Ryū no Matsu → Senjōkaku y pagoda → Momijidani Park → Daishō-in → torii, costa, tiendas y ciervos → regreso a Hiroshima → cena.\n\n# Ruta con monte Misen\n\nParque de la Paz y Cúpula → Miyajima → Itsukushima-jinja → Omotesandō y comida rápida → Machiya-dōri y Yamabe no Komichi → Jizō de Sakuramachi, santuario Kō y Ryū no Matsu → Senjōkaku y pagoda → Momijidani Park de camino al teleférico → teleférico → mirador Shishiiwa → caminata hasta la cima del monte Misen → regreso en teleférico → torii, costa, tiendas y ciervos → regreso a Hiroshima → cena.\n\n**Sin Misen:** Más visitas en la parte baja, castillo exterior, Daishō-in y un ritmo más relajado.\n**Con Misen:** Se mantienen los principales lugares de Miyajima, pero se eliminan el castillo y Daishō-in y se reduce el tiempo disponible en el resto. A cambio, se añade el teleférico, el mirador y la cima del monte Misen.",
+  "exchangeRate": 0.00535,
+  "exchangeRateDate": "2026-07-30",
+  "tripNotePages": [
+    {
+      "id": "notes-general",
+      "title": "General",
+      "content": "¿Dedicamos 1 dia a Takayamam y otro a Shirakawa-go o los 2 en un mismo dia?\n\nDecidir si queremos subir o no al monte Misen, porque condiciona bastante el tiempo disponible para Hiroshima y para la parte baja de Miyajima.\n\n# Ruta sin monte Misen, \n\nParque de la Paz y Cúpula → Castillo de Hiroshima por el exterior y Ninomaru → Miyajima → Itsukushima-jinja → Omotesandō y comida → Machiya-dōri y Yamabe no Komichi → Jizō de Sakuramachi, santuario Kō y Ryū no Matsu → Senjōkaku y pagoda → Momijidani Park → Daishō-in → torii, costa, tiendas y ciervos → regreso a Hiroshima → cena.\n\n# Ruta con monte Misen\n\nParque de la Paz y Cúpula → Miyajima → Itsukushima-jinja → Omotesandō y comida rápida → Machiya-dōri y Yamabe no Komichi → Jizō de Sakuramachi, santuario Kō y Ryū no Matsu → Senjōkaku y pagoda → Momijidani Park de camino al teleférico → teleférico → mirador Shishiiwa → caminata hasta la cima del monte Misen → regreso en teleférico → torii, costa, tiendas y ciervos → regreso a Hiroshima → cena.\n\n**Sin Misen:** Más visitas en la parte baja, castillo exterior, Daishō-in y un ritmo más relajado.\n**Con Misen:** Se mantienen los principales lugares de Miyajima, pero se eliminan el castillo y Daishō-in y se reduce el tiempo disponible en el resto. A cambio, se añade el teleférico, el mirador y la cima del monte Misen."
+    }
+  ],
   "days": [
     {
       "id": "c1818eef-cc77-4dd3-b679-227dd0ac5897",
@@ -23,7 +29,8 @@
           "category": "transport",
           "lat": 34.70260003782953,
           "lng": 135.49588622460024,
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "817fe01f-5c32-4e25-845c-518c85c2b604",
@@ -34,7 +41,8 @@
           "lat": 34.6960222,
           "lng": 135.4999557,
           "category": "hotel",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "99c2c0bd-9b67-4681-8f9e-1db44d760c10",
@@ -49,7 +57,8 @@
           "closingTime": "21:30",
           "lat": 34.7024242915903,
           "lng": 135.49601019754118,
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "af3dfba6-282f-4e75-85eb-41ddca3c886d",
@@ -64,7 +73,8 @@
           "closingTime": "20:00",
           "lat": 34.702000965938424,
           "lng": 135.49604238412596,
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "21365e00-f60f-49ed-b371-49719cdbdfd1",
@@ -77,7 +87,9 @@
           ],
           "lat": 34.7052927,
           "lng": 135.4905349,
-          "category": "sight"
+          "category": "sight",
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "91a66c26-1284-405e-8dda-a10cd5213767",
@@ -87,7 +99,9 @@
           "tags": [],
           "lat": 34.6930055,
           "lng": 135.5009891,
-          "category": "sight"
+          "category": "sight",
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "4c91a69b-c6ba-4399-aadd-f33b61b03581",
@@ -103,7 +117,8 @@
           "category": "zona-comercial",
           "openingTime": "10:00",
           "closingTime": "20:00",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "53fb2414-451b-46e5-92a7-2ba7a84c3837",
@@ -118,7 +133,8 @@
           "closingTime": "23:59",
           "lat": 34.6681780223396,
           "lng": 135.50242468227182,
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "b5e2968d-555a-490a-a0e7-9133b42e3e81",
@@ -131,7 +147,8 @@
           "category": "zona-comercial",
           "lat": 34.66878514078059,
           "lng": 135.50125418227162,
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "4e8a0cd9-8e2e-4a1e-a06f-756be06bf311",
@@ -144,7 +161,8 @@
           "category": "food",
           "openingTime": "11:00",
           "closingTime": "22:00",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "1317f436-990d-453e-9fb3-949efa905258",
@@ -154,7 +172,9 @@
           "tags": [],
           "lat": 34.66301281257649,
           "lng": 135.50317258244382,
-          "category": "recreativas"
+          "category": "recreativas",
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "75fe9969-dfc1-4600-89ae-4b6736ed2a62",
@@ -164,7 +184,9 @@
           "tags": [],
           "lat": 34.66768745495081,
           "lng": 135.50287272662126,
-          "category": "recreativas"
+          "category": "recreativas",
+          "mapEnabled": true,
+          "kind": "activity"
         }
       ],
       "collapsed": true
@@ -183,7 +205,8 @@
           "lat": 34.6960222,
           "lng": 135.4999557,
           "category": "hotel",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "c2deb01c-07d5-45cf-ac77-0688c076be0f",
@@ -195,7 +218,8 @@
           "openingTime": "08:00",
           "lat": 34.67601162749296,
           "lng": 135.50225103983766,
-          "mapEnabled": false
+          "mapEnabled": false,
+          "kind": "activity"
         },
         {
           "id": "d3a97e10-ba70-4500-8e37-3751e21906a4",
@@ -212,7 +236,8 @@
           "visitMinutes": 30,
           "category": "santuario",
           "openingTime": "06:00",
-          "closingTime": "17:00"
+          "closingTime": "17:00",
+          "kind": "activity"
         },
         {
           "id": "66c0cf5c-4a1e-4170-8ba4-85a51091558a",
@@ -223,7 +248,8 @@
           "category": "zona-comercial",
           "lat": 34.66059132089283,
           "lng": 135.50613675343536,
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "308e1460-27f4-4fcb-a22f-ed67545778c3",
@@ -239,7 +265,8 @@
           "mapEnabled": true,
           "visitMinutes": 30,
           "openingTime": "09:00",
-          "closingTime": "17:00"
+          "closingTime": "17:00",
+          "kind": "activity"
         },
         {
           "id": "d881c371-6e01-44ad-bd7a-d79b1889f955",
@@ -254,7 +281,8 @@
           "lat": 34.66023789776194,
           "lng": 135.50610724287213,
           "visitMinutes": 45,
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "05bc3234-9936-4acc-a9aa-eeeaf10a6e55",
@@ -271,7 +299,8 @@
           "openingTime": "10:00",
           "closingTime": "20:00",
           "visitMinutes": 60,
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "b63d21e3-c857-4cbd-80b6-cf52d0d28fd6",
@@ -286,7 +315,8 @@
           "lat": 34.660661923386094,
           "lng": 135.50498711323092,
           "visitMinutes": 30,
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "c58d9b07-1b3b-44e9-a1d1-2a62dca30f7a",
@@ -300,7 +330,8 @@
           "lat": 34.66078860793164,
           "lng": 135.50551621141852,
           "category": "compras",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "4d52c5b8-65e1-42a8-a0cc-6484a9b2df5f",
@@ -316,7 +347,8 @@
           "visitMinutes": 30,
           "openingTime": "10:00",
           "closingTime": "18:00",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "67a8d79b-7884-4801-94f8-8536c1f3c7b5",
@@ -329,7 +361,8 @@
           "lat": 34.6520901,
           "lng": 135.5061908,
           "category": "zona-comercial",
-          "mapEnabled": false
+          "mapEnabled": false,
+          "kind": "activity"
         },
         {
           "id": "e9bcf2c9-a59d-4c5b-9d5b-6d20dcf4031e",
@@ -342,7 +375,8 @@
           "category": "zona-comercial",
           "lat": 34.66560697840886,
           "lng": 135.50631679963408,
-          "mapEnabled": false
+          "mapEnabled": false,
+          "kind": "activity"
         },
         {
           "id": "6360b57a-a4ca-42bd-823e-7d7774744cb5",
@@ -352,7 +386,9 @@
           "tags": [],
           "category": "food",
           "lat": 34.66667569044874,
-          "lng": 135.50160727818024
+          "lng": 135.50160727818024,
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "5c5f5b0f-874e-4c57-86d8-e61e83300c91",
@@ -366,7 +402,8 @@
           "visitMinutes": 40,
           "mapEnabled": true,
           "cost": 410,
-          "openingTime": "15:00"
+          "openingTime": "15:00",
+          "kind": "activity"
         },
         {
           "id": "bcd47782-ffed-42e5-b334-7f187bf5a654",
@@ -378,7 +415,8 @@
           "lng": 135.7190949,
           "display_name": "西京極東向河原町, 右京区, Kioto, Prefectura de Kioto, 616-0000, Japón",
           "category": "hotel",
-          "mapEnabled": false
+          "mapEnabled": false,
+          "kind": "activity"
         },
         {
           "id": "5cdde89b-160d-4cce-9cc2-fc6030079c22",
@@ -389,108 +427,8 @@
           "lat": 34.9976432,
           "lng": 135.7795867,
           "category": "food",
-          "mapEnabled": false
-        }
-      ],
-      "collapsed": false
-    },
-    {
-      "id": "dc226f2b-f402-40ee-aeae-fc803818f698",
-      "date": "2026-11-24",
-      "title": "Backlog Kioto",
-      "spots": [
-        {
-          "id": "0b1fe722-ccd2-478f-b389-cb5a2610c74f",
-          "name": "Goō-jinja",
-          "address": "桜鶴円町, 上京区, Kioto, Prefectura de Kioto, 602-8021, Japón",
-          "note": "Pequeño santuario de los jabalíes junto al Palacio Imperial.\nGoshuin y amuletos: 09:30–16:30",
-          "tags": [
-            "opcional"
-          ],
-          "lat": 35.021273,
-          "lng": 135.759234,
-          "display_name": "桜鶴円町, 上京区, Kioto, Prefectura de Kioto, 602-8021, Japón",
-          "category": "templos",
-          "openingTime": "06:00",
-          "closingTime": "21:00",
-          "mapEnabled": true
-        },
-        {
-          "id": "26d79e18-d5b8-4ff2-872b-6d8e01dcd5a8",
-          "name": "Santuario Nishiki Tenmangū",
-          "address": "中之町, 中京区, Kioto, Prefectura de Kioto, 604-8042, Japón",
-          "note": "Está al final de las galerías comerciales de Nishiki y Shinkyōgoku",
-          "tags": [
-            "opcional"
-          ],
-          "lat": 35.004407,
-          "lng": 135.767632,
-          "display_name": "中之町, 中京区, Kioto, Prefectura de Kioto, 604-8042, Japón",
-          "category": "templos",
-          "openingTime": "08:00",
-          "closingTime": "20:00",
-          "mapEnabled": true
-        },
-        {
-          "id": "90b487fd-30b4-445c-a926-d8437dd0c344",
-          "name": "Nara",
-          "address": "Nara, Prefectura de Nara, Japón",
-          "note": "",
-          "tags": [],
-          "lat": 34.6845445,
-          "lng": 135.8048359,
-          "display_name": "Nara, Prefectura de Nara, Japón",
-          "category": "paseo",
-          "mapEnabled": true
-        },
-        {
-          "id": "a10dcfce-36c1-4b11-a949-675f12334703",
-          "name": "Templo Tō-ji",
-          "address": "東寺, 九条通り, 西九条比永城町, 南区, Kioto, Prefectura de Kioto, 601-8438, Japón",
-          "note": "Pagoda 5 pisos. Precio de dia 500 y 1000 la iluminación nocturna \nIluminacion: 18:00–21:30, última entrada 21:00",
-          "tags": [
-            "opcional",
-            "🍁",
-            "💵 efectivo"
-          ],
-          "lat": 34.9806311,
-          "lng": 135.7477192,
-          "display_name": "東寺, 九条通り, 西九条比永城町, 南区, Kioto, Prefectura de Kioto, 601-8438, Japón",
-          "category": "templos",
-          "cost": 1000,
-          "openingTime": "08:00",
-          "closingTime": "21:30",
-          "mapEnabled": true
-        },
-        {
-          "id": "682d6790-0469-4802-a92c-921f28629a4e",
-          "name": "TeamLab Biovortex Kyoto",
-          "address": "teamLab BioVortex, 八条通, 東之町, 下京区, Kioto, Prefectura de Kioto, 601-8006, Japón",
-          "note": "3,400 - 4,400",
-          "tags": [
-            "opcional",
-            "💵 efectivo",
-            "💳 tarjeta"
-          ],
-          "lat": 34.9837455,
-          "lng": 135.7654182,
-          "display_name": "teamLab BioVortex, 八条通, 東之町, 下京区, Kioto, Prefectura de Kioto, 601-8006, Japón",
-          "category": "actividad",
-          "cost": 4400,
-          "openingTime": "09:00",
-          "closingTime": "19:30",
-          "mapEnabled": true
-        },
-        {
-          "id": "ff029a4c-2939-4c4f-97d7-3ef00d6e0dac",
-          "name": "Shisendo Jozan-ji",
-          "address": "35.044453472417054, 135.79536840935273",
-          "note": "",
-          "tags": [],
-          "lat": 35.044453472417054,
-          "lng": 135.79536840935273,
           "mapEnabled": false,
-          "category": "templos"
+          "kind": "activity"
         }
       ],
       "collapsed": true
@@ -510,7 +448,8 @@
           "lng": 135.7190949,
           "display_name": "西京極東向河原町, 右京区, Kioto, Prefectura de Kioto, 616-0000, Japón",
           "category": "hotel",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "c693d188-1478-4b36-b11d-d18eab923c90",
@@ -526,7 +465,8 @@
           "category": "sight",
           "openingTime": "00:00",
           "closingTime": "00:00",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "9b7d0b16-99ce-409e-b1f5-d8a29cdef79b",
@@ -544,7 +484,8 @@
           "lat": 34.9647195,
           "lng": 135.774862,
           "display_name": "石峰寺, 千本鳥居, 深草石峰寺山町, Fushimi, Kioto, Prefectura de Kioto, 612-0807, Japón",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "7981d898-944b-4bc8-ac37-929f5890c688",
@@ -562,7 +503,8 @@
           "closingTime": "15:30",
           "cost": 600,
           "category": "templos",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "e8203b37-53a0-4065-8842-432fc1b5ecf8",
@@ -582,7 +524,8 @@
           "openingTime": "09:00",
           "closingTime": "16:30",
           "cost": 1500,
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "s9",
@@ -596,7 +539,8 @@
           ],
           "display_name": "Ninenzaka, Kyoto",
           "category": "zona-comercial",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "s8",
@@ -615,7 +559,8 @@
           "openingTime": "06:00",
           "closingTime": "21:00",
           "cost": 500,
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "d8665a62-0f18-42a0-beef-cdfa05089849",
@@ -634,7 +579,8 @@
           "cost": 1200,
           "openingTime": "09:00",
           "closingTime": "21:30",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "8906958f-7a3d-4fb8-9a35-60c7c187e58f",
@@ -648,7 +594,8 @@
           "lng": 135.7782611,
           "display_name": "八坂神社, 東大路通, 祇園町北側, 辰巳町, 東山区, Kioto, Prefectura de Kioto, 605-0062, Japón",
           "category": "templos",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "8f1289a1-bb0f-441c-a1be-fa4a016d631b",
@@ -667,7 +614,8 @@
           "openingTime": "09:00",
           "closingTime": "16:00",
           "cost": 500,
-          "mapEnabled": false
+          "mapEnabled": false,
+          "kind": "activity"
         },
         {
           "id": "71fbe2d9-3906-4b2c-a932-10a97328696e",
@@ -681,7 +629,8 @@
           "lng": 135.7693689,
           "display_name": "四条河原町, 河原町通, 塩屋町, 中京区, Kioto, Prefectura de Kioto, 604-8027, Japón",
           "category": "zona-comercial",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         }
       ],
       "collapsed": true
@@ -701,7 +650,8 @@
           "lng": 135.7190949,
           "display_name": "西京極東向河原町, 右京区, Kioto, Prefectura de Kioto, 616-0000, Japón",
           "category": "hotel",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "81994398-bde9-4aec-aa9c-ed4c180fc0e6",
@@ -719,7 +669,8 @@
           "category": "zona-comercial",
           "openingTime": "07:00",
           "closingTime": "16:00",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "f049396c-8845-4fab-a922-20fb426da0de",
@@ -731,7 +682,9 @@
           ],
           "lat": 34.8925698,
           "lng": 135.7842049,
-          "category": "museum"
+          "category": "museum",
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "bedaf789-c34e-47a9-abdc-f972cf98eca1",
@@ -751,7 +704,8 @@
           "cost": 2400,
           "openingTime": "08:45",
           "closingTime": "16:10",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "b6c9d256-4bc6-49cb-b37c-73b3b3a65570",
@@ -769,7 +723,8 @@
           "openingTime": "09:00",
           "closingTime": "16:30",
           "cost": 300,
-          "mapEnabled": false
+          "mapEnabled": false,
+          "kind": "activity"
         },
         {
           "id": "1998e9a0-a7b1-462d-8403-7c6da26157d7",
@@ -787,7 +742,8 @@
           "closingTime": "16:30",
           "category": "templos",
           "cost": 500,
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "92a361e1-661a-4332-83bd-688e8ee33a18",
@@ -805,7 +761,8 @@
           "openingTime": "09:00",
           "closingTime": "16:30",
           "cost": 500,
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "ab3e1716-3404-477f-ba82-d47a6dc7331e",
@@ -825,7 +782,8 @@
           "cost": 1000,
           "openingTime": "09:00",
           "closingTime": "16:30",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "bcee4748-1cb8-4004-afa0-4cfe4defce1d",
@@ -841,7 +799,8 @@
           "display_name": "下弁天町, 辰巳町, 東山区, Kioto, Prefectura de Kioto, 605-8505, Japón",
           "openingTime": "00:00",
           "closingTime": "00:00",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "s10",
@@ -855,7 +814,8 @@
           ],
           "display_name": "Gion, Kyoto",
           "category": "zona-comercial",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "aff37df8-f8ba-40e2-900d-3639b8325e76",
@@ -869,7 +829,8 @@
           "lng": 135.7712126,
           "display_name": "先斗町, 先斗町通, 鍋屋町, 中京区, Kioto, Prefectura de Kioto, 604-8023, Japón",
           "category": "zona-comercial",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "b32f43a6-75aa-42ad-a73f-413578a62ad2",
@@ -887,7 +848,8 @@
           "openingTime": "19:00",
           "closingTime": "20:00",
           "category": "actividad",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "feb8ef66-b06b-4eaa-8959-c7575ad71338",
@@ -897,7 +859,9 @@
           "tags": [],
           "lat": 35.006020370636826,
           "lng": 135.7740468229333,
-          "category": "food"
+          "category": "food",
+          "mapEnabled": true,
+          "kind": "activity"
         }
       ],
       "collapsed": true
@@ -917,7 +881,8 @@
           "lng": 135.7190949,
           "display_name": "西京極東向河原町, 右京区, Kioto, Prefectura de Kioto, 616-0000, Japón",
           "category": "hotel",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "d77fc3fa-bdc4-4f60-9f10-29d8e7fe40b4",
@@ -931,7 +896,8 @@
           "lng": 135.4324527,
           "display_name": "Universal Studios Japan, 此花区, Osaka, Prefectura de Osaka, Japón",
           "category": "parque-de-atracciones",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "59ae3841-565c-49b1-99b8-7b0803d9853d",
@@ -948,7 +914,8 @@
           "openingTime": "09:00",
           "closingTime": "17:00",
           "category": "castillo",
-          "mapEnabled": false
+          "mapEnabled": false,
+          "kind": "activity"
         },
         {
           "id": "185ae69a-1628-4be3-88b8-8d40f059a585",
@@ -965,14 +932,17 @@
           "category": "templos",
           "openingTime": "09:00",
           "closingTime": "17:00",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "26790ee7-28b6-4106-946c-4fad3a14cc4b",
           "name": "Tarde Grupo 2",
           "address": "",
           "note": "1. Tarde en el noreste (zona que no pisáis otro día): Okazaki-jinja (los conejos) · Nanzen-ji (acueducto) · Eikandō iluminado al anochecer.\n2. Cerca de Himeji Engyō-ji (monte Shosha, la de El último samurái).",
-          "tags": []
+          "tags": [],
+          "mapEnabled": true,
+          "kind": "activity"
         }
       ],
       "collapsed": true
@@ -992,7 +962,8 @@
           "lng": 135.7190949,
           "display_name": "西京極東向河原町, 右京区, Kioto, Prefectura de Kioto, 616-0000, Japón",
           "category": "hotel",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "5d2f959c-13b4-4bb7-b040-dada1e203722",
@@ -1007,7 +978,8 @@
           "cost": 12000,
           "openingTime": "06:55",
           "closingTime": "08:37",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "8fe2f624-e7b0-41ae-b8ea-b782cf84d51f",
@@ -1022,7 +994,8 @@
           "display_name": "宮島口, 宮島口駅構内自由通路, 宮島口一丁目, Hatsukaichi, Prefectura de Hiroshima, 739-0411, Japón",
           "category": "transport",
           "cost": 420,
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "254d80ed-3d43-410c-a29d-fb9608eacf02",
@@ -1037,7 +1010,8 @@
           "display_name": "宮島口, 宮島口駅構内自由通路, 宮島口一丁目, Hatsukaichi, Prefectura de Hiroshima, 739-0411, Japón",
           "category": "transport",
           "cost": 300,
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "a75c0374-a2db-40cc-a439-0ee0692f1195",
@@ -1055,7 +1029,8 @@
           "lat": 34.2965418,
           "lng": 132.3190077,
           "display_name": "厳島神社, Hatsukaichi, Prefectura de Hiroshima, Japón",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "c7d984e2-2ae9-4c1c-aab9-e69aabdc5b62",
@@ -1069,7 +1044,8 @@
           "display_name": "Hatsukaichi, Prefectura de Hiroshima, Japón",
           "mapEnabled": true,
           "openingTime": "00:00",
-          "closingTime": "00:00"
+          "closingTime": "00:00",
+          "kind": "activity"
         },
         {
           "id": "5576e77c-501a-4bcc-acef-554b52696c42",
@@ -1087,7 +1063,8 @@
           "mapEnabled": true,
           "lat": 34.2973208,
           "lng": 132.3202671,
-          "display_name": "豊国神社, 厳島港厳島神社線, 宮島町, Hatsukaichi, Prefectura de Hiroshima, 739-0557, Japón"
+          "display_name": "豊国神社, 厳島港厳島神社線, 宮島町, Hatsukaichi, Prefectura de Hiroshima, 739-0557, Japón",
+          "kind": "activity"
         },
         {
           "id": "3e21dbd8-d21b-494a-8718-ff415bfd3c3d",
@@ -1106,7 +1083,8 @@
           "category": "zona-comercial",
           "openingTime": "09:00",
           "closingTime": "18:00",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "884dde12-2958-4d23-8a37-707308abae93",
@@ -1118,7 +1096,8 @@
           "category": "paseo",
           "openingTime": "00:00",
           "closingTime": "00:00",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "09aca263-202a-4d3a-9c2f-15ebe68a174b",
@@ -1135,7 +1114,8 @@
           "category": "paseo",
           "openingTime": "00:00",
           "closingTime": "00:00",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "cfab085a-cb57-4c0b-adbc-c1f5adc41c1a",
@@ -1151,7 +1131,8 @@
           "category": "templos",
           "openingTime": "09:00",
           "closingTime": "16:30",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "b71a074d-e00f-4830-9438-8c575044be1a",
@@ -1172,7 +1153,8 @@
           "mapEnabled": false,
           "cost": 2000,
           "openingTime": "09:00",
-          "closingTime": "16:00"
+          "closingTime": "16:00",
+          "kind": "activity"
         },
         {
           "id": "9cbc3e11-c132-41b0-b0a0-dc4f73f6f1ed",
@@ -1189,7 +1171,8 @@
           "category": "transport",
           "cost": 2400,
           "closingTime": "17:15",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "5a56274d-469f-4489-89ea-3cd3b8fc6c35",
@@ -1205,7 +1188,8 @@
           "category": "templos",
           "openingTime": "09:00",
           "closingTime": "16:00",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "4a52ed6b-3405-4618-9537-fadbd4633500",
@@ -1221,7 +1205,8 @@
           "category": "castillo",
           "mapEnabled": true,
           "openingTime": "09:00",
-          "closingTime": "16:30"
+          "closingTime": "16:30",
+          "kind": "activity"
         },
         {
           "id": "ca15ccb0-2169-44ad-a994-3ca9220e60d6",
@@ -1238,7 +1223,8 @@
           "mapEnabled": true,
           "cost": 350,
           "openingTime": "09:00",
-          "closingTime": "16:30"
+          "closingTime": "16:30",
+          "kind": "activity"
         },
         {
           "id": "b9478a49-87fc-42ea-ae42-e17640b20174",
@@ -1254,7 +1240,8 @@
           "category": "paseo",
           "openingTime": "00:00",
           "closingTime": "00:00",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "22fe11a3-ecd2-442b-89f1-8b979af99ab4",
@@ -1271,7 +1258,8 @@
           "openingTime": "07:30",
           "closingTime": "19:00",
           "mapEnabled": true,
-          "category": "museum"
+          "category": "museum",
+          "kind": "activity"
         },
         {
           "id": "45bb2355-8945-4aa4-8617-a412c823d715",
@@ -1288,7 +1276,8 @@
           "category": "zona-comercial",
           "mapEnabled": true,
           "openingTime": "00:00",
-          "closingTime": "00:00"
+          "closingTime": "00:00",
+          "kind": "activity"
         }
       ],
       "collapsed": true
@@ -1304,7 +1293,9 @@
           "address": "",
           "note": "Comprar el ekiben en la estación de Kioto antes de subir al Shinkansen a Nagoya",
           "tags": [],
-          "category": "food"
+          "category": "food",
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "bdf5ea77-c085-489a-8404-9821e4b349bc",
@@ -1316,7 +1307,8 @@
           "lng": 137.2510322,
           "category": "transport",
           "visitMinutes": 240,
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "abfa46e7-cc95-4bd3-a4a3-7f2a3d07551c",
@@ -1324,7 +1316,9 @@
           "address": "",
           "note": "",
           "tags": [],
-          "category": "actividad"
+          "category": "actividad",
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "52dcb5f3-d01a-4709-8d55-0274e5c68142",
@@ -1342,7 +1336,8 @@
           "category": "sight",
           "lat": 36.13989103344731,
           "lng": 137.25770104402378,
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "6b8cb433-fd71-4b86-8b6d-fec7db80ddb3",
@@ -1361,7 +1356,8 @@
           "closingTime": "16:00",
           "visitMinutes": 30,
           "mapEnabled": true,
-          "cost": 500
+          "cost": 500,
+          "kind": "activity"
         },
         {
           "id": "bc985547-01a0-43b0-9ef1-450f62c52d1b",
@@ -1377,7 +1373,8 @@
           "category": "paseo",
           "openingTime": "17:30",
           "closingTime": "21:00",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "4a848762-12cb-4a23-85fc-3eac8e5678a0",
@@ -1394,7 +1391,8 @@
           "openingTime": "17:30",
           "closingTime": "21:00",
           "visitMinutes": 50,
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "e425df81-76ba-4eaa-aed4-af6ad9bf2281",
@@ -1405,7 +1403,8 @@
           "lat": 36.134849386182395,
           "lng": 137.2362898128136,
           "category": "hotel",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "30831518-c3bc-4915-9a57-1c7e9cd132b1",
@@ -1414,7 +1413,8 @@
           "note": "",
           "tags": [],
           "category": "food",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "157fde79-acc7-4fb5-baea-3c48691f9175",
@@ -1430,7 +1430,8 @@
           "closingTime": "18:00",
           "lat": 36.142524562225,
           "lng": 137.25982446902364,
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "729f6e5b-dbde-44be-ab13-7c53aa5b084d",
@@ -1446,7 +1447,8 @@
           "closingTime": "18:00",
           "lat": 36.14252445456864,
           "lng": 137.25935105553063,
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "8692267c-580c-4652-998e-faa21f95c047",
@@ -1462,7 +1464,8 @@
           "openingTime": "09:00",
           "closingTime": "18:00",
           "category": "compras",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "b0717699-6ec1-438b-bdf1-ffa8e46b79e2",
@@ -1478,7 +1481,8 @@
           "category": "compras",
           "openingTime": "10:00",
           "closingTime": "21:00",
-          "mapEnabled": false
+          "mapEnabled": false,
+          "kind": "activity"
         },
         {
           "id": "b28689ff-54d5-4dfb-aa11-6d1b69095332",
@@ -1494,7 +1498,8 @@
           "cost": 800,
           "openingTime": "09:00",
           "closingTime": "18:00",
-          "mapEnabled": false
+          "mapEnabled": false,
+          "kind": "activity"
         },
         {
           "id": "5f7dbd04-d94e-4d33-8215-0b8bc860ebc4",
@@ -1509,7 +1514,8 @@
           "closingTime": "17:00",
           "mapEnabled": false,
           "lat": 36.13911985417243,
-          "lng": 137.25983974085244
+          "lng": 137.25983974085244,
+          "kind": "activity"
         },
         {
           "id": "3b5ea2b6-c893-4542-8f62-c016a7f50179",
@@ -1523,7 +1529,8 @@
           "lat": 36.14153268521228,
           "lng": 137.26107951505094,
           "category": "compras",
-          "mapEnabled": false
+          "mapEnabled": false,
+          "kind": "activity"
         },
         {
           "id": "4866ed13-43b7-47cd-aaea-2fdaaf5d3bb6",
@@ -1539,7 +1546,8 @@
           "category": "compras",
           "openingTime": "10:00",
           "closingTime": "17:00",
-          "mapEnabled": false
+          "mapEnabled": false,
+          "kind": "activity"
         },
         {
           "id": "d4aaa754-89a1-4ca3-a3b2-060a3a0f1bd1",
@@ -1551,7 +1559,8 @@
           "category": "paseo",
           "lat": 36.14540194649035,
           "lng": 137.26409089601037,
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "7c81e0fb-5196-4c6a-82f5-0e404c95e2e7",
@@ -1564,7 +1573,8 @@
           "lat": 36.14540194649035,
           "lng": 137.26409089601037,
           "category": "templos",
-          "mapEnabled": false
+          "mapEnabled": false,
+          "kind": "activity"
         },
         {
           "id": "8de74644-5346-4daf-bd3f-3b224d7d1c98",
@@ -1577,7 +1587,8 @@
           "category": "templos",
           "lat": 36.14385325163308,
           "lng": 137.2654649132016,
-          "mapEnabled": false
+          "mapEnabled": false,
+          "kind": "activity"
         },
         {
           "id": "bbaf2835-a804-4c16-ac87-0fa615a0a23c",
@@ -1591,7 +1602,8 @@
           "lng": 137.26766428011902,
           "category": "templos",
           "visitMinutes": 25,
-          "mapEnabled": false
+          "mapEnabled": false,
+          "kind": "activity"
         },
         {
           "id": "052efe79-b4ca-4ff2-95e9-593b46362d8b",
@@ -1602,7 +1614,8 @@
           "lat": 36.13443807486121,
           "lng": 137.2438533529477,
           "category": "templos",
-          "mapEnabled": false
+          "mapEnabled": false,
+          "kind": "activity"
         },
         {
           "id": "07d4a9d3-f074-44f1-80a2-2291233c509f",
@@ -1613,7 +1626,8 @@
           "category": "templos",
           "openingTime": "09:00",
           "closingTime": "16:00",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "43769542-6e41-41e1-bfda-bbcc39b8f2c2",
@@ -1629,7 +1643,8 @@
           "category": "templos",
           "mapEnabled": true,
           "openingTime": "09:00",
-          "closingTime": "16:00"
+          "closingTime": "16:00",
+          "kind": "activity"
         },
         {
           "id": "dad4fe98-f3ba-4a05-a149-2d2931cc9167",
@@ -1645,7 +1660,8 @@
           "category": "templos",
           "mapEnabled": true,
           "openingTime": "09:00",
-          "closingTime": "16:00"
+          "closingTime": "16:00",
+          "kind": "activity"
         },
         {
           "id": "ec722d81-b7b3-4804-bf2b-35c7b7d2dc59",
@@ -1661,7 +1677,8 @@
           "category": "templos",
           "mapEnabled": true,
           "openingTime": "09:00",
-          "closingTime": "16:00"
+          "closingTime": "16:00",
+          "kind": "activity"
         }
       ],
       "collapsed": true
@@ -1680,7 +1697,8 @@
           "lat": 36.134849386182395,
           "lng": 137.2362898128136,
           "category": "hotel",
-          "mapEnabled": false
+          "mapEnabled": false,
+          "kind": "activity"
         },
         {
           "id": "bd9cd5d4-c34c-4a8d-bcc5-21a4ce199f1f",
@@ -1694,7 +1712,8 @@
           "category": "transport",
           "mapEnabled": true,
           "cost": 240,
-          "visitMinutes": 20
+          "visitMinutes": 20,
+          "kind": "activity"
         },
         {
           "id": "30bb71bf-2be7-4144-9ad6-08020ab19575",
@@ -1708,7 +1727,8 @@
           "lat": 36.23567647147162,
           "lng": 137.18651484166867,
           "visitMinutes": 60,
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "ec0bacf2-580f-4df4-8586-cd63ab40ec23",
@@ -1722,7 +1742,8 @@
           "category": "sight",
           "lat": 36.23430356879529,
           "lng": 137.19249697864547,
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "60ed2e6f-23ce-4d48-b87d-523d7c4b6bb4",
@@ -1737,7 +1758,8 @@
           "visitMinutes": 60,
           "lat": 36.2392502,
           "lng": 137.1976293,
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "ca1d04b9-2709-43ae-9592-525c1afbdcbc",
@@ -1752,7 +1774,8 @@
           "lng": 137.1863343,
           "category": "templos",
           "visitMinutes": 20,
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "ada41784-3e4a-42f1-9ae4-385aa22d88f4",
@@ -1765,7 +1788,8 @@
           ],
           "visitMinutes": 20,
           "category": "templos",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "e75d64b5-4907-4a27-8fc0-a7e7dad10ea1",
@@ -1783,7 +1807,8 @@
           "category": "compras",
           "openingTime": "09:00",
           "closingTime": "16:00",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "6d120b6a-4798-4ead-9944-ebad1eec780d",
@@ -1801,7 +1826,8 @@
           "category": "compras",
           "openingTime": "09:00",
           "closingTime": "17:00",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "a5eba2b7-8884-4710-bc34-6be0f0f7d567",
@@ -1818,7 +1844,8 @@
           "lat": 36.23472333600304,
           "lng": 137.18799586821262,
           "visitMinutes": 20,
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "91c3dfc5-8d0f-42af-beb4-d96c7b211865",
@@ -1834,7 +1861,8 @@
           "cost": 700,
           "visitMinutes": 60,
           "openingTime": "09:00",
-          "closingTime": "17:00"
+          "closingTime": "17:00",
+          "kind": "activity"
         },
         {
           "id": "edf2cb95-4be4-4ae5-8171-6ae3f830c6a3",
@@ -1852,7 +1880,8 @@
           "visitMinutes": 45,
           "openingTime": "09:00",
           "closingTime": "17:00",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "a0d069e1-f338-45ce-82a2-42970f2b54cb",
@@ -1869,7 +1898,8 @@
           "lng": 137.18599714509165,
           "openingTime": "10:00",
           "closingTime": "16:30",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "ff974844-07d9-4cda-8843-346a15870a5e",
@@ -1882,7 +1912,8 @@
           ],
           "category": "transport",
           "mapEnabled": true,
-          "cost": 240
+          "cost": 240,
+          "kind": "activity"
         }
       ],
       "collapsed": true
@@ -1903,7 +1934,8 @@
           "lat": 36.134849386182395,
           "lng": 137.2362898128136,
           "category": "hotel",
-          "mapEnabled": false
+          "mapEnabled": false,
+          "kind": "activity"
         },
         {
           "id": "924b0d08-f1cd-49e4-96ea-3f8c445ce1c1",
@@ -1920,7 +1952,8 @@
           "category": "transport",
           "mapEnabled": false,
           "cost": 2800,
-          "visitMinutes": 50
+          "visitMinutes": 50,
+          "kind": "activity"
         },
         {
           "id": "f547e2af-67a2-4b1f-95b8-b24d8e53a273",
@@ -1934,7 +1967,8 @@
           "lng": 136.9079634,
           "category": "sight",
           "visitMinutes": 45,
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "06a2862d-9e0c-408f-ae37-10c866c54398",
@@ -1952,7 +1986,8 @@
           "visitMinutes": 40,
           "openingTime": "09:00",
           "closingTime": "17:00",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "b9b2a297-9044-4428-aad6-0df5b891a1ec",
@@ -1966,7 +2001,8 @@
           "lng": 136.9057401,
           "category": "paseo",
           "visitMinutes": 60,
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "80025d79-5e4d-4434-86b8-7e6874aba24d",
@@ -1984,7 +2020,8 @@
           "visitMinutes": 35,
           "openingTime": "08:30",
           "closingTime": "17:00",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "1f7bb4bd-2045-4b1f-9fe8-98580ddb72f4",
@@ -1998,7 +2035,8 @@
           "lng": 136.90384097868645,
           "category": "paseo",
           "visitMinutes": 15,
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "635c960e-02bc-46e1-819b-b3d791ba53b4",
@@ -2016,7 +2054,8 @@
           "openingTime": "08:40",
           "closingTime": "17:00",
           "category": "museum",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "29446f31-0e8a-4a50-9d40-4fd6c92020f2",
@@ -2033,7 +2072,8 @@
           "category": "transport",
           "mapEnabled": false,
           "cost": 2800,
-          "visitMinutes": 50
+          "visitMinutes": 50,
+          "kind": "activity"
         },
         {
           "id": "f0359329-02a4-4132-8150-d3e08300d943",
@@ -2045,7 +2085,8 @@
           ],
           "category": "paseo",
           "visitMinutes": 60,
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "ff09093c-86d8-43f9-8ca7-7cd8c80941eb",
@@ -2058,7 +2099,8 @@
           ],
           "openingTime": "17:30",
           "closingTime": "21:00",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         }
       ],
       "collapsed": true
@@ -2077,7 +2119,8 @@
           "lat": 36.134849386182395,
           "lng": 137.2362898128136,
           "category": "hotel",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "469010e9-95c9-4299-9ce4-d5245f9e4930",
@@ -2095,7 +2138,8 @@
           "closingTime": "12:00",
           "lat": 36.14476815273574,
           "lng": 137.25792157570532,
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "3199ddcc-8d8e-404d-a09f-5f58c8bb400c",
@@ -2115,7 +2159,8 @@
           "visitMinutes": 60,
           "openingTime": "08:30",
           "closingTime": "17:00",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "34eefb70-31b3-4988-b499-10bd90327c53",
@@ -2130,7 +2175,8 @@
           "visitMinutes": 330,
           "cost": 8000,
           "category": "transport",
-          "mapEnabled": true
+          "mapEnabled": true,
+          "kind": "activity"
         },
         {
           "id": "0c76ac70-1163-411f-bd23-b91faa85730d",
@@ -2146,7 +2192,8 @@
           "category": "templos",
           "mapEnabled": true,
           "openingTime": "09:00",
-          "closingTime": "16:00"
+          "closingTime": "16:00",
+          "kind": "activity"
         },
         {
           "id": "0e98c1a2-42ab-4463-8c68-347755a1aa37",
@@ -2162,7 +2209,8 @@
           "category": "templos",
           "mapEnabled": true,
           "openingTime": "09:00",
-          "closingTime": "16:00"
+          "closingTime": "16:00",
+          "kind": "activity"
         }
       ],
       "collapsed": true
@@ -2177,7 +2225,9 @@
       "lat": 35.6764,
       "lng": 139.6993,
       "tags": [],
-      "mapEnabled": true
+      "mapEnabled": true,
+      "kind": "activity",
+      "backlogGroupId": "f6e38b6f-eb8d-477e-bc2b-5ce4095d7516"
     },
     {
       "id": "s2",
@@ -2187,7 +2237,9 @@
       "lat": 35.6715,
       "lng": 139.7036,
       "tags": [],
-      "mapEnabled": true
+      "mapEnabled": true,
+      "kind": "activity",
+      "backlogGroupId": "f6e38b6f-eb8d-477e-bc2b-5ce4095d7516"
     },
     {
       "id": "s3",
@@ -2197,7 +2249,9 @@
       "lat": 35.6585,
       "lng": 139.7021,
       "tags": [],
-      "mapEnabled": true
+      "mapEnabled": true,
+      "kind": "activity",
+      "backlogGroupId": "f6e38b6f-eb8d-477e-bc2b-5ce4095d7516"
     },
     {
       "id": "s4",
@@ -2209,7 +2263,9 @@
       "tags": [],
       "display_name": "Shinjuku, Tokyo",
       "category": "other",
-      "mapEnabled": true
+      "mapEnabled": true,
+      "kind": "activity",
+      "backlogGroupId": "f6e38b6f-eb8d-477e-bc2b-5ce4095d7516"
     },
     {
       "id": "s5",
@@ -2219,17 +2275,9 @@
       "lat": 35.7148,
       "lng": 139.7967,
       "tags": [],
-      "mapEnabled": true
-    },
-    {
-      "id": "s6",
-      "name": "Kappabashi",
-      "address": "Kappabashi, Tokyo",
-      "note": "Cuchillos y menaje",
-      "lat": 35.7141,
-      "lng": 139.7895,
-      "tags": [],
-      "mapEnabled": true
+      "mapEnabled": true,
+      "kind": "activity",
+      "backlogGroupId": "f6e38b6f-eb8d-477e-bc2b-5ce4095d7516"
     },
     {
       "id": "3222a2e2-3024-4573-8a40-699a567c7b70",
@@ -2239,17 +2287,150 @@
       "lat": 35.6984,
       "lng": 139.773,
       "tags": [],
-      "mapEnabled": true
+      "mapEnabled": true,
+      "kind": "activity",
+      "backlogGroupId": "f6e38b6f-eb8d-477e-bc2b-5ce4095d7516"
+    },
+    {
+      "id": "s6",
+      "name": "Kappabashi",
+      "address": "Kappabashi, Tokyo",
+      "note": "Cuchillos y menaje",
+      "lat": 35.7141,
+      "lng": 139.7895,
+      "tags": [],
+      "mapEnabled": true,
+      "kind": "activity",
+      "backlogGroupId": "f6e38b6f-eb8d-477e-bc2b-5ce4095d7516"
     },
     {
       "id": "69029f69-d846-4f7c-ae5a-ef155fb1e26c",
       "name": "Pablo's tarta queso Tokyo",
       "address": "",
       "note": "",
-      "tags": []
+      "tags": [],
+      "mapEnabled": true,
+      "kind": "activity",
+      "backlogGroupId": "f6e38b6f-eb8d-477e-bc2b-5ce4095d7516"
+    },
+    {
+      "id": "0b1fe722-ccd2-478f-b389-cb5a2610c74f",
+      "name": "Goō-jinja",
+      "address": "桜鶴円町, 上京区, Kioto, Prefectura de Kioto, 602-8021, Japón",
+      "note": "Pequeño santuario de los jabalíes junto al Palacio Imperial.\nGoshuin y amuletos: 09:30–16:30",
+      "tags": [
+        "opcional"
+      ],
+      "lat": 35.021273,
+      "lng": 135.759234,
+      "display_name": "桜鶴円町, 上京区, Kioto, Prefectura de Kioto, 602-8021, Japón",
+      "category": "templos",
+      "openingTime": "06:00",
+      "closingTime": "21:00",
+      "mapEnabled": true,
+      "kind": "activity",
+      "backlogGroupId": "1b24d956-6325-498b-84ba-ea72ee081dbd"
+    },
+    {
+      "id": "26d79e18-d5b8-4ff2-872b-6d8e01dcd5a8",
+      "name": "Santuario Nishiki Tenmangū",
+      "address": "中之町, 中京区, Kioto, Prefectura de Kioto, 604-8042, Japón",
+      "note": "Está al final de las galerías comerciales de Nishiki y Shinkyōgoku",
+      "tags": [
+        "opcional"
+      ],
+      "lat": 35.004407,
+      "lng": 135.767632,
+      "display_name": "中之町, 中京区, Kioto, Prefectura de Kioto, 604-8042, Japón",
+      "category": "templos",
+      "openingTime": "08:00",
+      "closingTime": "20:00",
+      "mapEnabled": true,
+      "kind": "activity",
+      "backlogGroupId": "1b24d956-6325-498b-84ba-ea72ee081dbd"
+    },
+    {
+      "id": "90b487fd-30b4-445c-a926-d8437dd0c344",
+      "name": "Nara",
+      "address": "Nara, Prefectura de Nara, Japón",
+      "note": "",
+      "tags": [],
+      "lat": 34.6845445,
+      "lng": 135.8048359,
+      "display_name": "Nara, Prefectura de Nara, Japón",
+      "category": "paseo",
+      "mapEnabled": true,
+      "kind": "activity",
+      "backlogGroupId": "1b24d956-6325-498b-84ba-ea72ee081dbd"
+    },
+    {
+      "id": "a10dcfce-36c1-4b11-a949-675f12334703",
+      "name": "Templo Tō-ji",
+      "address": "東寺, 九条通り, 西九条比永城町, 南区, Kioto, Prefectura de Kioto, 601-8438, Japón",
+      "note": "Pagoda 5 pisos. Precio de dia 500 y 1000 la iluminación nocturna \nIluminacion: 18:00–21:30, última entrada 21:00",
+      "tags": [
+        "opcional",
+        "🍁",
+        "💵 efectivo"
+      ],
+      "lat": 34.9806311,
+      "lng": 135.7477192,
+      "display_name": "東寺, 九条通り, 西九条比永城町, 南区, Kioto, Prefectura de Kioto, 601-8438, Japón",
+      "category": "templos",
+      "cost": 1000,
+      "openingTime": "08:00",
+      "closingTime": "21:30",
+      "mapEnabled": true,
+      "kind": "activity",
+      "backlogGroupId": "1b24d956-6325-498b-84ba-ea72ee081dbd"
+    },
+    {
+      "id": "682d6790-0469-4802-a92c-921f28629a4e",
+      "name": "TeamLab Biovortex Kyoto",
+      "address": "teamLab BioVortex, 八条通, 東之町, 下京区, Kioto, Prefectura de Kioto, 601-8006, Japón",
+      "note": "3,400 - 4,400",
+      "tags": [
+        "opcional",
+        "💵 efectivo",
+        "💳 tarjeta"
+      ],
+      "lat": 34.9837455,
+      "lng": 135.7654182,
+      "display_name": "teamLab BioVortex, 八条通, 東之町, 下京区, Kioto, Prefectura de Kioto, 601-8006, Japón",
+      "category": "actividad",
+      "cost": 4400,
+      "openingTime": "09:00",
+      "closingTime": "19:30",
+      "mapEnabled": true,
+      "kind": "activity",
+      "backlogGroupId": "1b24d956-6325-498b-84ba-ea72ee081dbd"
+    },
+    {
+      "id": "ff029a4c-2939-4c4f-97d7-3ef00d6e0dac",
+      "name": "Shisendo Jozan-ji",
+      "address": "35.044453472417054, 135.79536840935273",
+      "note": "",
+      "tags": [],
+      "lat": 35.044453472417054,
+      "lng": 135.79536840935273,
+      "mapEnabled": false,
+      "category": "templos",
+      "kind": "activity",
+      "backlogGroupId": "1b24d956-6325-498b-84ba-ea72ee081dbd"
     }
   ],
-  "backlogGroups": [],
+  "backlogGroups": [
+    {
+      "id": "f6e38b6f-eb8d-477e-bc2b-5ce4095d7516",
+      "title": "Tokyo",
+      "collapsed": true
+    },
+    {
+      "id": "1b24d956-6325-498b-84ba-ea72ee081dbd",
+      "title": "Kyoto",
+      "collapsed": false
+    }
+  ],
   "tags": [
     "comida",
     "reserva",
@@ -2269,96 +2450,110 @@
       "id": "food",
       "label": "Comida",
       "color": "#d9822b",
-      "connects": true
+      "connects": true,
+      "defaultSpotKind": "activity"
     },
     {
       "id": "hotel",
       "label": "Alojamiento",
       "color": "#3f7d9c",
-      "connects": false
+      "connects": false,
+      "defaultSpotKind": "activity"
     },
     {
       "id": "sight",
       "label": "Punto de interés",
       "color": "#4c9a5b",
-      "connects": true
+      "connects": true,
+      "defaultSpotKind": "activity"
     },
     {
       "id": "museum",
       "label": "Museo",
       "color": "#8a5fbf",
-      "connects": true
+      "connects": true,
+      "defaultSpotKind": "activity"
     },
     {
       "id": "transport",
       "label": "Transporte",
       "color": "#c74e88",
-      "connects": true
+      "connects": true,
+      "defaultSpotKind": "activity"
     },
     {
       "id": "other",
       "label": "Otro",
       "color": "#6b6b6b",
-      "connects": false
+      "connects": false,
+      "defaultSpotKind": "activity"
     },
     {
       "id": "templos",
       "label": "Templo",
       "color": "#4c9a5b",
-      "connects": true
+      "connects": true,
+      "defaultSpotKind": "activity"
     },
     {
       "id": "castillo",
       "label": "Castillo",
       "color": "#c20f0f",
-      "connects": true
+      "connects": true,
+      "defaultSpotKind": "activity"
     },
     {
       "id": "parque-de-atracciones",
       "label": "Parque de atracciones",
       "color": "#16e3fe",
-      "connects": true
+      "connects": true,
+      "defaultSpotKind": "activity"
     },
     {
       "id": "zona-comercial",
       "label": "Zona comercial",
       "color": "#9c10f9",
-      "connects": true
+      "connects": true,
+      "defaultSpotKind": "activity"
     },
     {
       "id": "actividad",
       "label": "Actividad",
       "color": "#e910f9",
-      "connects": true
+      "connects": true,
+      "defaultSpotKind": "activity"
     },
     {
       "id": "paseo",
       "label": "Paseo/Parque",
       "color": "#2be0f7",
-      "connects": true
+      "connects": true,
+      "defaultSpotKind": "activity"
     },
     {
       "id": "santuario",
       "label": "Santuario",
       "color": "#4c9a5b",
-      "connects": true
+      "connects": true,
+      "defaultSpotKind": "activity"
     },
     {
       "id": "compras",
       "label": "Compras",
       "color": "#4c9a5b",
-      "connects": true
+      "connects": true,
+      "defaultSpotKind": "activity"
     },
     {
       "id": "recreativas",
       "label": "Recreativas",
       "color": "#ff00f7",
-      "connects": true
+      "connects": true,
+      "defaultSpotKind": "activity"
     }
   ],
   "routeProfile": "walking",
   "routeVisualization": "streets",
-  "routeTimeOverrides": {},
-  "routeTimeProfiles": {},
-  "exportedAt": "2026-07-26T17:25:02.828Z"
+  "travelLegs": {},
+  "exportedAt": "2026-07-30T21:03:28.063Z"
 }
