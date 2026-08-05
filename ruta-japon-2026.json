@@ -455,7 +455,7 @@
           "kind": "activity"
         }
       ],
-      "collapsed": false
+      "collapsed": true
     },
     {
       "id": "10ca4125-9348-4120-976e-df47cbb86590",
@@ -703,17 +703,18 @@
         },
         {
           "id": "c0f4b329-f1c6-49ed-8cf4-12c2d1f7b5c5",
-          "name": "Hotel",
+          "name": "Hotel Kyoto",
           "address": "Nishikyogoku-Higashimukogawaracho, Ukyō Ward, Kioto, Prefectura de Kioto, 616-0000, Japón",
           "note": "",
           "tags": [],
-          "kind": "activity",
+          "kind": "waypoint",
           "lat": 34.9857327,
           "lng": 135.7190949,
-          "category": "hotel"
+          "category": "hotel",
+          "mapEnabled": true
         }
       ],
-      "collapsed": true
+      "collapsed": false
     },
     {
       "id": "f7572d2b-f871-444d-9048-91ed333caa2a",
@@ -2659,5 +2660,5 @@
       "durationMinutes": 30
     }
   },
-  "exportedAt": "2026-08-05T21:42:34.614Z"
+  "exportedAt": "2026-08-05T21:46:14.382Z"
 }
