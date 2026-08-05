@@ -3,8 +3,8 @@
   "tripTitle": "Japón 2026",
   "localCurrency": "EUR",
   "foreignCurrency": "JPY",
-  "exchangeRate": 0.00535,
-  "exchangeRateDate": "2026-07-30",
+  "exchangeRate": 0.00549,
+  "exchangeRateDate": "2026-08-05",
   "tripNotePages": [
     {
       "id": "notes-general",
@@ -33,16 +33,22 @@
           "kind": "activity"
         },
         {
-          "id": "817fe01f-5c32-4e25-845c-518c85c2b604",
-          "name": "The Rise Osaka Kitashinchi",
-          "address": "The Rise Osaka Kitashinchi, 東筋, Dojima 1-chome, Kita Ward, Osaka, Prefectura de Osaka, 530-8265, Japón",
-          "note": "",
-          "tags": [],
-          "lat": 34.6960222,
-          "lng": 135.4999557,
-          "category": "hotel",
+          "id": "21365e00-f60f-49ed-b371-49719cdbdfd1",
+          "name": "Umeda Sky Building",
+          "address": "Umeda Sky Building, Osaka Itami Line, Ōyodo-Naka 1, Kita Ward, Osaka, Prefectura de Osaka, 531-0076, Japón",
+          "note": "Si estamos con energia, por el atardecer quiza lo mejor?",
+          "tags": [
+            "opcional",
+            "📸"
+          ],
+          "lat": 34.7052927,
+          "lng": 135.4905349,
+          "category": "sight",
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "activity",
+          "cost": 2000,
+          "openingTime": "09:30",
+          "closingTime": "22:00"
         },
         {
           "id": "99c2c0bd-9b67-4681-8f9e-1db44d760c10",
@@ -77,17 +83,14 @@
           "kind": "activity"
         },
         {
-          "id": "21365e00-f60f-49ed-b371-49719cdbdfd1",
-          "name": "Umeda Sky Building",
-          "address": "Umeda Sky Building, Osaka Itami Line, Ōyodo-Naka 1, Kita Ward, Osaka, Prefectura de Osaka, 531-0076, Japón",
-          "note": "Si estamos con energia",
-          "tags": [
-            "opcional",
-            "📸"
-          ],
-          "lat": 34.7052927,
-          "lng": 135.4905349,
-          "category": "sight",
+          "id": "817fe01f-5c32-4e25-845c-518c85c2b604",
+          "name": "The Rise Osaka Kitashinchi",
+          "address": "The Rise Osaka Kitashinchi, 東筋, Dojima 1-chome, Kita Ward, Osaka, Prefectura de Osaka, 530-8265, Japón",
+          "note": "",
+          "tags": [],
+          "lat": 34.6960222,
+          "lng": 135.4999557,
+          "category": "hotel",
           "mapEnabled": true,
           "kind": "activity"
         },
@@ -155,7 +158,9 @@
           "name": "Meijiken: omurice",
           "address": "34.673420149977446, 135.5022752220191",
           "note": "",
-          "tags": [],
+          "tags": [
+            "opcional"
+          ],
           "lat": 34.673420149977446,
           "lng": 135.5022752220191,
           "category": "food",
@@ -213,13 +218,32 @@
           "name": "Gorichan Minamisenba (Onigiris)",
           "address": "34.67601162749296, 135.50225103983766",
           "note": "Onigiris",
-          "tags": [],
+          "tags": [
+            "opcional"
+          ],
           "category": "food",
           "openingTime": "08:00",
           "lat": 34.67601162749296,
           "lng": 135.50225103983766,
-          "mapEnabled": false,
-          "kind": "activity"
+          "mapEnabled": true,
+          "kind": "activity",
+          "closingTime": "21:00"
+        },
+        {
+          "id": "9a165bc3-f92a-40af-8581-2b7924925558",
+          "name": "Marufuku",
+          "address": "34.667810575190515, 135.5041829552003",
+          "note": "Desayuno dulce",
+          "tags": [
+            "opcional"
+          ],
+          "category": "food",
+          "openingTime": "08:00",
+          "lat": 34.667810575190515,
+          "lng": 135.5041829552003,
+          "mapEnabled": true,
+          "kind": "activity",
+          "closingTime": "21:00"
         },
         {
           "id": "d3a97e10-ba70-4500-8e37-3751e21906a4",
@@ -281,7 +305,7 @@
           "lat": 34.66023789776194,
           "lng": 135.50610724287213,
           "visitMinutes": 45,
-          "mapEnabled": true,
+          "mapEnabled": false,
           "kind": "activity"
         },
         {
@@ -299,7 +323,7 @@
           "openingTime": "10:00",
           "closingTime": "20:00",
           "visitMinutes": 60,
-          "mapEnabled": true,
+          "mapEnabled": false,
           "kind": "activity"
         },
         {
@@ -315,7 +339,7 @@
           "lat": 34.660661923386094,
           "lng": 135.50498711323092,
           "visitMinutes": 30,
-          "mapEnabled": true,
+          "mapEnabled": false,
           "kind": "activity"
         },
         {
@@ -330,7 +354,7 @@
           "lat": 34.66078860793164,
           "lng": 135.50551621141852,
           "category": "compras",
-          "mapEnabled": true,
+          "mapEnabled": false,
           "kind": "activity"
         },
         {
@@ -375,7 +399,7 @@
           "category": "zona-comercial",
           "lat": 34.66560697840886,
           "lng": 135.50631679963408,
-          "mapEnabled": false,
+          "mapEnabled": true,
           "kind": "activity"
         },
         {
@@ -387,6 +411,18 @@
           "category": "food",
           "lat": 34.66667569044874,
           "lng": 135.50160727818024,
+          "mapEnabled": true,
+          "kind": "activity"
+        },
+        {
+          "id": "afbf59c5-a25a-4258-b3b1-00f3c25e898b",
+          "name": "Pablo's",
+          "address": "34.67209156378884, 135.50117353985738",
+          "note": "Tarta de queso",
+          "tags": [],
+          "category": "food",
+          "lat": 34.67209156378884,
+          "lng": 135.50117353985738,
           "mapEnabled": true,
           "kind": "activity"
         },
@@ -417,21 +453,9 @@
           "category": "hotel",
           "mapEnabled": false,
           "kind": "activity"
-        },
-        {
-          "id": "5cdde89b-160d-4cce-9cc2-fc6030079c22",
-          "name": "K36",
-          "address": "K36, Ishin Street, Kiyomizu 3-chome, 辰巳町, Higashiyama Ward, Kioto, Prefectura de Kioto, 605-0862, Japón",
-          "note": "Copa nocturna con la ciudad y la pagoda de Yasaka iluminadas. Mejor si se reserva",
-          "tags": [],
-          "lat": 34.9976432,
-          "lng": 135.7795867,
-          "category": "food",
-          "mapEnabled": false,
-          "kind": "activity"
         }
       ],
-      "collapsed": true
+      "collapsed": false
     },
     {
       "id": "10ca4125-9348-4120-976e-df47cbb86590",
@@ -449,7 +473,8 @@
           "display_name": "西京極東向河原町, 右京区, Kioto, Prefectura de Kioto, 616-0000, Japón",
           "category": "hotel",
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "waypoint",
+          "plannedStart": "06:00"
         },
         {
           "id": "c693d188-1478-4b36-b11d-d18eab923c90",
@@ -466,7 +491,8 @@
           "openingTime": "00:00",
           "closingTime": "00:00",
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "activity",
+          "visitMinutes": 180
         },
         {
           "id": "9b7d0b16-99ce-409e-b1f5-d8a29cdef79b",
@@ -485,26 +511,8 @@
           "lng": 135.774862,
           "display_name": "石峰寺, 千本鳥居, 深草石峰寺山町, Fushimi, Kioto, Prefectura de Kioto, 612-0807, Japón",
           "mapEnabled": true,
-          "kind": "activity"
-        },
-        {
-          "id": "7981d898-944b-4bc8-ac37-929f5890c688",
-          "name": "Sanjusangendo (Lo he cambiado de posicion porque cierra pronto)",
-          "address": "博物館三十三間堂前, 七条通, 西之門町, 辰巳町, 東山区, Kioto, Prefectura de Kioto, 605-0932, Japón",
-          "note": "Gran sala con 1.001 figuras de Kannon y esculturas de Fūjin y Raijin; la visita importante es el interior.",
-          "tags": [
-            "semiobligatorio",
-            "💵 efectivo"
-          ],
-          "lat": 34.9890794,
-          "lng": 135.771742,
-          "display_name": "博物館三十三間堂前, 七条通, 西之門町, 辰巳町, 東山区, Kioto, Prefectura de Kioto, 605-0932, Japón",
-          "openingTime": "09:00",
-          "closingTime": "15:30",
-          "cost": 600,
-          "category": "templos",
-          "mapEnabled": true,
-          "kind": "activity"
+          "kind": "activity",
+          "visitMinutes": 28
         },
         {
           "id": "e8203b37-53a0-4065-8842-432fc1b5ecf8",
@@ -525,22 +533,28 @@
           "closingTime": "16:30",
           "cost": 1500,
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "activity",
+          "visitMinutes": 180
         },
         {
-          "id": "s9",
-          "name": "Ninenzaka y Sannenzaka",
-          "address": "Ninenzaka, Kyoto",
-          "note": "Calles históricas con casas tradicionales, tiendas y cafeterías. Mejor antes de que cierren.",
-          "lat": 34.9989,
-          "lng": 135.7828,
+          "id": "7981d898-944b-4bc8-ac37-929f5890c688",
+          "name": "Sanjusangendo",
+          "address": "博物館三十三間堂前, 七条通, 西之門町, 辰巳町, 東山区, Kioto, Prefectura de Kioto, 605-0932, Japón",
+          "note": "Gran sala con 1.001 figuras de Kannon y esculturas de Fūjin y Raijin; la visita importante es el interior.",
           "tags": [
-            "obligatorio"
+            "semiobligatorio",
+            "💵 efectivo"
           ],
-          "display_name": "Ninenzaka, Kyoto",
-          "category": "zona-comercial",
+          "lat": 34.9890794,
+          "lng": 135.771742,
+          "display_name": "博物館三十三間堂前, 七条通, 西之門町, 辰巳町, 東山区, Kioto, Prefectura de Kioto, 605-0932, Japón",
+          "openingTime": "09:00",
+          "closingTime": "15:30",
+          "cost": 600,
+          "category": "templos",
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "activity",
+          "visitMinutes": 1
         },
         {
           "id": "s8",
@@ -560,7 +574,8 @@
           "closingTime": "21:00",
           "cost": 500,
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "activity",
+          "visitMinutes": 60
         },
         {
           "id": "d8665a62-0f18-42a0-beef-cdfa05089849",
@@ -580,7 +595,60 @@
           "openingTime": "09:00",
           "closingTime": "21:30",
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "activity",
+          "visitMinutes": 50
+        },
+        {
+          "id": "s9",
+          "name": "Ninenzaka y Sannenzaka",
+          "address": "Ninenzaka, Kyoto",
+          "note": "Calles históricas con casas tradicionales, tiendas y cafeterías. Mejor antes de que cierren.",
+          "lat": 34.9989,
+          "lng": 135.7828,
+          "tags": [
+            "obligatorio"
+          ],
+          "display_name": "Ninenzaka, Kyoto",
+          "category": "zona-comercial",
+          "mapEnabled": true,
+          "kind": "activity",
+          "visitMinutes": 60,
+          "scheduleNotApplicable": true
+        },
+        {
+          "id": "e1819144-c97f-4adb-b935-ee41af18aa4c",
+          "name": "Jardín Jojuin",
+          "address": "34.99601330033507, 135.78461774861975",
+          "note": "https://www.kiyomizudera.or.jp/en/visit/special_night_viewing\nEl jardín Jojuin abierto por momiji de 18:00 a 20:30",
+          "lat": 34.99601330033507,
+          "lng": 135.78461774861975,
+          "tags": [
+            "obligatorio",
+            "🍁",
+            "💵 efectivo"
+          ],
+          "display_name": "Kiyomizu-dera, Kyoto",
+          "category": "paseo",
+          "openingTime": "18:00",
+          "closingTime": "20:30",
+          "cost": 500,
+          "mapEnabled": true,
+          "kind": "activity",
+          "visitMinutes": 19
+        },
+        {
+          "id": "5f2e189a-2bb1-4d1a-be24-df36b6fba30f",
+          "name": "Yasaka-jinja",
+          "address": "35.004740369087116, 135.7785640830448",
+          "note": "",
+          "tags": [],
+          "kind": "activity",
+          "lat": 35.004740369087116,
+          "lng": 135.7785640830448,
+          "category": "sight",
+          "mapEnabled": true,
+          "visitMinutes": 5,
+          "scheduleNotApplicable": true
         },
         {
           "id": "8906958f-7a3d-4fb8-9a35-60c7c187e58f",
@@ -595,7 +663,7 @@
           "display_name": "八坂神社, 東大路通, 祇園町北側, 辰巳町, 東山区, Kioto, Prefectura de Kioto, 605-0062, Japón",
           "category": "templos",
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "waypoint"
         },
         {
           "id": "8f1289a1-bb0f-441c-a1be-fa4a016d631b",
@@ -615,7 +683,8 @@
           "closingTime": "16:00",
           "cost": 500,
           "mapEnabled": false,
-          "kind": "activity"
+          "kind": "activity",
+          "visitMinutes": 30
         },
         {
           "id": "71fbe2d9-3906-4b2c-a932-10a97328696e",
@@ -630,7 +699,18 @@
           "display_name": "四条河原町, 河原町通, 塩屋町, 中京区, Kioto, Prefectura de Kioto, 604-8027, Japón",
           "category": "zona-comercial",
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "waypoint"
+        },
+        {
+          "id": "c0f4b329-f1c6-49ed-8cf4-12c2d1f7b5c5",
+          "name": "Hotel",
+          "address": "Nishikyogoku-Higashimukogawaracho, Ukyō Ward, Kioto, Prefectura de Kioto, 616-0000, Japón",
+          "note": "",
+          "tags": [],
+          "kind": "activity",
+          "lat": 34.9857327,
+          "lng": 135.7190949,
+          "category": "hotel"
         }
       ],
       "collapsed": true
@@ -2428,7 +2508,7 @@
     {
       "id": "1b24d956-6325-498b-84ba-ea72ee081dbd",
       "title": "Kyoto",
-      "collapsed": false
+      "collapsed": true
     }
   ],
   "tags": [
@@ -2554,6 +2634,30 @@
   ],
   "routeProfile": "walking",
   "routeVisualization": "streets",
-  "travelLegs": {},
-  "exportedAt": "2026-07-30T21:03:28.063Z"
+  "travelLegs": {
+    "a252b19f-1c1c-4509-b35d-7ea9d737e881>c693d188-1478-4b36-b11d-d18eab923c90": {
+      "mode": "bus",
+      "durationMinutes": 40
+    },
+    "9b7d0b16-99ce-409e-b1f5-d8a29cdef79b>7981d898-944b-4bc8-ac37-929f5890c688": {
+      "mode": "bus",
+      "durationMinutes": 30
+    },
+    "e8203b37-53a0-4065-8842-432fc1b5ecf8>s9": {
+      "mode": "walking"
+    },
+    "7981d898-944b-4bc8-ac37-929f5890c688>e8203b37-53a0-4065-8842-432fc1b5ecf8": {
+      "mode": "bus",
+      "durationMinutes": 60
+    },
+    "9b7d0b16-99ce-409e-b1f5-d8a29cdef79b>e8203b37-53a0-4065-8842-432fc1b5ecf8": {
+      "mode": "driving",
+      "durationMinutes": 30
+    },
+    "e8203b37-53a0-4065-8842-432fc1b5ecf8>7981d898-944b-4bc8-ac37-929f5890c688": {
+      "mode": "driving",
+      "durationMinutes": 30
+    }
+  },
+  "exportedAt": "2026-08-05T21:42:34.614Z"
 }
