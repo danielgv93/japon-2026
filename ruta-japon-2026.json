@@ -554,7 +554,7 @@
           "category": "templos",
           "mapEnabled": true,
           "kind": "activity",
-          "visitMinutes": 1
+          "visitMinutes": 60
         },
         {
           "id": "s8",
@@ -647,7 +647,7 @@
           "lng": 135.7785640830448,
           "category": "sight",
           "mapEnabled": true,
-          "visitMinutes": 5,
+          "visitMinutes": 25,
           "scheduleNotApplicable": true
         },
         {
@@ -714,7 +714,7 @@
           "mapEnabled": true
         }
       ],
-      "collapsed": false
+      "collapsed": true
     },
     {
       "id": "f7572d2b-f871-444d-9048-91ed333caa2a",
@@ -786,7 +786,8 @@
           "openingTime": "08:45",
           "closingTime": "16:10",
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "activity",
+          "plannedStart": "16:39"
         },
         {
           "id": "b6c9d256-4bc6-49cb-b37c-73b3b3a65570",
@@ -2660,5 +2661,5 @@
       "durationMinutes": 30
     }
   },
-  "exportedAt": "2026-08-05T21:46:14.382Z"
+  "exportedAt": "2026-08-05T22:50:24.346Z"
 }
