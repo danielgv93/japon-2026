@@ -4,7 +4,7 @@
   "localCurrency": "EUR",
   "foreignCurrency": "JPY",
   "exchangeRate": 0.00549,
-  "exchangeRateDate": "2026-08-05",
+  "exchangeRateDate": "2026-08-06",
   "tripNotePages": [
     {
       "id": "notes-general",
@@ -566,7 +566,8 @@
           "tags": [
             "obligatorio",
             "🍁",
-            "💵 efectivo"
+            "💵 efectivo",
+            "iluminacion nocturna"
           ],
           "display_name": "Kiyomizu-dera, Kyoto",
           "category": "templos",
@@ -585,7 +586,8 @@
           "tags": [
             "opcional",
             "🍁",
-            "💵 efectivo"
+            "💵 efectivo",
+            "iluminacion nocturna"
           ],
           "lat": 35.0003033,
           "lng": 135.7805956,
@@ -625,7 +627,8 @@
           "tags": [
             "obligatorio",
             "🍁",
-            "💵 efectivo"
+            "💵 efectivo",
+            "iluminacion nocturna"
           ],
           "display_name": "Kiyomizu-dera, Kyoto",
           "category": "paseo",
@@ -673,7 +676,8 @@
           "tags": [
             "opcional",
             "🍁",
-            "💵 efectivo"
+            "💵 efectivo",
+            "iluminacion nocturna"
           ],
           "lat": 35.0056216,
           "lng": 135.7835389,
@@ -732,7 +736,9 @@
           "display_name": "西京極東向河原町, 右京区, Kioto, Prefectura de Kioto, 616-0000, Japón",
           "category": "hotel",
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "activity",
+          "plannedStart": "07:00",
+          "scheduleNotApplicable": true
         },
         {
           "id": "81994398-bde9-4aec-aa9c-ed4c180fc0e6",
@@ -748,10 +754,12 @@
           "lng": 135.7354474,
           "display_name": "北野天満宮前, 今出川通, 西今小路町, 上京区, Kioto, Prefectura de Kioto, 602-8386, Japón",
           "category": "zona-comercial",
-          "openingTime": "07:00",
+          "openingTime": "07:40",
           "closingTime": "16:00",
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "activity",
+          "visitMinutes": 60,
+          "plannedStart": "08:20"
         },
         {
           "id": "f049396c-8845-4fab-a922-20fb426da0de",
@@ -764,7 +772,26 @@
           "lat": 34.8925698,
           "lng": 135.7842049,
           "category": "museum",
-          "mapEnabled": true,
+          "mapEnabled": false,
+          "kind": "activity"
+        },
+        {
+          "id": "b6c9d256-4bc6-49cb-b37c-73b3b3a65570",
+          "name": "Daruma-dera",
+          "address": "行衛町, 上京区, Kioto, Prefectura de Kioto, 604-8463, Japón",
+          "note": "Entrada al recinto y Salón Daruma: Gratis | \nEntrada al Salón Principal y Jardines: 300 yenes",
+          "tags": [
+            "opcional",
+            "💵 efectivo"
+          ],
+          "category": "templos",
+          "lat": 35.020204,
+          "lng": 135.733998,
+          "display_name": "行衛町, 上京区, Kioto, Prefectura de Kioto, 604-8463, Japón",
+          "openingTime": "09:00",
+          "closingTime": "16:30",
+          "cost": 300,
+          "mapEnabled": false,
           "kind": "activity"
         },
         {
@@ -787,30 +814,12 @@
           "closingTime": "16:10",
           "mapEnabled": true,
           "kind": "activity",
-          "plannedStart": "16:39"
-        },
-        {
-          "id": "b6c9d256-4bc6-49cb-b37c-73b3b3a65570",
-          "name": "Daruma-dera",
-          "address": "行衛町, 上京区, Kioto, Prefectura de Kioto, 604-8463, Japón",
-          "note": "Entrada al recinto y Salón Daruma: Gratis | \nEntrada al Salón Principal y Jardines: 300 yenes",
-          "tags": [
-            "opcional",
-            "💵 efectivo"
-          ],
-          "category": "templos",
-          "lat": 35.020204,
-          "lng": 135.733998,
-          "display_name": "行衛町, 上京区, Kioto, Prefectura de Kioto, 604-8463, Japón",
-          "openingTime": "09:00",
-          "closingTime": "16:30",
-          "cost": 300,
-          "mapEnabled": false,
-          "kind": "activity"
+          "plannedStart": "09:50",
+          "visitMinutes": 120
         },
         {
           "id": "1998e9a0-a7b1-462d-8403-7c6da26157d7",
-          "name": "Templo dorado - Kinkaku-ji",
+          "name": "Templo dorado / Kinkaku-ji",
           "address": "Kinkaku-ji, 金閣寺町, 馬喰町, 北区, Kioto, Prefectura de Kioto, 603-8361, Japón",
           "note": "Pabellón recubierto de oro reflejado en el estanque",
           "tags": [
@@ -825,7 +834,8 @@
           "category": "templos",
           "cost": 500,
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "activity",
+          "visitMinutes": 45
         },
         {
           "id": "92a361e1-661a-4332-83bd-688e8ee33a18",
@@ -844,11 +854,12 @@
           "closingTime": "16:30",
           "cost": 500,
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "activity",
+          "visitMinutes": 60
         },
         {
           "id": "ab3e1716-3404-477f-ba82-d47a6dc7331e",
-          "name": "Templo Daitoku-ji",
+          "name": "Templo Daitoku-ji *** Reservar",
           "address": "Daitokuji, 北大路通, 紫野東野町, 馬喰町, 北区, Kioto, Prefectura de Kioto, 603-8214, Japón",
           "note": "Importante habria que reservar **** | Habria que saber a que templo queremos ir. | \nŌbai-in(apertura especial de otoño) y Kōrin-in (jardin zen) muy bonitos por el momiji.\nEl precio y horario depende del templo",
           "tags": [
@@ -865,7 +876,8 @@
           "openingTime": "09:00",
           "closingTime": "16:30",
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "activity",
+          "visitMinutes": 60
         },
         {
           "id": "bcee4748-1cb8-4004-afa0-4cfe4defce1d",
@@ -882,7 +894,8 @@
           "openingTime": "00:00",
           "closingTime": "00:00",
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "activity",
+          "visitMinutes": 30
         },
         {
           "id": "s10",
@@ -897,22 +910,9 @@
           "display_name": "Gion, Kyoto",
           "category": "zona-comercial",
           "mapEnabled": true,
-          "kind": "activity"
-        },
-        {
-          "id": "aff37df8-f8ba-40e2-900d-3639b8325e76",
-          "name": "Ponto-chō",
-          "address": "先斗町, 先斗町通, 鍋屋町, 中京区, Kioto, Prefectura de Kioto, 604-8023, Japón",
-          "note": "paseo y cena",
-          "tags": [
-            "opcional"
-          ],
-          "lat": 35.0042456,
-          "lng": 135.7712126,
-          "display_name": "先斗町, 先斗町通, 鍋屋町, 中京区, Kioto, Prefectura de Kioto, 604-8023, Japón",
-          "category": "zona-comercial",
-          "mapEnabled": true,
-          "kind": "activity"
+          "kind": "activity",
+          "visitMinutes": 30,
+          "scheduleNotApplicable": true
         },
         {
           "id": "b32f43a6-75aa-42ad-a73f-413578a62ad2",
@@ -927,11 +927,31 @@
           "lng": 135.7756711,
           "display_name": "ギオンコーナー, 花見小路, 祇園町南側, 辰巳町, 東山区, Kioto, Prefectura de Kioto, 605-0074, Japón",
           "cost": 6600,
-          "openingTime": "19:00",
-          "closingTime": "20:00",
+          "openingTime": "18:00",
+          "closingTime": "19:00",
           "category": "actividad",
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "activity",
+          "visitMinutes": 60,
+          "plannedStart": "18:00"
+        },
+        {
+          "id": "aff37df8-f8ba-40e2-900d-3639b8325e76",
+          "name": "Ponto-chō",
+          "address": "先斗町, 先斗町通, 鍋屋町, 中京区, Kioto, Prefectura de Kioto, 604-8023, Japón",
+          "note": "paseo y cena",
+          "tags": [
+            "opcional"
+          ],
+          "lat": 35.0042456,
+          "lng": 135.7712126,
+          "display_name": "先斗町, 先斗町通, 鍋屋町, 中京区, Kioto, Prefectura de Kioto, 604-8023, Japón",
+          "category": "zona-comercial",
+          "mapEnabled": true,
+          "kind": "activity",
+          "visitMinutes": 30,
+          "scheduleNotApplicable": true,
+          "plannedStart": "19:25"
         },
         {
           "id": "feb8ef66-b06b-4eaa-8959-c7575ad71338",
@@ -943,7 +963,8 @@
           "lng": 135.7740468229333,
           "category": "food",
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "activity",
+          "plannedStart": "20:00"
         }
       ],
       "collapsed": true
@@ -1027,7 +1048,7 @@
           "kind": "activity"
         }
       ],
-      "collapsed": true
+      "collapsed": false
     },
     {
       "id": "08a18522-efc2-435a-ae8a-c5bb0d71e654",
@@ -2525,7 +2546,8 @@
     "💵 efectivo",
     "💳 tarjeta",
     "📸",
-    "🚕"
+    "🚕",
+    "iluminacion nocturna"
   ],
   "categories": [
     {
@@ -2659,7 +2681,23 @@
     "e8203b37-53a0-4065-8842-432fc1b5ecf8>7981d898-944b-4bc8-ac37-929f5890c688": {
       "mode": "driving",
       "durationMinutes": 30
+    },
+    "81994398-bde9-4aec-aa9c-ed4c180fc0e6>bedaf789-c34e-47a9-abdc-f972cf98eca1": {
+      "mode": "bus",
+      "durationMinutes": 30
+    },
+    "bedaf789-c34e-47a9-abdc-f972cf98eca1>1998e9a0-a7b1-462d-8403-7c6da26157d7": {
+      "mode": "bus",
+      "durationMinutes": 30
+    },
+    "ab3e1716-3404-477f-ba82-d47a6dc7331e>bcee4748-1cb8-4004-afa0-4cfe4defce1d": {
+      "mode": "bus",
+      "durationMinutes": 50
+    },
+    "8c3815d2-9660-4ddb-8d81-28ed99fe624f>81994398-bde9-4aec-aa9c-ed4c180fc0e6": {
+      "mode": "bus",
+      "durationMinutes": 40
     }
   },
-  "exportedAt": "2026-08-05T22:50:24.346Z"
+  "exportedAt": "2026-08-06T22:33:46.472Z"
 }
