@@ -999,7 +999,7 @@
           "lng": 135.4324527,
           "display_name": "Universal Studios Japan, 此花区, Osaka, Prefectura de Osaka, Japón",
           "category": "parque-de-atracciones",
-          "mapEnabled": true,
+          "mapEnabled": false,
           "kind": "activity"
         },
         {
@@ -1017,7 +1017,7 @@
           "openingTime": "09:00",
           "closingTime": "17:00",
           "category": "castillo",
-          "mapEnabled": false,
+          "mapEnabled": true,
           "kind": "activity"
         },
         {
@@ -2697,7 +2697,11 @@
     "8c3815d2-9660-4ddb-8d81-28ed99fe624f>81994398-bde9-4aec-aa9c-ed4c180fc0e6": {
       "mode": "bus",
       "durationMinutes": 40
+    },
+    "64bdb65f-6f64-44d3-a7c2-239afda81080>59ae3841-565c-49b1-99b8-7b0803d9853d": {
+      "mode": "train",
+      "durationMinutes": 180
     }
   },
-  "exportedAt": "2026-08-06T22:33:46.472Z"
+  "exportedAt": "2026-08-06T22:35:12.525Z"
 }
