@@ -3,8 +3,8 @@
   "tripTitle": "Japón 2026",
   "localCurrency": "EUR",
   "foreignCurrency": "JPY",
-  "exchangeRate": 0.00549,
-  "exchangeRateDate": "2026-08-06",
+  "exchangeRate": 0.00548,
+  "exchangeRateDate": "2026-08-07",
   "tripNotePages": [
     {
       "id": "notes-general",
@@ -30,7 +30,8 @@
           "lat": 34.70260003782953,
           "lng": 135.49588622460024,
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "waypoint",
+          "plannedStart": "13:30"
         },
         {
           "id": "21365e00-f60f-49ed-b371-49719cdbdfd1",
@@ -48,7 +49,8 @@
           "kind": "activity",
           "cost": 2000,
           "openingTime": "09:30",
-          "closingTime": "22:00"
+          "closingTime": "22:00",
+          "visitMinutes": 60
         },
         {
           "id": "99c2c0bd-9b67-4681-8f9e-1db44d760c10",
@@ -64,7 +66,8 @@
           "lat": 34.7024242915903,
           "lng": 135.49601019754118,
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "activity",
+          "visitMinutes": 60
         },
         {
           "id": "af3dfba6-282f-4e75-85eb-41ddca3c886d",
@@ -80,7 +83,8 @@
           "lat": 34.702000965938424,
           "lng": 135.49604238412596,
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "activity",
+          "visitMinutes": 60
         },
         {
           "id": "817fe01f-5c32-4e25-845c-518c85c2b604",
@@ -92,7 +96,7 @@
           "lng": 135.4999557,
           "category": "hotel",
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "waypoint"
         },
         {
           "id": "91a66c26-1284-405e-8dda-a10cd5213767",
@@ -104,7 +108,9 @@
           "lng": 135.5009891,
           "category": "sight",
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "activity",
+          "visitMinutes": 60,
+          "scheduleNotApplicable": true
         },
         {
           "id": "4c91a69b-c6ba-4399-aadd-f33b61b03581",
@@ -121,7 +127,8 @@
           "openingTime": "10:00",
           "closingTime": "20:00",
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "activity",
+          "visitMinutes": 120
         },
         {
           "id": "53fb2414-451b-46e5-92a7-2ba7a84c3837",
@@ -137,7 +144,8 @@
           "lat": 34.6681780223396,
           "lng": 135.50242468227182,
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "activity",
+          "visitMinutes": 60
         },
         {
           "id": "b5e2968d-555a-490a-a0e7-9133b42e3e81",
@@ -151,7 +159,7 @@
           "lat": 34.66878514078059,
           "lng": 135.50125418227162,
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "waypoint"
         },
         {
           "id": "4e8a0cd9-8e2e-4a1e-a06f-756be06bf311",
@@ -167,7 +175,8 @@
           "openingTime": "11:00",
           "closingTime": "22:00",
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "activity",
+          "visitMinutes": 45
         },
         {
           "id": "1317f436-990d-453e-9fb3-949efa905258",
@@ -179,7 +188,10 @@
           "lng": 135.50317258244382,
           "category": "recreativas",
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "activity",
+          "visitMinutes": 60,
+          "openingTime": "09:00",
+          "closingTime": "23:30"
         },
         {
           "id": "75fe9969-dfc1-4600-89ae-4b6736ed2a62",
@@ -191,10 +203,12 @@
           "lng": 135.50287272662126,
           "category": "recreativas",
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "activity",
+          "visitMinutes": 180,
+          "scheduleNotApplicable": true
         }
       ],
-      "collapsed": true
+      "collapsed": false
     },
     {
       "id": "14582a10-aa00-4c59-8eff-de542f4375bd",
@@ -736,8 +750,7 @@
           "display_name": "西京極東向河原町, 右京区, Kioto, Prefectura de Kioto, 616-0000, Japón",
           "category": "hotel",
           "mapEnabled": true,
-          "kind": "activity",
-          "plannedStart": "07:00",
+          "kind": "waypoint",
           "scheduleNotApplicable": true
         },
         {
@@ -911,7 +924,7 @@
           "category": "zona-comercial",
           "mapEnabled": true,
           "kind": "activity",
-          "visitMinutes": 30,
+          "visitMinutes": 15,
           "scheduleNotApplicable": true
         },
         {
@@ -951,7 +964,7 @@
           "kind": "activity",
           "visitMinutes": 30,
           "scheduleNotApplicable": true,
-          "plannedStart": "19:25"
+          "plannedStart": "19:10"
         },
         {
           "id": "feb8ef66-b06b-4eaa-8959-c7575ad71338",
@@ -964,10 +977,12 @@
           "category": "food",
           "mapEnabled": true,
           "kind": "activity",
-          "plannedStart": "20:00"
+          "visitMinutes": 60,
+          "scheduleNotApplicable": true,
+          "plannedStart": "19:47"
         }
       ],
-      "collapsed": true
+      "collapsed": false
     },
     {
       "id": "274b7a75-f0a2-46cd-be0e-bef03a6a478f",
@@ -1048,7 +1063,7 @@
           "kind": "activity"
         }
       ],
-      "collapsed": false
+      "collapsed": true
     },
     {
       "id": "08a18522-efc2-435a-ae8a-c5bb0d71e654",
@@ -2703,5 +2718,5 @@
       "durationMinutes": 180
     }
   },
-  "exportedAt": "2026-08-06T22:35:12.525Z"
+  "exportedAt": "2026-08-08T21:54:32.502Z"
 }
