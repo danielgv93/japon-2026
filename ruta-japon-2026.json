@@ -127,7 +127,7 @@
           "openingTime": "10:00",
           "closingTime": "20:00",
           "mapEnabled": true,
-          "kind": "activity",
+          "kind": "waypoint",
           "visitMinutes": 120
         },
         {
@@ -208,7 +208,7 @@
           "scheduleNotApplicable": true
         }
       ],
-      "collapsed": false
+      "collapsed": true
     },
     {
       "id": "14582a10-aa00-4c59-8eff-de542f4375bd",
@@ -982,7 +982,7 @@
           "plannedStart": "19:47"
         }
       ],
-      "collapsed": false
+      "collapsed": true
     },
     {
       "id": "274b7a75-f0a2-46cd-be0e-bef03a6a478f",
@@ -1000,7 +1000,7 @@
           "display_name": "西京極東向河原町, 右京区, Kioto, Prefectura de Kioto, 616-0000, Japón",
           "category": "hotel",
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "waypoint"
         },
         {
           "id": "d77fc3fa-bdc4-4f60-9f10-29d8e7fe40b4",
@@ -1057,10 +1057,12 @@
           "id": "26790ee7-28b6-4106-946c-4fad3a14cc4b",
           "name": "Tarde Grupo 2",
           "address": "",
-          "note": "1. Tarde en el noreste (zona que no pisáis otro día): Okazaki-jinja (los conejos) · Nanzen-ji (acueducto) · Eikandō iluminado al anochecer.\n2. Cerca de Himeji Engyō-ji (monte Shosha, la de El último samurái).",
+          "note": "1. Tarde en el noreste (zona que no pisamos otro día): Okazaki-jinja (los conejos) · Nanzen-ji (acueducto) · Eikandō iluminado al anochecer.\n2. Cerca de Himeji Engyō-ji (monte Shosha, la de El último samurái).",
           "tags": [],
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "activity",
+          "openingTime": "10:00",
+          "closingTime": "22:00"
         }
       ],
       "collapsed": true
@@ -1081,7 +1083,7 @@
           "display_name": "西京極東向河原町, 右京区, Kioto, Prefectura de Kioto, 616-0000, Japón",
           "category": "hotel",
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "waypoint"
         },
         {
           "id": "5d2f959c-13b4-4bb7-b040-dada1e203722",
@@ -2332,6 +2334,137 @@
         }
       ],
       "collapsed": true
+    },
+    {
+      "id": "5e1de95b-d95c-4444-97d2-ca9368d0aaff",
+      "date": "2026-12-02",
+      "title": "Tokyo",
+      "spots": [
+        {
+          "id": "d8d923dc-218d-4129-b5e5-2d5da421f02c",
+          "name": "Sakura Hotel Jimbocho",
+          "address": "35.69517147821717, 139.7564070134924",
+          "note": "",
+          "tags": [],
+          "kind": "waypoint",
+          "lat": 35.69517147821717,
+          "lng": 139.7564070134924,
+          "category": "hotel"
+        },
+        {
+          "id": "3d68fea3-bd82-47a5-9387-5906b6884125",
+          "name": "Roppongi",
+          "address": "35.66334631079911, 139.73094727420914",
+          "note": "",
+          "tags": [],
+          "kind": "activity",
+          "lat": 35.66334631079911,
+          "lng": 139.73094727420914
+        },
+        {
+          "id": "def0fb33-1a18-4642-ace3-174d6c9be20d",
+          "name": "Asakusa",
+          "address": "35.71010619317109, 139.7971584632781",
+          "note": "",
+          "tags": [],
+          "kind": "activity",
+          "lat": 35.71010619317109,
+          "lng": 139.7971584632781
+        },
+        {
+          "id": "34bc83bd-fd44-41bf-9f3a-2213618b8c83",
+          "name": "Shibuya",
+          "address": "35.65805995381441, 139.70244044730327",
+          "note": "",
+          "tags": [],
+          "kind": "activity",
+          "lat": 35.65805995381441,
+          "lng": 139.70244044730327
+        },
+        {
+          "id": "03ee4d72-83ff-4d0a-b5d2-d5f5b0a7bda2",
+          "name": "Harajuku",
+          "address": "35.67033411959984, 139.70243401118046",
+          "note": "",
+          "tags": [],
+          "kind": "activity",
+          "lat": 35.67033411959984,
+          "lng": 139.70243401118046
+        },
+        {
+          "id": "81cf70fe-28ca-4a0d-b967-bb1192d4a19e",
+          "name": "Shinjuku",
+          "address": "35.689586641255865, 139.70063351011066",
+          "note": "",
+          "tags": [],
+          "kind": "activity",
+          "lat": 35.689586641255865,
+          "lng": 139.70063351011066
+        }
+      ],
+      "collapsed": true
+    },
+    {
+      "id": "c73be9fd-911a-42dd-a138-837405c9d7cc",
+      "date": "2026-12-03",
+      "title": "Tokyo",
+      "spots": [
+        {
+          "id": "f4972b1e-eba7-4091-8b91-fe1787740ebc",
+          "name": "Ginza",
+          "address": "35.671842686465254, 139.76498643974872",
+          "note": "",
+          "tags": [],
+          "kind": "activity",
+          "lat": 35.671842686465254,
+          "lng": 139.76498643974872
+        },
+        {
+          "id": "0582b1a6-a7ba-4c78-bc8c-bc95b35027ef",
+          "name": "Akihabara",
+          "address": "35.698635716768344, 139.77422426118116",
+          "note": "",
+          "tags": [],
+          "kind": "activity",
+          "lat": 35.698635716768344,
+          "lng": 139.77422426118116
+        },
+        {
+          "id": "baba8061-f2e4-41fa-b506-9186aa64ddca",
+          "name": "Ueno",
+          "address": "35.71427170645853, 139.77857854079852",
+          "note": "",
+          "tags": [],
+          "kind": "activity",
+          "lat": 35.71427170645853,
+          "lng": 139.77857854079852
+        }
+      ],
+      "collapsed": true
+    },
+    {
+      "id": "e8131210-87ee-4041-9c4c-e9b264a11415",
+      "date": "2026-12-04",
+      "title": "Tokyo",
+      "spots": []
+    },
+    {
+      "id": "171891fd-d229-4890-a074-889bdaa07931",
+      "date": "2026-12-05",
+      "title": "Tokyo/Disney",
+      "spots": []
+    },
+    {
+      "id": "3aa6c815-48c4-4bcf-8e55-a4de0b8a7b4b",
+      "date": "2026-12-06",
+      "title": "Tokyo excursion",
+      "spots": []
+    },
+    {
+      "id": "98ea5939-95a2-4f57-abac-a669f7f5348e",
+      "date": "2026-12-07",
+      "title": "Tokyo excursion",
+      "spots": []
     }
   ],
   "backlog": [
@@ -2535,6 +2668,42 @@
       "category": "templos",
       "kind": "activity",
       "backlogGroupId": "1b24d956-6325-498b-84ba-ea72ee081dbd"
+    },
+    {
+      "id": "e312bcdc-5ef4-421e-855b-5a77641740b8",
+      "name": "Kawagoe (excursion)",
+      "address": "",
+      "note": "",
+      "tags": [],
+      "kind": "activity",
+      "backlogGroupId": "f6e38b6f-eb8d-477e-bc2b-5ce4095d7516"
+    },
+    {
+      "id": "6ede7dd7-9c14-4906-b0f1-94e49be030c7",
+      "name": "Chichibu (excursion)",
+      "address": "",
+      "note": "",
+      "tags": [],
+      "kind": "activity",
+      "backlogGroupId": "f6e38b6f-eb8d-477e-bc2b-5ce4095d7516"
+    },
+    {
+      "id": "bbeecb3c-9734-4a84-9229-8ebe78746e37",
+      "name": "Kamakura (excursion)",
+      "address": "",
+      "note": "",
+      "tags": [],
+      "kind": "activity",
+      "backlogGroupId": "f6e38b6f-eb8d-477e-bc2b-5ce4095d7516"
+    },
+    {
+      "id": "504de4bf-fbda-44b9-b882-2ff0328601d3",
+      "name": "Nikko (excursion)",
+      "address": "",
+      "note": "",
+      "tags": [],
+      "kind": "activity",
+      "backlogGroupId": "f6e38b6f-eb8d-477e-bc2b-5ce4095d7516"
     }
   ],
   "backlogGroups": [
@@ -2718,5 +2887,5 @@
       "durationMinutes": 180
     }
   },
-  "exportedAt": "2026-08-08T21:54:32.502Z"
+  "exportedAt": "2026-08-17T22:28:37.696Z"
 }
