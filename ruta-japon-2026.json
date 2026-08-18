@@ -1,5 +1,5 @@
 {
-  "version": 26,
+  "version": 28,
   "tripTitle": "Japón 2026",
   "localCurrency": "EUR",
   "foreignCurrency": "JPY",
@@ -1091,9 +1091,22 @@
           "kind": "waypoint"
         },
         {
+          "id": "9c93f7fb-cdf6-4e9f-9e37-e9cb1c041ba4",
+          "name": "Estacion Kyoto",
+          "address": "Kyoto Station, Shiokōji Street, Higashishiokojicho, Shimogyo Ward, Kioto, Prefectura de Kioto, 600-8216, Japón",
+          "note": "",
+          "tags": [],
+          "kind": "waypoint",
+          "category": "transport",
+          "mapEnabled": true,
+          "lat": 34.9869833,
+          "lng": 135.7586139,
+          "visitMinutes": 110
+        },
+        {
           "id": "5d2f959c-13b4-4bb7-b040-dada1e203722",
-          "name": "Kioto → Hiroshima",
-          "address": "",
+          "name": "Estación Hiroshima",
+          "address": "Hiroshima Station, Hiroshima Station Pedestrian Walkway, Enkobashicho, Minami Ward, Hiroshima, Prefectura de Hiroshima, 732-0823, Japón",
           "note": "",
           "tags": [
             "reserva",
@@ -1101,14 +1114,14 @@
           ],
           "category": "transport",
           "cost": 12000,
-          "openingTime": "06:55",
-          "closingTime": "08:37",
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "waypoint",
+          "lat": 34.3978256,
+          "lng": 132.4755766
         },
         {
           "id": "8fe2f624-e7b0-41ae-b8ea-b782cf84d51f",
-          "name": "Hiroshima Station → Miyajimaguchi",
+          "name": "Ferry Hiroshima",
           "address": "宮島口, 宮島口駅構内自由通路, 宮島口一丁目, Hatsukaichi, Prefectura de Hiroshima, 739-0411, Japón",
           "note": "Tarda nos 30 mins",
           "tags": [
@@ -1120,7 +1133,7 @@
           "category": "transport",
           "cost": 420,
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "waypoint"
         },
         {
           "id": "254d80ed-3d43-410c-a29d-fb9608eacf02",
@@ -1130,13 +1143,13 @@
           "tags": [
             "obligatorio"
           ],
-          "lat": 34.3123127,
-          "lng": 132.3029382,
+          "lat": 34.302373,
+          "lng": 132.321139,
           "display_name": "宮島口, 宮島口駅構内自由通路, 宮島口一丁目, Hatsukaichi, Prefectura de Hiroshima, 739-0411, Japón",
           "category": "transport",
           "cost": 300,
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "waypoint"
         },
         {
           "id": "a75c0374-a2db-40cc-a439-0ee0692f1195",
@@ -1155,12 +1168,13 @@
           "lng": 132.3190077,
           "display_name": "厳島神社, Hatsukaichi, Prefectura de Hiroshima, Japón",
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "activity",
+          "visitMinutes": 30
         },
         {
           "id": "c7d984e2-2ae9-4c1c-aab9-e69aabdc5b62",
           "name": "El callejón Yamabe",
-          "address": "",
+          "address": "34.29982, 132.32388",
           "note": "Camino histórico y menos \"turistico\" para llegar a la pagoda. | \nDurante el recorrido: Jizō de Sakuramachi, santuario Kō, Ryū no Matsu, miradores de tejados, torii y pagoda.",
           "tags": [
             "semiobligatorio"
@@ -1170,7 +1184,10 @@
           "mapEnabled": true,
           "openingTime": "00:00",
           "closingTime": "00:00",
-          "kind": "activity"
+          "kind": "activity",
+          "lat": 34.29982,
+          "lng": 132.32388,
+          "visitMinutes": 15
         },
         {
           "id": "5576e77c-501a-4bcc-acef-554b52696c42",
@@ -1189,7 +1206,8 @@
           "lat": 34.2973208,
           "lng": 132.3202671,
           "display_name": "豊国神社, 厳島港厳島神社線, 宮島町, Hatsukaichi, Prefectura de Hiroshima, 739-0557, Japón",
-          "kind": "activity"
+          "kind": "activity",
+          "visitMinutes": 45
         },
         {
           "id": "3e21dbd8-d21b-494a-8718-ff415bfd3c3d",
@@ -1209,7 +1227,8 @@
           "openingTime": "09:00",
           "closingTime": "18:00",
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "activity",
+          "visitMinutes": 90
         },
         {
           "id": "884dde12-2958-4d23-8a37-707308abae93",
@@ -1237,10 +1256,10 @@
           "lng": 132.3250384,
           "display_name": "紅葉谷公園, 宮島町, Hatsukaichi, Prefectura de Hiroshima, 739-0557, Japón",
           "category": "paseo",
-          "openingTime": "00:00",
-          "closingTime": "00:00",
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "activity",
+          "visitMinutes": 45,
+          "scheduleNotApplicable": true
         },
         {
           "id": "cfab085a-cb57-4c0b-adbc-c1f5adc41c1a",
@@ -1257,7 +1276,8 @@
           "openingTime": "09:00",
           "closingTime": "16:30",
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "activity",
+          "visitMinutes": 60
         },
         {
           "id": "b71a074d-e00f-4830-9438-8c575044be1a",
@@ -1282,6 +1302,38 @@
           "kind": "activity"
         },
         {
+          "id": "016862a3-34bc-4f27-8ec5-1299f0080a0d",
+          "name": "Ferry JR Miyajima",
+          "address": "宮島口, 宮島口駅構内自由通路, 宮島口一丁目, Hatsukaichi, Prefectura de Hiroshima, 739-0411, Japón",
+          "note": "https://jr-miyajimaferry.co.jp/en/timetable | \nPillamos el ferry a Miyajima, tarda unos 10 mins | los ferris JR realizan el recorrido que pasa frente al gran torii, por lo que conviene colocarse en el lado derecho del barco mirando hacia delante.",
+          "tags": [
+            "obligatorio"
+          ],
+          "lat": 34.302373,
+          "lng": 132.321139,
+          "display_name": "宮島口, 宮島口駅構内自由通路, 宮島口一丁目, Hatsukaichi, Prefectura de Hiroshima, 739-0411, Japón",
+          "category": "transport",
+          "cost": 300,
+          "mapEnabled": true,
+          "kind": "waypoint"
+        },
+        {
+          "id": "88250417-ebb3-47a8-a713-14a55035848a",
+          "name": "Ferry Hiroshima",
+          "address": "宮島口, 宮島口駅構内自由通路, 宮島口一丁目, Hatsukaichi, Prefectura de Hiroshima, 739-0411, Japón",
+          "note": "Tarda nos 30 mins",
+          "tags": [
+            "obligatorio"
+          ],
+          "lat": 34.3123127,
+          "lng": 132.3029382,
+          "display_name": "宮島口, 宮島口駅構内自由通路, 宮島口一丁目, Hatsukaichi, Prefectura de Hiroshima, 739-0411, Japón",
+          "category": "transport",
+          "cost": 420,
+          "mapEnabled": true,
+          "kind": "waypoint"
+        },
+        {
           "id": "9cbc3e11-c132-41b0-b0a0-dc4f73f6f1ed",
           "name": "Miyajima →  Parque de la Paz",
           "address": "中島町, 中区, Hiroshima, Prefectura de Hiroshima, 730-0811, Japón",
@@ -1297,59 +1349,7 @@
           "cost": 2400,
           "closingTime": "17:15",
           "mapEnabled": true,
-          "kind": "activity"
-        },
-        {
-          "id": "5a56274d-469f-4489-89ea-3cd3b8fc6c35",
-          "name": "Santuario Shirakami",
-          "address": "中町, 中区, Hiroshima, Prefectura de Hiroshima, 730-0037, Japón",
-          "note": "Antiguo santuario sintoísta situado muy cerca del Parque de la Paz. A diferencia de muchas otras estructuras de la ciudad, este santuario es mucho más antiguo que la propia ciudad-castillo. De hecho, se dice que existía como el santuario guardián o ujigami de la aldea mucho antes de que se construyera el castillo de Hiroshima en el siglo XVI.",
-          "tags": [
-            "opcional"
-          ],
-          "lat": 34.390193,
-          "lng": 132.458258,
-          "display_name": "中町, 中区, Hiroshima, Prefectura de Hiroshima, 730-0037, Japón",
-          "category": "templos",
-          "openingTime": "09:00",
-          "closingTime": "16:00",
-          "mapEnabled": true,
-          "kind": "activity"
-        },
-        {
-          "id": "4a52ed6b-3405-4618-9537-fadbd4633500",
-          "name": "Castillo de Hiroshima",
-          "address": "Castillo Hiroshima, 1, 基町, 中区, Hiroshima, Prefectura de Hiroshima, 730-0011, Japón",
-          "note": "",
-          "tags": [
-            "opcional"
-          ],
-          "lat": 34.4021463,
-          "lng": 132.4595399,
-          "display_name": "Castillo Hiroshima, 1, 基町, 中区, Hiroshima, Prefectura de Hiroshima, 730-0011, Japón",
-          "category": "castillo",
-          "mapEnabled": true,
-          "openingTime": "09:00",
-          "closingTime": "16:30",
-          "kind": "activity"
-        },
-        {
-          "id": "ca15ccb0-2169-44ad-a994-3ca9220e60d6",
-          "name": "Jardines Shukkeien",
-          "address": "縮景園前, 上八丁堀, 中区, Hiroshima, Prefectura de Hiroshima, 730-0012, Japón",
-          "note": "Construidos originalmente en 1620 para el daimyo Asano Nagaakira, estos jardines son un magnífico ejemplo de un jardín de paseo del periodo Edo.",
-          "tags": [
-            "opcional",
-            "🍁"
-          ],
-          "lat": 34.3999189,
-          "lng": 132.4653106,
-          "display_name": "縮景園前, 上八丁堀, 中区, Hiroshima, Prefectura de Hiroshima, 730-0012, Japón",
-          "mapEnabled": true,
-          "cost": 350,
-          "openingTime": "09:00",
-          "closingTime": "16:30",
-          "kind": "activity"
+          "kind": "waypoint"
         },
         {
           "id": "b9478a49-87fc-42ea-ae42-e17640b20174",
@@ -1366,7 +1366,76 @@
           "openingTime": "00:00",
           "closingTime": "00:00",
           "mapEnabled": true,
-          "kind": "activity"
+          "kind": "waypoint"
+        },
+        {
+          "id": "5a56274d-469f-4489-89ea-3cd3b8fc6c35",
+          "name": "Santuario Shirakami",
+          "address": "中町, 中区, Hiroshima, Prefectura de Hiroshima, 730-0037, Japón",
+          "note": "Antiguo santuario sintoísta situado muy cerca del Parque de la Paz. A diferencia de muchas otras estructuras de la ciudad, este santuario es mucho más antiguo que la propia ciudad-castillo. De hecho, se dice que existía como el santuario guardián o ujigami de la aldea mucho antes de que se construyera el castillo de Hiroshima en el siglo XVI.",
+          "tags": [
+            "opcional"
+          ],
+          "lat": 34.390193,
+          "lng": 132.458258,
+          "display_name": "中町, 中区, Hiroshima, Prefectura de Hiroshima, 730-0037, Japón",
+          "category": "templos",
+          "openingTime": "09:00",
+          "closingTime": "16:00",
+          "mapEnabled": true,
+          "kind": "activity",
+          "visitMinutes": 30
+        },
+        {
+          "id": "75b1b813-4cab-458a-9a31-10a88b8376dc",
+          "name": "Pokemon center",
+          "address": "Pokémon Center, Naka Ward, Hiroshima, Prefectura de Hiroshima, 730-8501, Japón",
+          "note": "",
+          "tags": [],
+          "kind": "activity",
+          "visitMinutes": 45,
+          "openingTime": "10:00",
+          "closingTime": "20:00",
+          "mapEnabled": true,
+          "category": "zona-comercial",
+          "lat": 34.3959748,
+          "lng": 132.4568877
+        },
+        {
+          "id": "4a52ed6b-3405-4618-9537-fadbd4633500",
+          "name": "Castillo de Hiroshima",
+          "address": "Castillo Hiroshima, 1, 基町, 中区, Hiroshima, Prefectura de Hiroshima, 730-0011, Japón",
+          "note": "",
+          "tags": [
+            "opcional"
+          ],
+          "lat": 34.4021463,
+          "lng": 132.4595399,
+          "display_name": "Castillo Hiroshima, 1, 基町, 中区, Hiroshima, Prefectura de Hiroshima, 730-0011, Japón",
+          "category": "castillo",
+          "mapEnabled": true,
+          "openingTime": "09:00",
+          "closingTime": "16:30",
+          "kind": "waypoint"
+        },
+        {
+          "id": "ca15ccb0-2169-44ad-a994-3ca9220e60d6",
+          "name": "Jardines Shukkeien",
+          "address": "縮景園前, 上八丁堀, 中区, Hiroshima, Prefectura de Hiroshima, 730-0012, Japón",
+          "note": "NO DA TIEMPO, CIERRA A LAS 17h\n\nConstruidos originalmente en 1620 para el daimyo Asano Nagaakira, estos jardines son un magnífico ejemplo de un jardín de paseo del periodo Edo.",
+          "tags": [
+            "opcional",
+            "🍁"
+          ],
+          "lat": 34.3999189,
+          "lng": 132.4653106,
+          "display_name": "縮景園前, 上八丁堀, 中区, Hiroshima, Prefectura de Hiroshima, 730-0012, Japón",
+          "mapEnabled": false,
+          "cost": 350,
+          "openingTime": "09:00",
+          "closingTime": "16:30",
+          "kind": "activity",
+          "visitMinutes": 60
         },
         {
           "id": "22fe11a3-ecd2-442b-89f1-8b979af99ab4",
@@ -1382,7 +1451,7 @@
           "cost": 200,
           "openingTime": "07:30",
           "closingTime": "19:00",
-          "mapEnabled": true,
+          "mapEnabled": false,
           "category": "museum",
           "kind": "activity"
         },
@@ -1403,9 +1472,38 @@
           "openingTime": "00:00",
           "closingTime": "00:00",
           "kind": "activity"
+        },
+        {
+          "id": "5ab38919-f227-4e46-9351-f7c247245819",
+          "name": "Estación Hiroshima",
+          "address": "Hiroshima Station, Hiroshima Station Pedestrian Walkway, Enkobashicho, Minami Ward, Hiroshima, Prefectura de Hiroshima, 732-0823, Japón",
+          "note": "",
+          "tags": [
+            "reserva",
+            "obligatorio"
+          ],
+          "category": "transport",
+          "cost": 12000,
+          "mapEnabled": true,
+          "kind": "waypoint",
+          "lat": 34.3978256,
+          "lng": 132.4755766
+        },
+        {
+          "id": "c1f7f589-ea0d-4c49-9019-46e90af1008c",
+          "name": "Estacion Kyoto",
+          "address": "Kyoto Station, Shiokōji Street, Higashishiokojicho, Shimogyo Ward, Kioto, Prefectura de Kioto, 600-8216, Japón",
+          "note": "",
+          "tags": [],
+          "kind": "waypoint",
+          "category": "transport",
+          "mapEnabled": true,
+          "lat": 34.9869833,
+          "lng": 135.7586139,
+          "visitMinutes": 110
         }
       ],
-      "collapsed": true
+      "collapsed": false
     },
     {
       "id": "ab299886-4316-47ba-897e-176a37b6d35d",
@@ -2354,7 +2452,8 @@
           "kind": "waypoint",
           "lat": 35.69517147821717,
           "lng": 139.7564070134924,
-          "category": "hotel"
+          "category": "hotel",
+          "mapEnabled": true
         },
         {
           "id": "3d68fea3-bd82-47a5-9387-5906b6884125",
@@ -2364,7 +2463,8 @@
           "tags": [],
           "kind": "activity",
           "lat": 35.66334631079911,
-          "lng": 139.73094727420914
+          "lng": 139.73094727420914,
+          "mapEnabled": true
         },
         {
           "id": "def0fb33-1a18-4642-ace3-174d6c9be20d",
@@ -2374,7 +2474,8 @@
           "tags": [],
           "kind": "activity",
           "lat": 35.71010619317109,
-          "lng": 139.7971584632781
+          "lng": 139.7971584632781,
+          "mapEnabled": true
         },
         {
           "id": "34bc83bd-fd44-41bf-9f3a-2213618b8c83",
@@ -2384,7 +2485,8 @@
           "tags": [],
           "kind": "activity",
           "lat": 35.65805995381441,
-          "lng": 139.70244044730327
+          "lng": 139.70244044730327,
+          "mapEnabled": true
         },
         {
           "id": "03ee4d72-83ff-4d0a-b5d2-d5f5b0a7bda2",
@@ -2394,7 +2496,8 @@
           "tags": [],
           "kind": "activity",
           "lat": 35.67033411959984,
-          "lng": 139.70243401118046
+          "lng": 139.70243401118046,
+          "mapEnabled": true
         },
         {
           "id": "81cf70fe-28ca-4a0d-b967-bb1192d4a19e",
@@ -2404,7 +2507,8 @@
           "tags": [],
           "kind": "activity",
           "lat": 35.689586641255865,
-          "lng": 139.70063351011066
+          "lng": 139.70063351011066,
+          "mapEnabled": true
         }
       ],
       "collapsed": true
@@ -2422,7 +2526,8 @@
           "tags": [],
           "kind": "activity",
           "lat": 35.671842686465254,
-          "lng": 139.76498643974872
+          "lng": 139.76498643974872,
+          "mapEnabled": true
         },
         {
           "id": "0582b1a6-a7ba-4c78-bc8c-bc95b35027ef",
@@ -2432,7 +2537,8 @@
           "tags": [],
           "kind": "activity",
           "lat": 35.698635716768344,
-          "lng": 139.77422426118116
+          "lng": 139.77422426118116,
+          "mapEnabled": true
         },
         {
           "id": "baba8061-f2e4-41fa-b506-9186aa64ddca",
@@ -2442,7 +2548,8 @@
           "tags": [],
           "kind": "activity",
           "lat": 35.71427170645853,
-          "lng": 139.77857854079852
+          "lng": 139.77857854079852,
+          "mapEnabled": true
         }
       ],
       "collapsed": true
@@ -2681,7 +2788,8 @@
       "note": "",
       "tags": [],
       "kind": "activity",
-      "backlogGroupId": "f6e38b6f-eb8d-477e-bc2b-5ce4095d7516"
+      "backlogGroupId": "f6e38b6f-eb8d-477e-bc2b-5ce4095d7516",
+      "mapEnabled": true
     },
     {
       "id": "6ede7dd7-9c14-4906-b0f1-94e49be030c7",
@@ -2690,7 +2798,8 @@
       "note": "",
       "tags": [],
       "kind": "activity",
-      "backlogGroupId": "f6e38b6f-eb8d-477e-bc2b-5ce4095d7516"
+      "backlogGroupId": "f6e38b6f-eb8d-477e-bc2b-5ce4095d7516",
+      "mapEnabled": true
     },
     {
       "id": "bbeecb3c-9734-4a84-9229-8ebe78746e37",
@@ -2699,7 +2808,8 @@
       "note": "",
       "tags": [],
       "kind": "activity",
-      "backlogGroupId": "f6e38b6f-eb8d-477e-bc2b-5ce4095d7516"
+      "backlogGroupId": "f6e38b6f-eb8d-477e-bc2b-5ce4095d7516",
+      "mapEnabled": true
     },
     {
       "id": "504de4bf-fbda-44b9-b882-2ff0328601d3",
@@ -2708,7 +2818,8 @@
       "note": "",
       "tags": [],
       "kind": "activity",
-      "backlogGroupId": "f6e38b6f-eb8d-477e-bc2b-5ce4095d7516"
+      "backlogGroupId": "f6e38b6f-eb8d-477e-bc2b-5ce4095d7516",
+      "mapEnabled": true
     }
   ],
   "backlogGroups": [
@@ -2890,7 +3001,32 @@
     "64bdb65f-6f64-44d3-a7c2-239afda81080>59ae3841-565c-49b1-99b8-7b0803d9853d": {
       "mode": "train",
       "durationMinutes": 180
+    },
+    "c1f7f589-ea0d-4c49-9019-46e90af1008c>5d2f959c-13b4-4bb7-b040-dada1e203722": {
+      "mode": "train",
+      "durationMinutes": 110
+    },
+    "8fe2f624-e7b0-41ae-b8ea-b782cf84d51f>254d80ed-3d43-410c-a29d-fb9608eacf02": {
+      "mode": "ferry",
+      "durationMinutes": 30
+    },
+    "5d2f959c-13b4-4bb7-b040-dada1e203722>8fe2f624-e7b0-41ae-b8ea-b782cf84d51f": {
+      "mode": "train",
+      "durationMinutes": 30
+    },
+    "88250417-ebb3-47a8-a713-14a55035848a>9cbc3e11-c132-41b0-b0a0-dc4f73f6f1ed": {
+      "mode": "ferry",
+      "durationMinutes": 45
+    },
+    "9c93f7fb-cdf6-4e9f-9e37-e9cb1c041ba4>5d2f959c-13b4-4bb7-b040-dada1e203722": {
+      "mode": "train",
+      "durationMinutes": 110
+    },
+    "5ab38919-f227-4e46-9351-f7c247245819>c1f7f589-ea0d-4c49-9019-46e90af1008c": {
+      "mode": "train",
+      "durationMinutes": 110
     }
   },
-  "exportedAt": "2026-08-17T22:37:32.465Z"
+  "reminders": [],
+  "exportedAt": "2026-08-18T16:47:02.244Z"
 }
