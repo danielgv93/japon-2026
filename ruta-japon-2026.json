@@ -879,7 +879,7 @@
           "id": "ab3e1716-3404-477f-ba82-d47a6dc7331e",
           "name": "Templo Daitoku-ji *** Reservar",
           "address": "Daitokuji, 北大路通, 紫野東野町, 馬喰町, 北区, Kioto, Prefectura de Kioto, 603-8214, Japón",
-          "note": "Importante habria que reservar **** | Habria que saber a que templo queremos ir. | \nŌbai-in(apertura especial de otoño) y Kōrin-in (jardin zen) muy bonitos por el momiji.\nEl precio y horario depende del templo",
+          "note": "Importante habria que reservar **** | Habria que saber a que templo queremos ir. | \nŌbai-in(apertura especial de otoño) y Kōrin-in (jardin zen) muy bonitos por el momiji.\n\nEl precio y horario depende del templo\n\nNo dejan grabar en el templo Daisen-in. Te sigue el monje para que no grabes",
           "tags": [
             "comida",
             "opcional",
@@ -3069,7 +3069,16 @@
           "type": "spot"
         }
       }
+    },
+    {
+      "id": "a8b1b54d-7f84-4735-98dd-a88a4f3091f6",
+      "title": "Reservar espectáculo",
+      "spotId": "b32f43a6-75aa-42ad-a73f-413578a62ad2",
+      "timing": {
+        "type": "fixed",
+        "date": "2026-09-01"
+      }
     }
   ],
-  "exportedAt": "2026-08-21T22:09:18.278Z"
+  "exportedAt": "2026-08-21T22:25:38.612Z"
 }
