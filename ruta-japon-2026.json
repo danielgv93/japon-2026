@@ -2501,7 +2501,7 @@
           "lat": 35.6326586,
           "lng": 139.8814172,
           "category": "parque-de-atracciones",
-          "cost": 9.9,
+          "cost": 9900,
           "visitMinutes": 720,
           "openingTime": "09:00",
           "closingTime": "21:00",
@@ -3071,5 +3071,5 @@
       }
     }
   ],
-  "exportedAt": "2026-08-21T22:08:46.783Z"
+  "exportedAt": "2026-08-21T22:09:18.278Z"
 }
