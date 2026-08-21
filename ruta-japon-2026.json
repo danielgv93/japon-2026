@@ -3,8 +3,8 @@
   "tripTitle": "Japón 2026",
   "localCurrency": "EUR",
   "foreignCurrency": "JPY",
-  "exchangeRate": 0.00548,
-  "exchangeRateDate": "2026-08-07",
+  "exchangeRate": 0.00539,
+  "exchangeRateDate": "2026-08-20",
   "tripNotePages": [
     {
       "id": "notes-general",
@@ -14,7 +14,7 @@
     {
       "id": "2cc67488-727d-4a6b-915c-e3dd9cd53963",
       "title": "Reservas",
-      "content": "# Reservas Japón 2026\n## 🔴 Agosto 2026\n\n#### Universal Studios Japan\n\n📅 Visita: 26 de noviembre\n🎟 Comprar: a partir del 26 de agosto aprox.\n⏰ Antelación: 3 meses\nComprar Studio Pass.\nSi queremos Express Pass, comprarlo cuanto antes, especialmente si queremos acceso/horarios buenos para Super Nintendo World.\n🔴 Prioridad muy alta\n\n#### Nintendo Museum\n\n📅 Visita prevista: 25 de noviembre\n🎟 Solicitud del sorteo: antes del 31 de agosto de 2026\n⏰ Cierre: 31 de agosto a las 23:59 JST / 16:59 España\n📢 Resultado: 1 de septiembre\n💳 Si conseguimos entrada, pagar antes del 7 de septiembre.\n🔴 Prioridad muy alta\n\n#### Miyajima Ropeway / Monte Misen\n\n📅 Visita: 27 de noviembre\n🔎 Comprobar desde: 27 de agosto\n⏰ La reserva puede abrir aproximadamente 3 meses antes.\nSolo reservar si finalmente subimos al Misen y/o el 27 de noviembre está marcado como día de reserva anticipada.\n🟠 Pendiente de decidir si subimos\n\n## 🟠 Septiembre 2026\n\n#### Gion Corner\n\n📅 Visita: 25 de noviembre a las 18:00\n🔎 Empezar a comprobar: principios de septiembre\nComprar en cuanto aparezcan disponibles las entradas de noviembre.\nNos interesa específicamente el pase de 18:00.\n🔴 Prioridad alta\n\n#### Wagyu Ryotei Bungo – Gion\n\n📅 Cena: 25 de noviembre\n🎟 Reservar: septiembre / principios de octubre\n⏰ Recomendación: 1-2 meses antes\nIntentar cuadrarlo después de Gion Corner.\n🟠 Prioridad alta\n\n## Octubre 2026\n#### 🎢 Disney\n\nTokyo Disneyland / Tokyo DisneySea\n\n🎟 Las entradas salen aproximadamente 2 meses antes.\nComprar el mismo día que se abra nuestra fecha, sobre todo al coincidir con Disney Christmas.\n🔴 Prioridad alta"
+      "content": "# Reservas Japón 2026\n## 🔴 Agosto 2026\n\n#### Universal Studios Japan\n\n📅 Visita: 26 de noviembre\n🎟 Comprar: a partir del 26 de agosto aprox.\n⏰ Antelación: 3 meses\nComprar Studio Pass.\nSi queremos Express Pass, comprarlo cuanto antes, especialmente si queremos acceso/horarios buenos para Super Nintendo World.\n🔴 Prioridad muy alta\n\n#### Nintendo Museum\n\n📅 Visita prevista: 25 de noviembre\n🎟 Solicitud del sorteo: antes del 31 de agosto de 2026\n⏰ Cierre: 31 de agosto a las 23:59 JST / 16:59 España\n📢 Resultado: 1 de septiembre\n💳 Si conseguimos entrada, pagar antes del 7 de septiembre.\n🔴 Prioridad muy alta\n\n## 🟠 Septiembre 2026\n\n#### Gion Corner\n\n📅 Visita: 25 de noviembre a las 18:00\n🔎 Empezar a comprobar: principios de septiembre\nComprar en cuanto aparezcan disponibles las entradas de noviembre.\nNos interesa específicamente el pase de 18:00.\n🔴 Prioridad alta\n\n#### Wagyu Ryotei Bungo – Gion\n\n📅 Cena: 25 de noviembre\n🎟 Reservar: septiembre / principios de octubre\n⏰ Recomendación: 1-2 meses antes\nIntentar cuadrarlo después de Gion Corner.\n🟠 Prioridad alta\n\n## Octubre 2026\n#### 🎢 Disney\n\nTokyo Disneyland / Tokyo DisneySea\n\n🎟 Las entradas salen aproximadamente 2 meses antes.\nComprar el mismo día que se abra nuestra fecha, sobre todo al coincidir con Disney Christmas.\n🔴 Prioridad alta"
     }
   ],
   "days": [
@@ -213,7 +213,7 @@
           "scheduleNotApplicable": true
         }
       ],
-      "collapsed": true
+      "collapsed": false
     },
     {
       "id": "14582a10-aa00-4c59-8eff-de542f4375bd",
@@ -987,7 +987,7 @@
           "plannedStart": "19:47"
         }
       ],
-      "collapsed": true
+      "collapsed": false
     },
     {
       "id": "274b7a75-f0a2-46cd-be0e-bef03a6a478f",
@@ -1070,7 +1070,7 @@
           "closingTime": "22:00"
         }
       ],
-      "collapsed": true
+      "collapsed": false
     },
     {
       "id": "08a18522-efc2-435a-ae8a-c5bb0d71e654",
@@ -1503,7 +1503,7 @@
           "visitMinutes": 110
         }
       ],
-      "collapsed": false
+      "collapsed": true
     },
     {
       "id": "ab299886-4316-47ba-897e-176a37b6d35d",
@@ -2441,6 +2441,78 @@
     {
       "id": "5e1de95b-d95c-4444-97d2-ca9368d0aaff",
       "date": "2026-12-02",
+      "title": "Chichibu (Excursion Tokyo)",
+      "spots": [],
+      "collapsed": true
+    },
+    {
+      "id": "c73be9fd-911a-42dd-a138-837405c9d7cc",
+      "date": "2026-12-03",
+      "title": "Nikko (Excursion Tokyo)",
+      "spots": [
+        {
+          "id": "f4972b1e-eba7-4091-8b91-fe1787740ebc",
+          "name": "Ginza",
+          "address": "35.671842686465254, 139.76498643974872",
+          "note": "",
+          "tags": [],
+          "kind": "activity",
+          "lat": 35.671842686465254,
+          "lng": 139.76498643974872,
+          "mapEnabled": true
+        },
+        {
+          "id": "0582b1a6-a7ba-4c78-bc8c-bc95b35027ef",
+          "name": "Akihabara",
+          "address": "35.698635716768344, 139.77422426118116",
+          "note": "",
+          "tags": [],
+          "kind": "activity",
+          "lat": 35.698635716768344,
+          "lng": 139.77422426118116,
+          "mapEnabled": true
+        },
+        {
+          "id": "baba8061-f2e4-41fa-b506-9186aa64ddca",
+          "name": "Ueno",
+          "address": "35.71427170645853, 139.77857854079852",
+          "note": "",
+          "tags": [],
+          "kind": "activity",
+          "lat": 35.71427170645853,
+          "lng": 139.77857854079852,
+          "mapEnabled": true
+        }
+      ],
+      "collapsed": true
+    },
+    {
+      "id": "171891fd-d229-4890-a074-889bdaa07931",
+      "date": "2026-12-04",
+      "title": "Tokyo/Disney",
+      "spots": [
+        {
+          "id": "8ba8234a-9af1-4a30-9903-491192474a2a",
+          "name": "Tokyo Disney",
+          "address": "Tokyo Disneyland, Maihama, Urayasu, Prefectura de Chiba, 279-0031, Japón",
+          "note": "",
+          "tags": [],
+          "kind": "activity",
+          "lat": 35.6326586,
+          "lng": 139.8814172,
+          "category": "parque-de-atracciones",
+          "cost": 9.9,
+          "visitMinutes": 720,
+          "openingTime": "09:00",
+          "closingTime": "21:00",
+          "plannedStart": "09:00"
+        }
+      ],
+      "collapsed": false
+    },
+    {
+      "id": "e8131210-87ee-4041-9c4c-e9b264a11415",
+      "date": "2026-12-05",
       "title": "Tokyo",
       "spots": [
         {
@@ -2514,68 +2586,15 @@
       "collapsed": true
     },
     {
-      "id": "c73be9fd-911a-42dd-a138-837405c9d7cc",
-      "date": "2026-12-03",
-      "title": "Tokyo",
-      "spots": [
-        {
-          "id": "f4972b1e-eba7-4091-8b91-fe1787740ebc",
-          "name": "Ginza",
-          "address": "35.671842686465254, 139.76498643974872",
-          "note": "",
-          "tags": [],
-          "kind": "activity",
-          "lat": 35.671842686465254,
-          "lng": 139.76498643974872,
-          "mapEnabled": true
-        },
-        {
-          "id": "0582b1a6-a7ba-4c78-bc8c-bc95b35027ef",
-          "name": "Akihabara",
-          "address": "35.698635716768344, 139.77422426118116",
-          "note": "",
-          "tags": [],
-          "kind": "activity",
-          "lat": 35.698635716768344,
-          "lng": 139.77422426118116,
-          "mapEnabled": true
-        },
-        {
-          "id": "baba8061-f2e4-41fa-b506-9186aa64ddca",
-          "name": "Ueno",
-          "address": "35.71427170645853, 139.77857854079852",
-          "note": "",
-          "tags": [],
-          "kind": "activity",
-          "lat": 35.71427170645853,
-          "lng": 139.77857854079852,
-          "mapEnabled": true
-        }
-      ],
-      "collapsed": true
-    },
-    {
-      "id": "e8131210-87ee-4041-9c4c-e9b264a11415",
-      "date": "2026-12-04",
-      "title": "Tokyo",
-      "spots": []
-    },
-    {
-      "id": "171891fd-d229-4890-a074-889bdaa07931",
-      "date": "2026-12-05",
-      "title": "Tokyo/Disney",
-      "spots": []
-    },
-    {
       "id": "3aa6c815-48c4-4bcf-8e55-a4de0b8a7b4b",
       "date": "2026-12-06",
-      "title": "Tokyo excursion",
+      "title": "Tokyo Akihabara",
       "spots": []
     },
     {
       "id": "98ea5939-95a2-4f57-abac-a669f7f5348e",
       "date": "2026-12-07",
-      "title": "Tokyo excursion",
+      "title": "Tokyo",
       "spots": []
     }
   ],
@@ -2789,7 +2808,7 @@
       "tags": [],
       "kind": "activity",
       "backlogGroupId": "f6e38b6f-eb8d-477e-bc2b-5ce4095d7516",
-      "mapEnabled": true
+      "mapEnabled": false
     },
     {
       "id": "6ede7dd7-9c14-4906-b0f1-94e49be030c7",
@@ -2809,7 +2828,7 @@
       "tags": [],
       "kind": "activity",
       "backlogGroupId": "f6e38b6f-eb8d-477e-bc2b-5ce4095d7516",
-      "mapEnabled": true
+      "mapEnabled": false
     },
     {
       "id": "504de4bf-fbda-44b9-b882-2ff0328601d3",
@@ -2820,13 +2839,23 @@
       "kind": "activity",
       "backlogGroupId": "f6e38b6f-eb8d-477e-bc2b-5ce4095d7516",
       "mapEnabled": true
+    },
+    {
+      "id": "b0a63adb-31cf-4053-b105-9a7c23375b8a",
+      "name": "Kawaguchiko",
+      "address": "",
+      "note": "",
+      "tags": [],
+      "kind": "activity",
+      "backlogGroupId": "f6e38b6f-eb8d-477e-bc2b-5ce4095d7516",
+      "mapEnabled": false
     }
   ],
   "backlogGroups": [
     {
       "id": "f6e38b6f-eb8d-477e-bc2b-5ce4095d7516",
       "title": "Tokyo",
-      "collapsed": true
+      "collapsed": false
     },
     {
       "id": "1b24d956-6325-498b-84ba-ea72ee081dbd",
@@ -3027,6 +3056,20 @@
       "durationMinutes": 110
     }
   },
-  "reminders": [],
-  "exportedAt": "2026-08-18T16:47:02.244Z"
+  "reminders": [
+    {
+      "id": "b0b91381-8038-4b18-85b7-02aa307e96b8",
+      "title": "Comprar entradas",
+      "spotId": "8ba8234a-9af1-4a30-9903-491192474a2a",
+      "timing": {
+        "type": "offset",
+        "amount": 2,
+        "unit": "months",
+        "anchor": {
+          "type": "spot"
+        }
+      }
+    }
+  ],
+  "exportedAt": "2026-08-21T22:08:46.783Z"
 }
